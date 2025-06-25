@@ -50,7 +50,7 @@ const Index = () => {
                 German Separable Verbs
               </h1>
               <p className="text-gray-600">
-                Master German separable verbs with translations, key points, and examples
+                Master German separable verbs with translations, key points, and examples (AI)
               </p>
             </div>
             <Button 
