@@ -11,12 +11,16 @@ export interface VerbGroup {
   verbs: GermanVerb[];
 }
 
-// Import additional verb groups
+// Import all verb categories
 import { additionalVerbGroups } from './germanVerbsExtension';
 import { additionalVerbGroups2 } from './germanVerbsExtension2';
 import { additionalVerbGroups3 } from './germanVerbsExtension3';
+import { germanNonSeparableVerbs } from './germanNonSeparableVerbs';
+import { germanModalVerbs } from './germanModalVerbs';
+import { germanIrregularVerbs } from './germanIrregularVerbs';
+import { germanReflexiveVerbs } from './germanReflexiveVerbs';
 
-// Original verb groups that were already in the file
+// Original separable verb groups that were already in the file
 const originalVerbGroups: VerbGroup[] = [
   {
     prefix: "heim",
@@ -425,10 +429,14 @@ const originalVerbGroups: VerbGroup[] = [
   }
 ];
 
-// Combine all verb groups
+// Combine ALL verb categories - comprehensive B2 level German verb database
 export const germanSeparableVerbs: VerbGroup[] = [
   ...originalVerbGroups,
   ...additionalVerbGroups,
   ...additionalVerbGroups2,
-  ...additionalVerbGroups3
+  ...additionalVerbGroups3,
+  ...germanNonSeparableVerbs,
+  ...germanModalVerbs,
+  ...germanIrregularVerbs,
+  ...germanReflexiveVerbs
 ];
