@@ -1991,6 +1991,816 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Er hat zugeschlagen. (He struck.)",
         ],
       },
+      {
+        verb: "ausschlagen",
+        translation: "to kick out, to refuse",
+        keyPoint:
+          "Strong verb (schlage aus, schlägst aus, schlug aus, ausgeschlagen)",
+        examples: [
+          "Das Pferd schlägt aus. (The horse kicks out.)",
+          "Er hat das Angebot ausgeschlagen. (He refused the offer.)",
+        ],
+      },
+      {
+        verb: "niederschlagen",
+        translation: "to strike down, to suppress",
+        keyPoint:
+          "Strong verb (schlage nieder, schlägst nieder, schlug nieder, niedergeschlagen)",
+        examples: [
+          "Sie schlugen den Aufstand nieder. (They suppressed the uprising.)",
+          "Die Nachricht hat ihn niedergeschlagen. (The news depressed him.)",
+        ],
+      },
+      {
+        verb: "durchschlagen",
+        translation: "to break through, to succeed",
+        keyPoint:
+          "Strong verb (schlage durch, schlägst durch, schlug durch, durchgeschlagen)",
+        examples: [
+          "Der Plan schlägt durch. (The plan succeeds.)",
+          "Er ist durchgeschlagen. (He has broken through.)",
+        ],
+      },
+      {
+        verb: "umschlagen",
+        translation: "to turn over, to change suddenly",
+        keyPoint:
+          "Strong verb (schlage um, schlägst um, schlug um, umgeschlagen)",
+        examples: [
+          "Das Wetter schlägt um. (The weather changes suddenly.)",
+          "Die Stimmung ist umgeschlagen. (The mood has changed.)",
+        ],
+      },
+      {
+        verb: "abbeißen",
+        translation: "to bite off",
+        keyPoint: "Strong verb (beiße ab, beißt ab, biss ab, abgebissen)",
+        examples: [
+          "Der Hund beißt ab. (The dog bites off.)",
+          "Er hat ein Stück abgebissen. (He has bitten off a piece.)",
+        ],
+      },
+      {
+        verb: "durchbeißen",
+        translation: "to bite through, to persevere",
+        keyPoint:
+          "Strong verb (beiße durch, beißt durch, biss durch, durchgebissen)",
+        examples: [
+          "Ich beiße mich durch. (I persevere.)",
+          "Er hat sich durchgebissen. (He has persevered.)",
+        ],
+      },
+      {
+        verb: "zubeißen",
+        translation: "to bite down",
+        keyPoint: "Strong verb (beiße zu, beißt zu, biss zu, zugebissen)",
+        examples: [
+          "Der Hund beißt zu. (The dog bites down.)",
+          "Sie hat zugebissen. (She has bitten down.)",
+        ],
+      },
+      {
+        verb: "aufbrechen",
+        translation: "to break open, to set off",
+        keyPoint:
+          "Strong verb (breche auf, brichst auf, brach auf, aufgebrochen)",
+        examples: [
+          "Wir brechen früh auf. (We set off early.)",
+          "Die Tür ist aufgebrochen. (The door has been broken open.)",
+        ],
+      },
+      {
+        verb: "durchbrechen",
+        translation: "to break through",
+        keyPoint:
+          "Strong verb (breche durch, brichst durch, brach durch, durchgebrochen)",
+        examples: [
+          "Die Sonne bricht durch. (The sun breaks through.)",
+          "Er hat die Barriere durchbrochen. (He has broken through the barrier.)",
+        ],
+      },
+      {
+        verb: "niederbrechen",
+        translation: "to break down, to collapse",
+        keyPoint:
+          "Strong verb (breche nieder, brichst nieder, brach nieder, niedergebrochen)",
+        examples: [
+          "Das Gebäude bricht nieder. (The building collapses.)",
+          "Seine Kräfte sind niedergebrochen. (His strength has collapsed.)",
+        ],
+      },
+      {
+        verb: "wegbrechen",
+        translation: "to break away",
+        keyPoint:
+          "Strong verb (breche weg, brichst weg, brach weg, weggebrochen)",
+        examples: [
+          "Der Rand bricht weg. (The edge breaks away.)",
+          "Ein Stück ist weggebrochen. (A piece has broken away.)",
+        ],
+      },
+      {
+        verb: "einbrechen",
+        translation: "to break in, to burglarize",
+        keyPoint:
+          "Strong verb (breche ein, brichst ein, brach ein, eingebrochen)",
+        examples: [
+          "Diebe brechen ein. (Thieves break in.)",
+          "Das Eis ist eingebrochen. (The ice has broken through.)",
+        ],
+      },
+      {
+        verb: "losbrechen",
+        translation: "to break loose",
+        keyPoint:
+          "Strong verb (breche los, brichst los, brach los, losgebrochen)",
+        examples: [
+          "Der Sturm bricht los. (The storm breaks loose.)",
+          "Die Hölle ist losgebrochen. (Hell has broken loose.)",
+        ],
+      },
+      {
+        verb: "hervorbrechen",
+        translation: "to burst forth",
+        keyPoint:
+          "Strong verb (breche hervor, brichst hervor, brach hervor, hervorgebrochen)",
+        examples: [
+          "Tränen brechen hervor. (Tears burst forth.)",
+          "Lava ist hervorgebrochen. (Lava has burst forth.)",
+        ],
+      },
+      {
+        verb: "zusammenbrechen",
+        translation: "to collapse",
+        keyPoint:
+          "Strong verb (breche zusammen, brichst zusammen, brach zusammen, zusammengebrochen)",
+        examples: [
+          "Er bricht zusammen. (He collapses.)",
+          "Das System ist zusammengebrochen. (The system has collapsed.)",
+        ],
+      },
+      {
+        verb: "abschieben",
+        translation: "to deport, to push off",
+        keyPoint:
+          "Strong verb (schiebe ab, schiebst ab, schob ab, abgeschoben)",
+        examples: [
+          "Sie schieben ihn ab. (They deport him.)",
+          "Er wurde abgeschoben. (He was deported.)",
+        ],
+      },
+      {
+        verb: "verschieben",
+        translation: "to postpone, to move",
+        keyPoint: "Strong verb (verschiebe, verschiebst, verschob, verschoben)",
+        examples: [
+          "Wir verschieben das Treffen. (We postpone the meeting.)",
+          "Der Termin wurde verschoben. (The appointment was postponed.)",
+        ],
+      },
+      {
+        verb: "hinschieben",
+        translation: "to push toward",
+        keyPoint:
+          "Strong verb (schiebe hin, schiebst hin, schob hin, hingeschoben)",
+        examples: [
+          "Er schiebt das Problem hin. (He pushes the problem aside.)",
+          "Es wurde hingeschoben. (It was pushed aside.)",
+        ],
+      },
+      {
+        verb: "aufschieben",
+        translation: "to postpone",
+        keyPoint:
+          "Strong verb (schiebe auf, schiebst auf, schob auf, aufgeschoben)",
+        examples: [
+          "Ich schiebe es auf. (I postpone it.)",
+          "Die Entscheidung wurde aufgeschoben. (The decision was postponed.)",
+        ],
+      },
+      {
+        verb: "unterschieben",
+        translation: "to substitute secretly",
+        keyPoint:
+          "Strong verb (schiebe unter, schiebst unter, schob unter, untergeschoben)",
+        examples: [
+          "Er schiebt falsche Dokumente unter. (He secretly substitutes false documents.)",
+          "Ihm wurde etwas untergeschoben. (Something was planted on him.)",
+        ],
+      },
+      {
+        verb: "überschieben",
+        translation: "to push over",
+        keyPoint:
+          "Strong verb (schiebe über, schiebst über, schob über, übergeschoben)",
+        examples: [
+          "Sie schiebt die Schuld über. (She pushes the blame over.)",
+          "Es wurde übergeschoben. (It was pushed over.)",
+        ],
+      },
+      {
+        verb: "durchschieben",
+        translation: "to push through",
+        keyPoint:
+          "Strong verb (schiebe durch, schiebst durch, schob durch, durchgeschoben)",
+        examples: [
+          "Er schiebt das Gesetz durch. (He pushes the law through.)",
+          "Es wurde durchgeschoben. (It was pushed through.)",
+        ],
+      },
+      {
+        verb: "hereinschieben",
+        translation: "to push in",
+        keyPoint:
+          "Strong verb (schiebe herein, schiebst herein, schob herein, hereingeschoben)",
+        examples: [
+          "Sie schiebt ihn herein. (She pushes him in.)",
+          "Er wurde hereingeschoben. (He was pushed in.)",
+        ],
+      },
+      {
+        verb: "hinausschieben",
+        translation: "to push out",
+        keyPoint:
+          "Strong verb (schiebe hinaus, schiebst hinaus, schob hinaus, hinausgeschoben)",
+        examples: [
+          "Er schiebt den Termin hinaus. (He pushes the deadline out.)",
+          "Es wurde hinausgeschoben. (It was pushed out.)",
+        ],
+      },
+      {
+        verb: "beiseiteschieben",
+        translation: "to push aside",
+        keyPoint:
+          "Strong verb (schiebe beiseite, schiebst beiseite, schob beiseite, beiseitegeschoben)",
+        examples: [
+          "Sie schiebt die Bedenken beiseite. (She pushes the concerns aside.)",
+          "Es wurde beiseitegeschoben. (It was pushed aside.)",
+        ],
+      },
+      {
+        verb: "hinüberschieben",
+        translation: "to push across",
+        keyPoint:
+          "Strong verb (schiebe hinüber, schiebst hinüber, schob hinüber, hinübergeschoben)",
+        examples: [
+          "Er schiebt das Geld hinüber. (He pushes the money across.)",
+          "Es wurde hinübergeschoben. (It was pushed across.)",
+        ],
+      },
+      {
+        verb: "herausziehen",
+        translation: "to pull out",
+        keyPoint:
+          "Strong verb (ziehe heraus, ziehst heraus, zog heraus, herausgezogen)",
+        examples: [
+          "Ich ziehe den Nagel heraus. (I pull out the nail.)",
+          "Er hat ihn herausgezogen. (He has pulled him out.)",
+        ],
+      },
+      {
+        verb: "hineinziehen",
+        translation: "to pull in",
+        keyPoint:
+          "Strong verb (ziehe hinein, ziehst hinein, zog hinein, hineingezogen)",
+        examples: [
+          "Sie zieht ihn hinein. (She pulls him in.)",
+          "Er wurde hineingezogen. (He was pulled in.)",
+        ],
+      },
+      {
+        verb: "vorziehen",
+        translation: "to prefer, to pull forward",
+        keyPoint: "Strong verb (ziehe vor, ziehst vor, zog vor, vorgezogen)",
+        examples: [
+          "Ich ziehe Kaffee vor. (I prefer coffee.)",
+          "Der Termin wurde vorgezogen. (The appointment was moved forward.)",
+        ],
+      },
+      {
+        verb: "nachziehen",
+        translation: "to follow, to tighten",
+        keyPoint:
+          "Strong verb (ziehe nach, ziehst nach, zog nach, nachgezogen)",
+        examples: [
+          "Ich ziehe nach München. (I follow to Munich.)",
+          "Die Schraube wurde nachgezogen. (The screw was tightened.)",
+        ],
+      },
+      {
+        verb: "durchziehen",
+        translation: "to pull through, to carry out",
+        keyPoint:
+          "Strong verb (ziehe durch, ziehst durch, zog durch, durchgezogen)",
+        examples: [
+          "Ich ziehe das Projekt durch. (I carry out the project.)",
+          "Er hat es durchgezogen. (He has carried it through.)",
+        ],
+      },
+      {
+        verb: "wegziehen",
+        translation: "to move away",
+        keyPoint: "Strong verb (ziehe weg, ziehst weg, zog weg, weggezogen)",
+        examples: [
+          "Wir ziehen weg. (We move away.)",
+          "Sie sind weggezogen. (They have moved away.)",
+        ],
+      },
+      {
+        verb: "umziehen",
+        translation: "to move house, to change clothes",
+        keyPoint: "Strong verb (ziehe um, ziehst um, zog um, umgezogen)",
+        examples: [
+          "Ich ziehe um. (I move house.)",
+          "Sie hat sich umgezogen. (She has changed clothes.)",
+        ],
+      },
+      {
+        verb: "überziehen",
+        translation: "to overdraw, to cover",
+        keyPoint: "Strong verb (überziehe, überziehst, überzog, überzogen)",
+        examples: [
+          "Ich überziehe mein Konto. (I overdraw my account.)",
+          "Das Bett wurde überzogen. (The bed was covered.)",
+        ],
+      },
+      {
+        verb: "unterziehen",
+        translation: "to undergo",
+        keyPoint: "Strong verb (unterziehe, unterziehst, unterzog, unterzogen)",
+        examples: [
+          "Ich unterziehe mich einer Operation. (I undergo an operation.)",
+          "Er wurde einer Prüfung unterzogen. (He was subjected to an examination.)",
+        ],
+      },
+      {
+        verb: "zuziehen",
+        translation: "to pull closed, to move to",
+        keyPoint: "Strong verb (ziehe zu, ziehst zu, zog zu, zugezogen)",
+        examples: [
+          "Ich ziehe die Vorhänge zu. (I pull the curtains closed.)",
+          "Viele sind zugezogen. (Many have moved here.)",
+        ],
+      },
+      {
+        verb: "fortziehen",
+        translation: "to move away",
+        keyPoint:
+          "Strong verb (ziehe fort, ziehst fort, zog fort, fortgezogen)",
+        examples: [
+          "Sie ziehen fort. (They move away.)",
+          "Die Familie ist fortgezogen. (The family has moved away.)",
+        ],
+      },
+      {
+        verb: "aufziehen",
+        translation: "to wind up, to raise",
+        keyPoint: "Strong verb (ziehe auf, ziehst auf, zog auf, aufgezogen)",
+        examples: [
+          "Ich ziehe die Uhr auf. (I wind up the watch.)",
+          "Sie hat die Kinder aufgezogen. (She raised the children.)",
+        ],
+      },
+      {
+        verb: "einziehen",
+        translation: "to move in, to draft",
+        keyPoint: "Strong verb (ziehe ein, ziehst ein, zog ein, eingezogen)",
+        examples: [
+          "Wir ziehen ein. (We move in.)",
+          "Er wurde eingezogen. (He was drafted.)",
+        ],
+      },
+      {
+        verb: "ausziehen",
+        translation: "to move out, to undress",
+        keyPoint: "Strong verb (ziehe aus, ziehst aus, zog aus, ausgezogen)",
+        examples: [
+          "Sie ziehen aus. (They move out.)",
+          "Er hat sich ausgezogen. (He has undressed.)",
+        ],
+      },
+      {
+        verb: "hinüberziehen",
+        translation: "to pull across",
+        keyPoint:
+          "Strong verb (ziehe hinüber, ziehst hinüber, zog hinüber, hinübergezogen)",
+        examples: [
+          "Sie ziehen hinüber. (They move across.)",
+          "Das Seil wurde hinübergezogen. (The rope was pulled across.)",
+        ],
+      },
+      {
+        verb: "herüberziehen",
+        translation: "to pull over",
+        keyPoint:
+          "Strong verb (ziehe herüber, ziehst herüber, zog herüber, herübergezogen)",
+        examples: [
+          "Er zieht herüber. (He moves over.)",
+          "Es wurde herübergezogen. (It was pulled over.)",
+        ],
+      },
+      {
+        verb: "hinaufziehen",
+        translation: "to pull up",
+        keyPoint:
+          "Strong verb (ziehe hinauf, ziehst hinauf, zog hinauf, hinaufgezogen)",
+        examples: [
+          "Sie ziehen hinauf. (They move up.)",
+          "Das Seil wurde hinaufgezogen. (The rope was pulled up.)",
+        ],
+      },
+      {
+        verb: "herunterziehen",
+        translation: "to pull down",
+        keyPoint:
+          "Strong verb (ziehe herunter, ziehst herunter, zog herunter, heruntergezogen)",
+        examples: [
+          "Ich ziehe die Jalousie herunter. (I pull down the blinds.)",
+          "Er wurde heruntergezogen. (He was pulled down.)",
+        ],
+      },
+      {
+        verb: "hinunterziehen",
+        translation: "to pull down",
+        keyPoint:
+          "Strong verb (ziehe hinunter, ziehst hinunter, zog hinunter, hinuntergezogen)",
+        examples: [
+          "Das Gewicht zieht hinunter. (The weight pulls down.)",
+          "Es wurde hinuntergezogen. (It was pulled down.)",
+        ],
+      },
+      {
+        verb: "heraufziehen",
+        translation: "to pull up",
+        keyPoint:
+          "Strong verb (ziehe herauf, ziehst herauf, zog herauf, heraufgezogen)",
+        examples: [
+          "Unwetter ziehen herauf. (Storms are approaching.)",
+          "Es wurde heraufgezogen. (It was pulled up.)",
+        ],
+      },
+      {
+        verb: "abbiegen",
+        translation: "to turn off",
+        keyPoint: "Strong verb (biege ab, biegst ab, bog ab, abgebogen)",
+        examples: [
+          "Ich biege links ab. (I turn left.)",
+          "Das Auto ist abgebogen. (The car has turned off.)",
+        ],
+      },
+      {
+        verb: "umbiegen",
+        translation: "to bend over",
+        keyPoint: "Strong verb (biege um, biegst um, bog um, umgebogen)",
+        examples: [
+          "Ich biege den Draht um. (I bend the wire over.)",
+          "Es wurde umgebogen. (It was bent over.)",
+        ],
+      },
+      {
+        verb: "aufbiegen",
+        translation: "to bend up/open",
+        keyPoint: "Strong verb (biege auf, biegst auf, bog auf, aufgebogen)",
+        examples: [
+          "Er biegt die Klammer auf. (He bends the clip open.)",
+          "Es wurde aufgebogen. (It was bent open.)",
+        ],
+      },
+      {
+        verb: "zubiegen",
+        translation: "to bend closed",
+        keyPoint: "Strong verb (biege zu, biegst zu, bog zu, zugebogen)",
+        examples: [
+          "Ich biege das Metall zu. (I bend the metal closed.)",
+          "Es wurde zugebogen. (It was bent closed.)",
+        ],
+      },
+      {
+        verb: "durchbiegen",
+        translation: "to sag, to bend through",
+        keyPoint:
+          "Strong verb (biege durch, biegst durch, bog durch, durchgebogen)",
+        examples: [
+          "Das Brett biegt durch. (The board sags.)",
+          "Es ist durchgebogen. (It has sagged.)",
+        ],
+      },
+      {
+        verb: "herumbiegen",
+        translation: "to bend around",
+        keyPoint:
+          "Strong verb (biege herum, biegst herum, bog herum, herumgebogen)",
+        examples: [
+          "Ich biege um die Ecke herum. (I bend around the corner.)",
+          "Es wurde herumgebogen. (It was bent around.)",
+        ],
+      },
+      {
+        verb: "hinbiegen",
+        translation: "to bend toward",
+        keyPoint: "Strong verb (biege hin, biegst hin, bog hin, hingebogen)",
+        examples: [
+          "Er biegt sich hin. (He bends toward.)",
+          "Es wurde hingebogen. (It was bent toward.)",
+        ],
+      },
+      {
+        verb: "wegbiegen",
+        translation: "to bend away",
+        keyPoint: "Strong verb (biege weg, biegst weg, bog weg, weggebogen)",
+        examples: [
+          "Ich biege den Ast weg. (I bend the branch away.)",
+          "Es wurde weggebogen. (It was bent away.)",
+        ],
+      },
+      {
+        verb: "einbiegen",
+        translation: "to turn into",
+        keyPoint: "Strong verb (biege ein, biegst ein, bog ein, eingebogen)",
+        examples: [
+          "Wir biegen in die Straße ein. (We turn into the street.)",
+          "Das Auto ist eingebogen. (The car has turned in.)",
+        ],
+      },
+      {
+        verb: "ausbiegen",
+        translation: "to swerve out",
+        keyPoint: "Strong verb (biege aus, biegst aus, bog aus, ausgebogen)",
+        examples: [
+          "Ich biege aus. (I swerve out.)",
+          "Er ist ausgebogen. (He has swerved out.)",
+        ],
+      },
+      {
+        verb: "verbiegen",
+        translation: "to bend out of shape",
+        keyPoint: "Strong verb (verbiege, verbiegst, verbog, verbogen)",
+        examples: [
+          "Ich verbiege das Metall. (I bend the metal out of shape.)",
+          "Es wurde verbogen. (It was bent out of shape.)",
+        ],
+      },
+      {
+        verb: "geraten",
+        translation: "to get into, to turn out",
+        keyPoint: "Strong verb (gerate, gerätst, geriet, geraten)",
+        examples: [
+          "Ich gerate in Schwierigkeiten. (I get into trouble.)",
+          "Es ist gut geraten. (It turned out well.)",
+        ],
+      },
+      {
+        verb: "missgeraten",
+        translation: "to turn out badly",
+        keyPoint:
+          "Strong verb (missgerate, missgerätst, missgeriet, missgeraten)",
+        examples: [
+          "Das Experiment missgerät. (The experiment turns out badly.)",
+          "Der Kuchen ist missgeraten. (The cake turned out badly.)",
+        ],
+      },
+      {
+        verb: "durchgeraten",
+        translation: "to get through by chance",
+        keyPoint:
+          "Strong verb (gerate durch, gerätst durch, geriet durch, durchgeraten)",
+        examples: [
+          "Er gerät durch die Prüfung. (He gets through the exam by chance.)",
+          "Sie ist durchgeraten. (She got through by chance.)",
+        ],
+      },
+      {
+        verb: "hineingeraten",
+        translation: "to get into",
+        keyPoint:
+          "Strong verb (gerate hinein, gerätst hinein, geriet hinein, hineingeraten)",
+        examples: [
+          "Ich gerate in eine Falle hinein. (I get into a trap.)",
+          "Er ist hineingeraten. (He has gotten into it.)",
+        ],
+      },
+      {
+        verb: "herausgeraten",
+        translation: "to get out of",
+        keyPoint:
+          "Strong verb (gerate heraus, gerätst heraus, geriet heraus, herausgeraten)",
+        examples: [
+          "Sie gerät aus der Mode heraus. (She gets out of fashion.)",
+          "Es ist herausgeraten. (It has gotten out.)",
+        ],
+      },
+      {
+        verb: "angeraten",
+        translation: "to be advisable",
+        keyPoint: "Strong verb (gerate an, gerätst an, geriet an, angeraten)",
+        examples: [
+          "Es gerät an zu gehen. (It is advisable to go.)",
+          "Das wäre angeraten. (That would be advisable.)",
+        ],
+      },
+      {
+        verb: "zugeraten",
+        translation: "to advise to do",
+        keyPoint: "Strong verb (gerate zu, gerätst zu, geriet zu, zugeraten)",
+        examples: [
+          "Ich gerate ihm zu warten. (I advise him to wait.)",
+          "Es wurde zugeraten. (It was advised.)",
+        ],
+      },
+      {
+        verb: "abraten",
+        translation: "to advise against",
+        keyPoint: "Strong verb (rate ab, rätst ab, riet ab, abgeraten)",
+        examples: [
+          "Ich rate davon ab. (I advise against it.)",
+          "Es wurde abgeraten. (It was advised against.)",
+        ],
+      },
+      {
+        verb: "verraten",
+        translation: "to betray, to reveal",
+        keyPoint: "Strong verb (verrate, verrätst, verriet, verraten)",
+        examples: [
+          "Ich verrate das Geheimnis. (I reveal the secret.)",
+          "Er wurde verraten. (He was betrayed.)",
+        ],
+      },
+      {
+        verb: "erraten",
+        translation: "to guess",
+        keyPoint: "Strong verb (errate, errätst, erriet, erraten)",
+        examples: [
+          "Ich errate die Antwort. (I guess the answer.)",
+          "Es wurde erraten. (It was guessed.)",
+        ],
+      },
+      {
+        verb: "anraten",
+        translation: "to recommend",
+        keyPoint: "Strong verb (rate an, rätst an, riet an, angeraten)",
+        examples: [
+          "Ich rate es an. (I recommend it.)",
+          "Es wurde angeraten. (It was recommended.)",
+        ],
+      },
+      {
+        verb: "zuraten",
+        translation: "to recommend",
+        keyPoint: "Strong verb (rate zu, rätst zu, riet zu, zugeraten)",
+        examples: [
+          "Ich rate zu Vorsicht. (I recommend caution.)",
+          "Es wurde zugeraten. (It was recommended.)",
+        ],
+      },
+      {
+        verb: "beraten",
+        translation: "to advise, to consult",
+        keyPoint: "Strong verb (berate, berätst, beriet, beraten)",
+        examples: [
+          "Ich berate den Kunden. (I advise the customer.)",
+          "Sie wurden beraten. (They were advised.)",
+        ],
+      },
+      {
+        verb: "durchberaten",
+        translation: "to discuss thoroughly",
+        keyPoint:
+          "Strong verb (berate durch, berätst durch, beriet durch, durchberaten)",
+        examples: [
+          "Wir beraten das Problem durch. (We discuss the problem thoroughly.)",
+          "Es wurde durchberaten. (It was thoroughly discussed.)",
+        ],
+      },
+      {
+        verb: "ausbehalten",
+        translation: "to keep out",
+        keyPoint:
+          "Strong verb (behalte aus, behältst aus, behielt aus, ausbehalten)",
+        examples: [
+          "Ich behalte ihn aus. (I keep him out.)",
+          "Er wurde ausbehalten. (He was kept out.)",
+        ],
+      },
+      {
+        verb: "einbehalten",
+        translation: "to retain, to withhold",
+        keyPoint:
+          "Strong verb (behalte ein, behältst ein, behielt ein, einbehalten)",
+        examples: [
+          "Die Firma behält Steuern ein. (The company withholds taxes.)",
+          "Es wurde einbehalten. (It was withheld.)",
+        ],
+      },
+      {
+        verb: "zurückbehalten",
+        translation: "to keep back",
+        keyPoint:
+          "Strong verb (behalte zurück, behältst zurück, behielt zurück, zurückbehalten)",
+        examples: [
+          "Ich behalte Informationen zurück. (I keep back information.)",
+          "Es wurde zurückbehalten. (It was kept back.)",
+        ],
+      },
+      {
+        verb: "vorbehalten",
+        translation: "to reserve",
+        keyPoint:
+          "Strong verb (behalte vor, behältst vor, behielt vor, vorbehalten)",
+        examples: [
+          "Ich behalte mir das Recht vor. (I reserve the right.)",
+          "Es wurde vorbehalten. (It was reserved.)",
+        ],
+      },
+      {
+        verb: "innebehalten",
+        translation: "to retain, to hold",
+        keyPoint:
+          "Strong verb (behalte inne, behältst inne, behielt inne, innebehalten)",
+        examples: [
+          "Er behält die Position inne. (He holds the position.)",
+          "Es wurde innebehalten. (It was retained.)",
+        ],
+      },
+      {
+        verb: "beibehalten",
+        translation: "to maintain, to keep",
+        keyPoint:
+          "Strong verb (behalte bei, behältst bei, behielt bei, beibehalten)",
+        examples: [
+          "Wir behalten den Plan bei. (We maintain the plan.)",
+          "Es wurde beibehalten. (It was maintained.)",
+        ],
+      },
+      {
+        verb: "verbehalten",
+        translation: "to keep to oneself",
+        keyPoint:
+          "Strong verb (behalte ver, behältst ver, behielt ver, verbehalten) - archaic",
+        examples: [
+          "Er behält es für sich. (He keeps it to himself.)",
+          "Es wurde verbehalten. (It was kept secret.)",
+        ],
+      },
+      {
+        verb: "aufbehalten",
+        translation: "to keep on",
+        keyPoint:
+          "Strong verb (behalte auf, behältst auf, behielt auf, aufbehalten)",
+        examples: [
+          "Ich behalte den Hut auf. (I keep the hat on.)",
+          "Es wurde aufbehalten. (It was kept on.)",
+        ],
+      },
+      {
+        verb: "durchbehalten",
+        translation: "to keep through",
+        keyPoint:
+          "Strong verb (behalte durch, behältst durch, behielt durch, durchbehalten)",
+        examples: [
+          "Ich behalte die Ruhe durch. (I keep calm throughout.)",
+          "Es wurde durchbehalten. (It was kept through.)",
+        ],
+      },
+      {
+        verb: "festbehalten",
+        translation: "to hold firmly",
+        keyPoint:
+          "Strong verb (behalte fest, behältst fest, behielt fest, festbehalten)",
+        examples: [
+          "Ich behalte ihn fest. (I hold him firmly.)",
+          "Er wurde festbehalten. (He was held firmly.)",
+        ],
+      },
+      {
+        verb: "freihalten",
+        translation: "to keep free",
+        keyPoint:
+          "Strong verb (halte frei, hältst frei, hielt frei, freigehalten)",
+        examples: [
+          "Ich halte den Platz frei. (I keep the place free.)",
+          "Er wurde freigehalten. (It was kept free.)",
+        ],
+      },
+      {
+        verb: "offenhalten",
+        translation: "to keep open",
+        keyPoint:
+          "Strong verb (halte offen, hältst offen, hielt offen, offengehalten)",
+        examples: [
+          "Ich halte die Tür offen. (I keep the door open.)",
+          "Sie wurde offengehalten. (It was kept open.)",
+        ],
+      },
+      {
+        verb: "zusammenhalten",
+        translation: "to hold together",
+        keyPoint:
+          "Strong verb (halte zusammen, hältst zusammen, hielt zusammen, zusammengehalten)",
+        examples: [
+          "Die Familie hält zusammen. (The family holds together.)",
+          "Alles wurde zusammengehalten. (Everything was held together.)",
+        ],
+      },
     ],
   },
 ];

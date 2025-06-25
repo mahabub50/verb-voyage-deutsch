@@ -2627,6 +2627,87 @@ export const germanRegularVerbs: VerbGroup[] = [
           "Die Daten wurden synchronisiert. (The data was synchronized.)",
         ],
       },
+      {
+        verb: "implementieren",
+        translation: "to implement",
+        keyPoint: "Putting into effect",
+        examples: [
+          "Wir implementieren das System. (We implement the system.)",
+          "Die Lösung wurde implementiert. (The solution was implemented.)",
+        ],
+      },
+      {
+        verb: "dokumentieren",
+        translation: "to document",
+        keyPoint: "Recording information",
+        examples: [
+          "Ich dokumentiere den Prozess. (I document the process.)",
+          "Alles wurde dokumentiert. (Everything was documented.)",
+        ],
+      },
+      {
+        verb: "standardisieren",
+        translation: "to standardize",
+        keyPoint: "Making uniform",
+        examples: [
+          "Sie standardisieren die Verfahren. (They standardize the procedures.)",
+          "Die Normen wurden standardisiert. (The standards were standardized.)",
+        ],
+      },
+      {
+        verb: "kategorisieren",
+        translation: "to categorize",
+        keyPoint: "Classifying into groups",
+        examples: [
+          "Ich kategorisiere die Daten. (I categorize the data.)",
+          "Die Artikel wurden kategorisiert. (The articles were categorized.)",
+        ],
+      },
+      {
+        verb: "charakterisieren",
+        translation: "to characterize",
+        keyPoint: "Describing distinctive features",
+        examples: [
+          "Das charakterisiert ihn. (That characterizes him.)",
+          "Die Epoche wurde charakterisiert. (The era was characterized.)",
+        ],
+      },
+      {
+        verb: "symbolisieren",
+        translation: "to symbolize",
+        keyPoint: "Representing something else",
+        examples: [
+          "Die Taube symbolisiert Frieden. (The dove symbolizes peace.)",
+          "Liebe wird symbolisiert. (Love is symbolized.)",
+        ],
+      },
+      {
+        verb: "neutralisieren",
+        translation: "to neutralize",
+        keyPoint: "Making inactive or neutral",
+        examples: [
+          "Wir neutralisieren die Säure. (We neutralize the acid.)",
+          "Die Bedrohung wurde neutralisiert. (The threat was neutralized.)",
+        ],
+      },
+      {
+        verb: "stabilisieren",
+        translation: "to stabilize",
+        keyPoint: "Making stable",
+        examples: [
+          "Die Medikamente stabilisieren ihn. (The medications stabilize him.)",
+          "Die Lage wurde stabilisiert. (The situation was stabilized.)",
+        ],
+      },
+      {
+        verb: "lokalisieren",
+        translation: "to localize",
+        keyPoint: "Finding location or adapting locally",
+        examples: [
+          "Wir lokalisieren das Problem. (We localize the problem.)",
+          "Die Software wurde lokalisiert. (The software was localized.)",
+        ],
+      },
     ],
   },
 ];

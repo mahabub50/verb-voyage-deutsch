@@ -1987,6 +1987,726 @@ export const germanReflexiveVerbs: VerbGroup[] = [
           "Sie hat sich herausgewunden. (She has wriggled out.)",
         ],
       },
+      {
+        verb: "sich rechtfertigen",
+        translation: "to justify oneself",
+        keyPoint: "Defending one's actions",
+        examples: [
+          "Ich rechtfertige mich nicht dafür. (I don't justify myself for that.)",
+          "Er hat sich gerechtfertigt. (He has justified himself.)",
+        ],
+      },
+      {
+        verb: "sich durchbeißen",
+        translation: "to bite through / persevere",
+        keyPoint: "Persisting despite difficulties",
+        examples: [
+          "Ich beiße mich durch die schwere Zeit. (I persevere through the difficult time.)",
+          "Sie hat sich durchgebissen. (She has persevered.)",
+        ],
+      },
+      {
+        verb: "sich abrackern",
+        translation: "to toil / slave away",
+        keyPoint: "Working extremely hard",
+        examples: [
+          "Ich rackere mich für die Familie ab. (I toil for the family.)",
+          "Er hat sich abgerackert. (He has toiled.)",
+        ],
+      },
+      {
+        verb: "sich abplacken",
+        translation: "to work very hard",
+        keyPoint: "Exhausting oneself with work",
+        examples: [
+          "Ich placke mich den ganzen Tag ab. (I work very hard all day.)",
+          "Sie hat sich abgeplackt. (She has worked very hard.)",
+        ],
+      },
+      {
+        verb: "sich hocharbeiten",
+        translation: "to work one's way up",
+        keyPoint: "Advancing through hard work",
+        examples: [
+          "Ich arbeite mich in der Firma hoch. (I work my way up in the company.)",
+          "Er hat sich hochgearbeitet. (He has worked his way up.)",
+        ],
+      },
+      {
+        verb: "sich durchkämpfen",
+        translation: "to fight one's way through",
+        keyPoint: "Overcoming obstacles with effort",
+        examples: [
+          "Ich kämpfe mich durch die Menge. (I fight my way through the crowd.)",
+          "Sie hat sich durchgekämpft. (She has fought her way through.)",
+        ],
+      },
+      {
+        verb: "sich durchschlagen",
+        translation: "to struggle through",
+        keyPoint: "Managing to survive difficult times",
+        examples: [
+          "Ich schlage mich allein durch. (I struggle through alone.)",
+          "Er hat sich durchgeschlagen. (He has struggled through.)",
+        ],
+      },
+      {
+        verb: "sich besinnen",
+        translation: "to come to one's senses",
+        keyPoint: "Reconsidering or reflecting",
+        examples: [
+          "Ich besinne mich auf meine Werte. (I come to my senses about my values.)",
+          "Sie hat sich besonnen. (She has come to her senses.)",
+        ],
+      },
+      {
+        verb: "sich verwirklichen",
+        translation: "to fulfill oneself",
+        keyPoint: "Achieving personal goals",
+        examples: [
+          "Ich verwirkliche mich in meinem Beruf. (I fulfill myself in my profession.)",
+          "Er hat sich verwirklicht. (He has fulfilled himself.)",
+        ],
+      },
+      {
+        verb: "sich selbstverwirklichen",
+        translation: "to achieve self-realization",
+        keyPoint: "Personal self-fulfillment",
+        examples: [
+          "Ich verwirkliche mich selbst durch Kunst. (I achieve self-realization through art.)",
+          "Sie hat sich selbstverwirklicht. (She has achieved self-realization.)",
+        ],
+      },
+      {
+        verb: "sich entfalten",
+        translation: "to unfold / develop",
+        keyPoint: "Growing to full potential",
+        examples: [
+          "Ich entfalte mein Talent. (I unfold my talent.)",
+          "Das Kind hat sich entfaltet. (The child has developed.)",
+        ],
+      },
+      {
+        verb: "sich selbstständig machen",
+        translation: "to become self-employed",
+        keyPoint: "Starting one's own business",
+        examples: [
+          "Ich mache mich selbstständig. (I become self-employed.)",
+          "Er hat sich selbstständig gemacht. (He has become self-employed.)",
+        ],
+      },
+      {
+        verb: "sich niederlassen",
+        translation: "to settle down",
+        keyPoint: "Establishing residence or practice",
+        examples: [
+          "Ich lasse mich in München nieder. (I settle down in Munich.)",
+          "Sie hat sich niedergelassen. (She has settled down.)",
+        ],
+      },
+      {
+        verb: "sich verschulden",
+        translation: "to get into debt",
+        keyPoint: "Acquiring financial obligations",
+        examples: [
+          "Ich verschulde mich nicht. (I don't get into debt.)",
+          "Er hat sich verschuldet. (He has gotten into debt.)",
+        ],
+      },
+      {
+        verb: "sich überschulden",
+        translation: "to become over-indebted",
+        keyPoint: "Excessive debt accumulation",
+        examples: [
+          "Das Unternehmen überschuldet sich. (The company becomes over-indebted.)",
+          "Sie haben sich überschuldet. (They have become over-indebted.)",
+        ],
+      },
+      {
+        verb: "sich sanieren",
+        translation: "to restructure financially",
+        keyPoint: "Financial recovery or renovation",
+        examples: [
+          "Die Firma saniert sich. (The company restructures financially.)",
+          "Das Gebäude hat sich saniert. (The building has been renovated.)",
+        ],
+      },
+      {
+        verb: "sich erhängen",
+        translation: "to hang oneself",
+        keyPoint: "Suicide by hanging",
+        examples: [
+          "Er drohte, sich zu erhängen. (He threatened to hang himself.)",
+          "Sie hat sich erhängt. (She has hanged herself.)",
+        ],
+      },
+      {
+        verb: "sich umbringen",
+        translation: "to kill oneself",
+        keyPoint: "Committing suicide",
+        examples: [
+          "Er wollte sich umbringen. (He wanted to kill himself.)",
+          "Sie hat sich umgebracht. (She has killed herself.)",
+        ],
+      },
+      {
+        verb: "sich retten",
+        translation: "to save oneself",
+        keyPoint: "Escaping from danger",
+        examples: [
+          "Ich rette mich vor dem Feuer. (I save myself from the fire.)",
+          "Er hat sich gerettet. (He has saved himself.)",
+        ],
+      },
+      {
+        verb: "sich schützen",
+        translation: "to protect oneself",
+        keyPoint: "Self-defense or prevention",
+        examples: [
+          "Ich schütze mich vor der Sonne. (I protect myself from the sun.)",
+          "Sie hat sich geschützt. (She has protected herself.)",
+        ],
+      },
+      {
+        verb: "sich absichern",
+        translation: "to secure oneself",
+        keyPoint: "Ensuring safety or insurance",
+        examples: [
+          "Ich sichere mich gegen Risiken ab. (I secure myself against risks.)",
+          "Er hat sich abgesichert. (He has secured himself.)",
+        ],
+      },
+      {
+        verb: "sich versichern",
+        translation: "to insure oneself",
+        keyPoint: "Getting insurance coverage",
+        examples: [
+          "Ich versichere mich gegen Unfälle. (I insure myself against accidents.)",
+          "Sie hat sich versichert. (She has insured herself.)",
+        ],
+      },
+      {
+        verb: "sich behaupten",
+        translation: "to assert oneself",
+        keyPoint: "Standing one's ground",
+        examples: [
+          "Ich behaupte mich in der Diskussion. (I assert myself in the discussion.)",
+          "Er hat sich behauptet. (He has asserted himself.)",
+        ],
+      },
+      {
+        verb: "sich durchsetzen",
+        translation: "to prevail / assert oneself",
+        keyPoint: "Achieving one's goals despite opposition",
+        examples: [
+          "Ich setze mich durch. (I prevail.)",
+          "Sie hat sich durchgesetzt. (She has prevailed.)",
+        ],
+      },
+      {
+        verb: "sich etablieren",
+        translation: "to establish oneself",
+        keyPoint: "Gaining a secure position",
+        examples: [
+          "Das Unternehmen etabliert sich am Markt. (The company establishes itself in the market.)",
+          "Er hat sich etabliert. (He has established himself.)",
+        ],
+      },
+      {
+        verb: "sich profilieren",
+        translation: "to distinguish oneself",
+        keyPoint: "Building a reputation",
+        examples: [
+          "Ich profiliere mich als Experte. (I distinguish myself as an expert.)",
+          "Sie hat sich profiliert. (She has distinguished herself.)",
+        ],
+      },
+      {
+        verb: "sich positionieren",
+        translation: "to position oneself",
+        keyPoint: "Taking a stance or market position",
+        examples: [
+          "Die Partei positioniert sich klar. (The party positions itself clearly.)",
+          "Er hat sich positioniert. (He has positioned himself.)",
+        ],
+      },
+      {
+        verb: "sich abgrenzen",
+        translation: "to distance oneself",
+        keyPoint: "Creating boundaries or distinctions",
+        examples: [
+          "Ich grenze mich von der Gruppe ab. (I distance myself from the group.)",
+          "Sie hat sich abgegrenzt. (She has distanced herself.)",
+        ],
+      },
+      {
+        verb: "sich distanzieren",
+        translation: "to distance oneself",
+        keyPoint: "Creating emotional or physical distance",
+        examples: [
+          "Ich distanziere mich von der Aussage. (I distance myself from the statement.)",
+          "Er hat sich distanziert. (He has distanced himself.)",
+        ],
+      },
+      {
+        verb: "sich solidarisieren",
+        translation: "to show solidarity",
+        keyPoint: "Expressing support or unity",
+        examples: [
+          "Ich solidarisiere mich mit den Arbeitern. (I show solidarity with the workers.)",
+          "Sie haben sich solidarisiert. (They have shown solidarity.)",
+        ],
+      },
+      {
+        verb: "sich verbünden",
+        translation: "to ally oneself",
+        keyPoint: "Forming alliances",
+        examples: [
+          "Die Länder verbünden sich. (The countries ally themselves.)",
+          "Sie haben sich verbündet. (They have allied themselves.)",
+        ],
+      },
+      {
+        verb: "sich zusammenschließen",
+        translation: "to join together",
+        keyPoint: "Forming unions or associations",
+        examples: [
+          "Die Unternehmen schließen sich zusammen. (The companies join together.)",
+          "Sie haben sich zusammengeschlossen. (They have joined together.)",
+        ],
+      },
+      {
+        verb: "sich zusammentun",
+        translation: "to team up",
+        keyPoint: "Collaborating for a common goal",
+        examples: [
+          "Wir tun uns für das Projekt zusammen. (We team up for the project.)",
+          "Sie haben sich zusammengetan. (They have teamed up.)",
+        ],
+      },
+      {
+        verb: "sich aussöhnen",
+        translation: "to reconcile",
+        keyPoint: "Making peace after a conflict",
+        examples: [
+          "Ich söhne mich mit meinem Bruder aus. (I reconcile with my brother.)",
+          "Sie haben sich ausgesöhnt. (They have reconciled.)",
+        ],
+      },
+      {
+        verb: "sich vertragen",
+        translation: "to get along",
+        keyPoint: "Having a harmonious relationship",
+        examples: [
+          "Wir vertragen uns gut. (We get along well.)",
+          "Sie haben sich wieder vertragen. (They have gotten along again.)",
+        ],
+      },
+      {
+        verb: "sich versöhnen",
+        translation: "to reconcile",
+        keyPoint: "Restoring friendship after conflict",
+        examples: [
+          "Die Freunde versöhnen sich. (The friends reconcile.)",
+          "Sie haben sich versöhnt. (They have reconciled.)",
+        ],
+      },
+      {
+        verb: "sich aufhängen",
+        translation: "to hang oneself up on",
+        keyPoint: "Getting caught or obsessing",
+        examples: [
+          "Ich hänge mich nicht an Details auf. (I don't get hung up on details.)",
+          "Er hat sich daran aufgehängt. (He has gotten hung up on it.)",
+        ],
+      },
+      {
+        verb: "sich festbeißen",
+        translation: "to bite and hold on",
+        keyPoint: "Stubbornly persisting",
+        examples: [
+          "Der Hund beißt sich fest. (The dog bites and holds on.)",
+          "Er hat sich festgebissen. (He has bitten and held on.)",
+        ],
+      },
+      {
+        verb: "sich verkrampfen",
+        translation: "to tense up",
+        keyPoint: "Becoming tense or stiff",
+        examples: [
+          "Meine Muskeln verkrampfen sich. (My muscles tense up.)",
+          "Sie hat sich verkrampft. (She has tensed up.)",
+        ],
+      },
+      {
+        verb: "sich lockern",
+        translation: "to loosen up",
+        keyPoint: "Becoming more relaxed",
+        examples: [
+          "Die Atmosphäre lockert sich. (The atmosphere loosens up.)",
+          "Er hat sich gelockert. (He has loosened up.)",
+        ],
+      },
+      {
+        verb: "sich entspannen",
+        translation: "to relax",
+        keyPoint: "Reducing tension or stress",
+        examples: [
+          "Ich entspanne mich am Wochenende. (I relax on the weekend.)",
+          "Sie hat sich entspannt. (She has relaxed.)",
+        ],
+      },
+      {
+        verb: "sich versteifen",
+        translation: "to stiffen / become rigid",
+        keyPoint: "Becoming inflexible",
+        examples: [
+          "Mein Nacken versteift sich. (My neck stiffens.)",
+          "Er hat sich versteift. (He has stiffened.)",
+        ],
+      },
+      {
+        verb: "sich verklemmen",
+        translation: "to get stuck / jam",
+        keyPoint: "Becoming trapped or inhibited",
+        examples: [
+          "Die Tür verklemmt sich. (The door gets stuck.)",
+          "Sie hat sich verklemmt. (She has gotten stuck.)",
+        ],
+      },
+      {
+        verb: "sich lösen",
+        translation: "to come loose / solve itself",
+        keyPoint: "Breaking free or resolving",
+        examples: [
+          "Das Problem löst sich von selbst. (The problem solves itself.)",
+          "Er hat sich gelöst. (He has come loose.)",
+        ],
+      },
+      {
+        verb: "sich befreien",
+        translation: "to free oneself",
+        keyPoint: "Gaining freedom or liberation",
+        examples: [
+          "Ich befreie mich aus der Situation. (I free myself from the situation.)",
+          "Sie hat sich befreit. (She has freed herself.)",
+        ],
+      },
+      {
+        verb: "sich loslösen",
+        translation: "to detach oneself",
+        keyPoint: "Separating or breaking away",
+        examples: [
+          "Ich löse mich von alten Gewohnheiten los. (I detach myself from old habits.)",
+          "Er hat sich losgelöst. (He has detached himself.)",
+        ],
+      },
+      {
+        verb: "sich losreißen",
+        translation: "to tear oneself away",
+        keyPoint: "Forcefully breaking free",
+        examples: [
+          "Ich reiße mich von der Arbeit los. (I tear myself away from work.)",
+          "Sie hat sich losgerissen. (She has torn herself away.)",
+        ],
+      },
+      {
+        verb: "sich losmachen",
+        translation: "to break free",
+        keyPoint: "Freeing oneself from restraints",
+        examples: [
+          "Ich mache mich von den Fesseln los. (I break free from the bonds.)",
+          "Er hat sich losgemacht. (He has broken free.)",
+        ],
+      },
+      {
+        verb: "sich hinreißen lassen",
+        translation: "to get carried away",
+        keyPoint: "Being swept up by emotion",
+        examples: [
+          "Ich lasse mich nicht hinreißen. (I don't get carried away.)",
+          "Sie hat sich hinreißen lassen. (She has gotten carried away.)",
+        ],
+      },
+      {
+        verb: "sich mitreißen lassen",
+        translation: "to get swept along",
+        keyPoint: "Being influenced by others' energy",
+        examples: [
+          "Ich lasse mich von der Stimmung mitreißen. (I get swept along by the mood.)",
+          "Er hat sich mitreißen lassen. (He has gotten swept along.)",
+        ],
+      },
+      {
+        verb: "sich zurücklehnen",
+        translation: "to lean back",
+        keyPoint: "Relaxing or taking a passive stance",
+        examples: [
+          "Ich lehne mich zurück und entspanne. (I lean back and relax.)",
+          "Sie hat sich zurückgelehnt. (She has leaned back.)",
+        ],
+      },
+      {
+        verb: "sich vorlehnen",
+        translation: "to lean forward",
+        keyPoint: "Showing interest or attention",
+        examples: [
+          "Ich lehne mich vor, um besser zu hören. (I lean forward to hear better.)",
+          "Er hat sich vorgelehnt. (He has leaned forward.)",
+        ],
+      },
+      {
+        verb: "sich anlehnen",
+        translation: "to lean against",
+        keyPoint: "Seeking support or rest",
+        examples: [
+          "Ich lehne mich an die Wand an. (I lean against the wall.)",
+          "Sie hat sich angelehnt. (She has leaned against.)",
+        ],
+      },
+      {
+        verb: "sich abstützen",
+        translation: "to support oneself",
+        keyPoint: "Using something for physical support",
+        examples: [
+          "Ich stütze mich am Tisch ab. (I support myself on the table.)",
+          "Er hat sich abgestützt. (He has supported himself.)",
+        ],
+      },
+      {
+        verb: "sich festhalten",
+        translation: "to hold on tight",
+        keyPoint: "Gripping for security",
+        examples: [
+          "Ich halte mich am Geländer fest. (I hold on tight to the railing.)",
+          "Sie hat sich festgehalten. (She has held on tight.)",
+        ],
+      },
+      {
+        verb: "sich loslassen",
+        translation: "to let go",
+        keyPoint: "Releasing one's grip",
+        examples: [
+          "Ich lasse mich vom Seil los. (I let go of the rope.)",
+          "Er hat sich losgelassen. (He has let go.)",
+        ],
+      },
+      {
+        verb: "sich fallen lassen",
+        translation: "to let oneself fall",
+        keyPoint: "Allowing oneself to drop or give up",
+        examples: [
+          "Ich lasse mich aufs Sofa fallen. (I let myself fall onto the sofa.)",
+          "Sie hat sich fallen lassen. (She has let herself fall.)",
+        ],
+      },
+      {
+        verb: "sich hängen lassen",
+        translation: "to let oneself go",
+        keyPoint: "Becoming careless about appearance",
+        examples: [
+          "Ich lasse mich nicht hängen. (I don't let myself go.)",
+          "Er hat sich hängen lassen. (He has let himself go.)",
+        ],
+      },
+      {
+        verb: "sich gehen lassen",
+        translation: "to let oneself go",
+        keyPoint: "Losing self-control or standards",
+        examples: [
+          "In der Krise lässt er sich gehen. (In the crisis, he lets himself go.)",
+          "Sie hat sich gehen lassen. (She has let herself go.)",
+        ],
+      },
+      {
+        verb: "sich zusammenreißen",
+        translation: "to pull oneself together",
+        keyPoint: "Regaining self-control",
+        examples: [
+          "Ich reiße mich zusammen. (I pull myself together.)",
+          "Sie hat sich zusammengerissen. (She has pulled herself together.)",
+        ],
+      },
+      {
+        verb: "sich aufraffen",
+        translation: "to rouse oneself",
+        keyPoint: "Making an effort to act",
+        examples: [
+          "Ich raffe mich zur Arbeit auf. (I rouse myself to work.)",
+          "Er hat sich aufgerafft. (He has roused himself.)",
+        ],
+      },
+      {
+        verb: "sich aufmachen",
+        translation: "to set off",
+        keyPoint: "Beginning a journey",
+        examples: [
+          "Ich mache mich auf den Weg. (I set off on the way.)",
+          "Sie haben sich aufgemacht. (They have set off.)",
+        ],
+      },
+      {
+        verb: "sich aufhalten",
+        translation: "to stay / linger",
+        keyPoint: "Remaining in a place",
+        examples: [
+          "Ich halte mich in Berlin auf. (I stay in Berlin.)",
+          "Er hat sich dort aufgehalten. (He has stayed there.)",
+        ],
+      },
+      {
+        verb: "sich aufwärmen",
+        translation: "to warm up",
+        keyPoint: "Increasing body temperature",
+        examples: [
+          "Ich wärme mich am Feuer auf. (I warm up by the fire.)",
+          "Sie hat sich aufgewärmt. (She has warmed up.)",
+        ],
+      },
+      {
+        verb: "sich abkühlen",
+        translation: "to cool down",
+        keyPoint: "Reducing temperature or excitement",
+        examples: [
+          "Ich kühle mich im Pool ab. (I cool down in the pool.)",
+          "Die Lage hat sich abgekühlt. (The situation has cooled down.)",
+        ],
+      },
+      {
+        verb: "sich erhitzen",
+        translation: "to heat up",
+        keyPoint: "Becoming hot or agitated",
+        examples: [
+          "Der Motor erhitzt sich. (The engine heats up.)",
+          "Die Gemüter haben sich erhitzt. (Tempers have heated up.)",
+        ],
+      },
+      {
+        verb: "sich abarbeiten",
+        translation: "to work oneself to exhaustion",
+        keyPoint: "Exhausting oneself through work",
+        examples: [
+          "Ich arbeite mich an dem Projekt ab. (I work myself to exhaustion on the project.)",
+          "Er hat sich abgearbeitet. (He has worked himself to exhaustion.)",
+        ],
+      },
+      {
+        verb: "sich totarbeiten",
+        translation: "to work oneself to death",
+        keyPoint: "Extreme overwork",
+        examples: [
+          "Ich arbeite mich nicht tot. (I don't work myself to death.)",
+          "Sie hat sich totgearbeitet. (She has worked herself to death.)",
+        ],
+      },
+      {
+        verb: "sich kaputt machen",
+        translation: "to wear oneself out",
+        keyPoint: "Destroying one's health through excess",
+        examples: [
+          "Ich mache mich nicht kaputt. (I don't wear myself out.)",
+          "Er hat sich kaputt gemacht. (He has worn himself out.)",
+        ],
+      },
+      {
+        verb: "sich regenerieren",
+        translation: "to regenerate",
+        keyPoint: "Recovering or renewing oneself",
+        examples: [
+          "Mein Körper regeneriert sich im Schlaf. (My body regenerates during sleep.)",
+          "Sie hat sich regeneriert. (She has regenerated.)",
+        ],
+      },
+      {
+        verb: "sich revitalisieren",
+        translation: "to revitalize",
+        keyPoint: "Restoring energy and vitality",
+        examples: [
+          "Ich revitalisiere mich im Urlaub. (I revitalize myself on vacation.)",
+          "Das Stadtviertel hat sich revitalisiert. (The neighborhood has revitalized.)",
+        ],
+      },
+      {
+        verb: "sich stabilisieren",
+        translation: "to stabilize",
+        keyPoint: "Becoming stable or steady",
+        examples: [
+          "Die Wirtschaft stabilisiert sich. (The economy stabilizes.)",
+          "Sein Zustand hat sich stabilisiert. (His condition has stabilized.)",
+        ],
+      },
+      {
+        verb: "sich normalisieren",
+        translation: "to normalize",
+        keyPoint: "Returning to normal state",
+        examples: [
+          "Die Lage normalisiert sich. (The situation normalizes.)",
+          "Alles hat sich normalisiert. (Everything has normalized.)",
+        ],
+      },
+      {
+        verb: "sich regulieren",
+        translation: "to regulate itself",
+        keyPoint: "Self-controlling or adjusting",
+        examples: [
+          "Der Markt reguliert sich selbst. (The market regulates itself.)",
+          "Es hat sich reguliert. (It has regulated itself.)",
+        ],
+      },
+      {
+        verb: "sich modernisieren",
+        translation: "to modernize",
+        keyPoint: "Updating to current standards",
+        examples: [
+          "Das Unternehmen modernisiert sich. (The company modernizes.)",
+          "Die Stadt hat sich modernisiert. (The city has modernized.)",
+        ],
+      },
+      {
+        verb: "sich digitalisieren",
+        translation: "to digitize",
+        keyPoint: "Converting to digital format",
+        examples: [
+          "Die Firma digitalisiert sich. (The company digitizes.)",
+          "Alles hat sich digitalisiert. (Everything has digitized.)",
+        ],
+      },
+      {
+        verb: "sich automatisieren",
+        translation: "to automate",
+        keyPoint: "Becoming automated",
+        examples: [
+          "Der Prozess automatisiert sich. (The process automates.)",
+          "Die Produktion hat sich automatisiert. (Production has automated.)",
+        ],
+      },
+      {
+        verb: "sich globalisieren",
+        translation: "to globalize",
+        keyPoint: "Becoming worldwide",
+        examples: [
+          "Die Wirtschaft globalisiert sich. (The economy globalizes.)",
+          "Der Markt hat sich globalisiert. (The market has globalized.)",
+        ],
+      },
+      {
+        verb: "sich individualisieren",
+        translation: "to individualize",
+        keyPoint: "Becoming more individual",
+        examples: [
+          "Die Gesellschaft individualisiert sich. (Society individualizes.)",
+          "Jeder hat sich individualisiert. (Everyone has individualized.)",
+        ],
+      },
+      {
+        verb: "sich professionalisieren",
+        translation: "to professionalize",
+        keyPoint: "Becoming more professional",
+        examples: [
+          "Der Sport professionalisiert sich. (Sports professionalize.)",
+          "Das Team hat sich professionalisiert. (The team has professionalized.)",
+        ],
+      },
     ],
   },
 ];
