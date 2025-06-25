@@ -1,3 +1,4 @@
+
 export interface GermanVerb {
   verb: string;
   translation: string;
@@ -19,6 +20,7 @@ import { germanNonSeparableVerbs } from './germanNonSeparableVerbs';
 import { germanModalVerbs } from './germanModalVerbs';
 import { germanIrregularVerbs } from './germanIrregularVerbs';
 import { germanReflexiveVerbs } from './germanReflexiveVerbs';
+import { germanRegularVerbs } from './germanRegularVerbs';
 
 // Original separable verb groups that were already in the file
 const originalVerbGroups: VerbGroup[] = [
@@ -429,7 +431,7 @@ const originalVerbGroups: VerbGroup[] = [
   }
 ];
 
-// Combine ALL verb categories - comprehensive B2 level German verb database
+// Combine ALL verb categories - comprehensive B2+ level German verb database (1000+ verbs)
 export const germanSeparableVerbs: VerbGroup[] = [
   // ...originalVerbGroups,
   ...additionalVerbGroups,
@@ -438,5 +440,6 @@ export const germanSeparableVerbs: VerbGroup[] = [
   ...germanNonSeparableVerbs,
   ...germanModalVerbs,
   ...germanIrregularVerbs,
-  ...germanReflexiveVerbs
+  ...germanReflexiveVerbs,
+  ...germanRegularVerbs
 ];
