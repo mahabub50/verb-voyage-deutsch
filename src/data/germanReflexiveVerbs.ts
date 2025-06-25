@@ -1,11 +1,11 @@
-
-import { VerbGroup } from './germanVerbs';
+import { VerbGroup } from "./germanVerbs";
 
 // Reflexive verbs (Reflexive Verben) - B2 level comprehensive collection (300+ verbs)
 export const germanReflexiveVerbs: VerbGroup[] = [
   {
     prefix: "reflexive",
-    description: "reflexive verbs - comprehensive collection used with reflexive pronouns (sich)",
+    description:
+      "reflexive verbs - comprehensive collection used with reflexive pronouns (sich)",
     verbs: [
       {
         verb: "sich waschen",
@@ -13,8 +13,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Personal hygiene reflexive verb",
         examples: [
           "Ich wasche mich jeden Morgen. (I wash myself every morning.)",
-          "Wäschst du dich mit Seife? (Do you wash yourself with soap?)"
-        ]
+          "Wäschst du dich mit Seife? (Do you wash yourself with soap?)",
+        ],
       },
       {
         verb: "sich anziehen",
@@ -22,8 +22,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Putting on clothes",
         examples: [
           "Zieh dich warm an! (Dress warmly!)",
-          "Ich ziehe mich für die Party an. (I'm getting dressed for the party.)"
-        ]
+          "Ich ziehe mich für die Party an. (I'm getting dressed for the party.)",
+        ],
       },
       {
         verb: "sich ausziehen",
@@ -31,8 +31,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking off clothes",
         examples: [
           "Zieh dich aus! (Get undressed!)",
-          "Er zieht sich für das Bett aus. (He's getting undressed for bed.)"
-        ]
+          "Er zieht sich für das Bett aus. (He's getting undressed for bed.)",
+        ],
       },
       {
         verb: "sich setzen",
@@ -40,8 +40,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking a seated position",
         examples: [
           "Setzen Sie sich, bitte! (Please sit down!)",
-          "Ich setze mich auf den Stuhl. (I sit down on the chair.)"
-        ]
+          "Ich setze mich auf den Stuhl. (I sit down on the chair.)",
+        ],
       },
       {
         verb: "sich legen",
@@ -49,8 +49,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking a lying position",
         examples: [
           "Leg dich hin! (Lie down!)",
-          "Ich lege mich ins Bett. (I lie down in bed.)"
-        ]
+          "Ich lege mich ins Bett. (I lie down in bed.)",
+        ],
       },
       {
         verb: "sich freuen",
@@ -58,8 +58,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Expressing joy or anticipation",
         examples: [
           "Ich freue mich auf das Wochenende. (I look forward to the weekend.)",
-          "Freust du dich über das Geschenk? (Are you happy about the gift?)"
-        ]
+          "Freust du dich über das Geschenk? (Are you happy about the gift?)",
+        ],
       },
       {
         verb: "sich ärgern",
@@ -67,8 +67,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Expressing annoyance or anger",
         examples: [
           "Ärgere dich nicht! (Don't get angry!)",
-          "Ich ärgere mich über den Fehler. (I'm annoyed about the mistake.)"
-        ]
+          "Ich ärgere mich über den Fehler. (I'm annoyed about the mistake.)",
+        ],
       },
       {
         verb: "sich entschuldigen",
@@ -76,8 +76,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Asking for forgiveness",
         examples: [
           "Entschuldigen Sie sich! (Apologize!)",
-          "Ich entschuldige mich für die Verspätung. (I apologize for being late.)"
-        ]
+          "Ich entschuldige mich für die Verspätung. (I apologize for being late.)",
+        ],
       },
       {
         verb: "sich vorstellen",
@@ -85,8 +85,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Self-introduction or imagination",
         examples: [
           "Stellen Sie sich vor! (Introduce yourself!)",
-          "Ich kann mir das nicht vorstellen. (I can't imagine that.)"
-        ]
+          "Ich kann mir das nicht vorstellen. (I can't imagine that.)",
+        ],
       },
       {
         verb: "sich erinnern",
@@ -94,8 +94,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Recalling memories",
         examples: [
           "Erinnerst du dich an mich? (Do you remember me?)",
-          "Ich erinnere mich an den Tag. (I remember the day.)"
-        ]
+          "Ich erinnere mich an den Tag. (I remember the day.)",
+        ],
       },
       {
         verb: "sich konzentrieren",
@@ -103,8 +103,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Focusing attention",
         examples: [
           "Konzentriere dich auf die Aufgabe! (Concentrate on the task!)",
-          "Ich kann mich nicht konzentrieren. (I can't concentrate.)"
-        ]
+          "Ich kann mich nicht konzentrieren. (I can't concentrate.)",
+        ],
       },
       {
         verb: "sich vorbereiten",
@@ -112,8 +112,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Getting ready for something",
         examples: [
           "Bereiten Sie sich auf die Prüfung vor! (Prepare for the exam!)",
-          "Ich bereite mich auf das Gespräch vor. (I'm preparing for the conversation.)"
-        ]
+          "Ich bereite mich auf das Gespräch vor. (I'm preparing for the conversation.)",
+        ],
       },
       {
         verb: "sich verlieben",
@@ -121,8 +121,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Developing romantic feelings",
         examples: [
           "Verlieb dich nicht zu schnell! (Don't fall in love too quickly!)",
-          "Ich habe mich in sie verliebt. (I fell in love with her.)"
-        ]
+          "Ich habe mich in sie verliebt. (I fell in love with her.)",
+        ],
       },
       {
         verb: "sich gewöhnen",
@@ -130,8 +130,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming accustomed to something",
         examples: [
           "Gewöhn dich an das Wetter! (Get used to the weather!)",
-          "Ich gewöhne mich an die neue Stadt. (I'm getting used to the new city.)"
-        ]
+          "Ich gewöhne mich an die neue Stadt. (I'm getting used to the new city.)",
+        ],
       },
       {
         verb: "sich beschweren",
@@ -139,8 +139,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Expressing dissatisfaction",
         examples: [
           "Beschweren Sie sich beim Manager! (Complain to the manager!)",
-          "Ich beschwere mich über den Service. (I complain about the service.)"
-        ]
+          "Ich beschwere mich über den Service. (I complain about the service.)",
+        ],
       },
       {
         verb: "sich bewegen",
@@ -148,8 +148,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Physical movement or exercise",
         examples: [
           "Bewegen Sie sich mehr! (Move more!)",
-          "Ich bewege mich gerne im Freien. (I like to move outdoors.)"
-        ]
+          "Ich bewege mich gerne im Freien. (I like to move outdoors.)",
+        ],
       },
       {
         verb: "sich erholen",
@@ -157,8 +157,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Getting better or taking a break",
         examples: [
           "Erholen Sie sich gut! (Recover well!)",
-          "Ich erhole mich im Urlaub. (I rest during vacation.)"
-        ]
+          "Ich erhole mich im Urlaub. (I rest during vacation.)",
+        ],
       },
       {
         verb: "sich unterhalten",
@@ -166,8 +166,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Having a conversation",
         examples: [
           "Unterhalten Sie sich mit ihm! (Have a conversation with him!)",
-          "Wir unterhalten uns über Politik. (We talk about politics.)"
-        ]
+          "Wir unterhalten uns über Politik. (We talk about politics.)",
+        ],
       },
       {
         verb: "sich befinden",
@@ -175,8 +175,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Being in a particular place or state",
         examples: [
           "Wo befinden Sie sich? (Where are you located?)",
-          "Das Hotel befindet sich im Zentrum. (The hotel is located in the center.)"
-        ]
+          "Das Hotel befindet sich im Zentrum. (The hotel is located in the center.)",
+        ],
       },
       {
         verb: "sich verhalten",
@@ -184,8 +184,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Acting in a certain way",
         examples: [
           "Verhalten Sie sich ruhig! (Behave calmly!)",
-          "Ich verhalte mich höflich. (I behave politely.)"
-        ]
+          "Ich verhalte mich höflich. (I behave politely.)",
+        ],
       },
       {
         verb: "sich beeilen",
@@ -193,8 +193,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Moving or acting quickly",
         examples: [
           "Beeile dich! (Hurry up!)",
-          "Ich muss mich beeilen. (I have to hurry.)"
-        ]
+          "Ich muss mich beeilen. (I have to hurry.)",
+        ],
       },
       {
         verb: "sich entspannen",
@@ -202,8 +202,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming calm and relaxed",
         examples: [
           "Entspann dich! (Relax!)",
-          "Ich entspanne mich am Strand. (I relax at the beach.)"
-        ]
+          "Ich entspanne mich am Strand. (I relax at the beach.)",
+        ],
       },
       {
         verb: "sich aufregen",
@@ -211,8 +211,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming agitated or excited",
         examples: [
           "Reg dich nicht auf! (Don't get upset!)",
-          "Sie regt sich über alles auf. (She gets upset about everything.)"
-        ]
+          "Sie regt sich über alles auf. (She gets upset about everything.)",
+        ],
       },
       {
         verb: "sich beruhigen",
@@ -220,8 +220,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming calm after being agitated",
         examples: [
           "Beruhige dich! (Calm down!)",
-          "Das Kind hat sich beruhigt. (The child calmed down.)"
-        ]
+          "Das Kind hat sich beruhigt. (The child calmed down.)",
+        ],
       },
       {
         verb: "sich langweilen",
@@ -229,8 +229,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Feeling bored or uninterested",
         examples: [
           "Langweile dich nicht! (Don't be bored!)",
-          "Ich langweile mich zu Hause. (I'm bored at home.)"
-        ]
+          "Ich langweile mich zu Hause. (I'm bored at home.)",
+        ],
       },
       {
         verb: "sich amüsieren",
@@ -238,8 +238,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Enjoying oneself",
         examples: [
           "Amüsier dich gut! (Have fun!)",
-          "Wir amüsieren uns auf der Party. (We're having fun at the party.)"
-        ]
+          "Wir amüsieren uns auf der Party. (We're having fun at the party.)",
+        ],
       },
       {
         verb: "sich schämen",
@@ -247,8 +247,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Feeling shame or embarrassment",
         examples: [
           "Schäm dich nicht! (Don't be ashamed!)",
-          "Ich schäme mich für meinen Fehler. (I'm ashamed of my mistake.)"
-        ]
+          "Ich schäme mich für meinen Fehler. (I'm ashamed of my mistake.)",
+        ],
       },
       {
         verb: "sich wundern",
@@ -256,8 +256,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Feeling surprise or curiosity",
         examples: [
           "Wundere dich nicht! (Don't be surprised!)",
-          "Ich wundere mich über sein Verhalten. (I wonder about his behavior.)"
-        ]
+          "Ich wundere mich über sein Verhalten. (I wonder about his behavior.)",
+        ],
       },
       {
         verb: "sich fürchten",
@@ -265,8 +265,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Feeling fear",
         examples: [
           "Fürchte dich nicht! (Don't be afraid!)",
-          "Das Kind fürchtet sich vor der Dunkelheit. (The child is afraid of the dark.)"
-        ]
+          "Das Kind fürchtet sich vor der Dunkelheit. (The child is afraid of the dark.)",
+        ],
       },
       {
         verb: "sich sorgen",
@@ -274,8 +274,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Feeling worried or concerned",
         examples: [
           "Sorge dich nicht! (Don't worry!)",
-          "Ich sorge mich um meine Familie. (I worry about my family.)"
-        ]
+          "Ich sorge mich um meine Familie. (I worry about my family.)",
+        ],
       },
       {
         verb: "sich kümmern",
@@ -283,8 +283,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Caring for someone or something",
         examples: [
           "Kümmer dich um den Hund! (Take care of the dog!)",
-          "Sie kümmert sich um ihre Mutter. (She takes care of her mother.)"
-        ]
+          "Sie kümmert sich um ihre Mutter. (She takes care of her mother.)",
+        ],
       },
       {
         verb: "sich bemühen",
@@ -292,8 +292,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Trying hard to achieve something",
         examples: [
           "Bemüh dich mehr! (Make more effort!)",
-          "Ich bemühe mich um eine Lösung. (I'm making an effort to find a solution.)"
-        ]
+          "Ich bemühe mich um eine Lösung. (I'm making an effort to find a solution.)",
+        ],
       },
       {
         verb: "sich anstrengen",
@@ -301,8 +301,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Putting in physical or mental effort",
         examples: [
           "Streng dich an! (Make an effort!)",
-          "Er strengt sich in der Schule an. (He makes an effort at school.)"
-        ]
+          "Er strengt sich in der Schule an. (He makes an effort at school.)",
+        ],
       },
       {
         verb: "sich entscheiden",
@@ -310,8 +310,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Making a decision",
         examples: [
           "Entscheide dich! (Decide!)",
-          "Ich habe mich für das rote Auto entschieden. (I decided on the red car.)"
-        ]
+          "Ich habe mich für das rote Auto entschieden. (I decided on the red car.)",
+        ],
       },
       {
         verb: "sich verlassen",
@@ -319,8 +319,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Depending on someone or something",
         examples: [
           "Verlass dich auf mich! (Rely on me!)",
-          "Ich verlasse mich auf deine Hilfe. (I rely on your help.)"
-        ]
+          "Ich verlasse mich auf deine Hilfe. (I rely on your help.)",
+        ],
       },
       {
         verb: "sich verloben",
@@ -328,8 +328,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming engaged to be married",
         examples: [
           "Verlobt euch! (Get engaged!)",
-          "Sie haben sich verlobt. (They got engaged.)"
-        ]
+          "Sie haben sich verlobt. (They got engaged.)",
+        ],
       },
       {
         verb: "sich verloben",
@@ -337,8 +337,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Promising to marry",
         examples: [
           "Wann verlobt ihr euch? (When are you getting engaged?)",
-          "Wir haben uns letztes Jahr verlobt. (We got engaged last year.)"
-        ]
+          "Wir haben uns letztes Jahr verlobt. (We got engaged last year.)",
+        ],
       },
       {
         verb: "sich verheiraten",
@@ -346,8 +346,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Entering into marriage",
         examples: [
           "Verheiratet euch! (Get married!)",
-          "Sie haben sich in der Kirche verheiratet. (They got married in church.)"
-        ]
+          "Sie haben sich in der Kirche verheiratet. (They got married in church.)",
+        ],
       },
       {
         verb: "sich scheiden lassen",
@@ -355,8 +355,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Ending a marriage legally",
         examples: [
           "Lasst euch nicht scheiden! (Don't get divorced!)",
-          "Sie haben sich scheiden lassen. (They got divorced.)"
-        ]
+          "Sie haben sich scheiden lassen. (They got divorced.)",
+        ],
       },
       {
         verb: "sich trennen",
@@ -364,8 +364,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Ending a relationship",
         examples: [
           "Trennt euch nicht! (Don't separate!)",
-          "Das Paar hat sich getrennt. (The couple separated.)"
-        ]
+          "Das Paar hat sich getrennt. (The couple separated.)",
+        ],
       },
       {
         verb: "sich versöhnen",
@@ -373,8 +373,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Making peace after a conflict",
         examples: [
           "Versöhnt euch! (Reconcile!)",
-          "Sie haben sich nach dem Streit versöhnt. (They reconciled after the fight.)"
-        ]
+          "Sie haben sich nach dem Streit versöhnt. (They reconciled after the fight.)",
+        ],
       },
       {
         verb: "sich streiten",
@@ -382,8 +382,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Having an argument",
         examples: [
           "Streitet euch nicht! (Don't argue!)",
-          "Die Kinder streiten sich um das Spielzeug. (The children are arguing over the toy.)"
-        ]
+          "Die Kinder streiten sich um das Spielzeug. (The children are arguing over the toy.)",
+        ],
       },
       {
         verb: "sich versprechen",
@@ -391,8 +391,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Making a verbal mistake or mutual promise",
         examples: [
           "Versprich dich nicht! (Don't misspeak!)",
-          "Wir versprechen uns ewige Treue. (We promise each other eternal loyalty.)"
-        ]
+          "Wir versprechen uns ewige Treue. (We promise each other eternal loyalty.)",
+        ],
       },
       {
         verb: "sich verabschieden",
@@ -400,8 +400,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking leave of someone",
         examples: [
           "Verabschiedet euch! (Say goodbye!)",
-          "Ich verabschiede mich von meinen Kollegen. (I say goodbye to my colleagues.)"
-        ]
+          "Ich verabschiede mich von meinen Kollegen. (I say goodbye to my colleagues.)",
+        ],
       },
       {
         verb: "sich melden",
@@ -409,8 +409,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Making contact or reporting",
         examples: [
           "Melde dich bei mir! (Get in touch with me!)",
-          "Er meldet sich nie. (He never gets in touch.)"
-        ]
+          "Er meldet sich nie. (He never gets in touch.)",
+        ],
       },
       {
         verb: "sich anmelden",
@@ -418,8 +418,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Registering for something",
         examples: [
           "Melde dich für den Kurs an! (Sign up for the course!)",
-          "Ich habe mich für die Prüfung angemeldet. (I registered for the exam.)"
-        ]
+          "Ich habe mich für die Prüfung angemeldet. (I registered for the exam.)",
+        ],
       },
       {
         verb: "sich abmelden",
@@ -427,8 +427,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Canceling registration",
         examples: [
           "Melde dich ab! (Sign off!)",
-          "Ich habe mich vom Kurs abgemeldet. (I unregistered from the course.)"
-        ]
+          "Ich habe mich vom Kurs abgemeldet. (I unregistered from the course.)",
+        ],
       },
       {
         verb: "sich umziehen",
@@ -436,8 +436,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Changing one's clothing",
         examples: [
           "Zieh dich um! (Change your clothes!)",
-          "Ich ziehe mich für das Theater um. (I'm changing clothes for the theater.)"
-        ]
+          "Ich ziehe mich für das Theater um. (I'm changing clothes for the theater.)",
+        ],
       },
       {
         verb: "sich verkleiden",
@@ -445,8 +445,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Wearing a costume or disguise",
         examples: [
           "Verkleidet euch für Karneval! (Dress up for carnival!)",
-          "Die Kinder verkleiden sich als Tiere. (The children dress up as animals.)"
-        ]
+          "Die Kinder verkleiden sich als Tiere. (The children dress up as animals.)",
+        ],
       },
       {
         verb: "sich schminken",
@@ -454,8 +454,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Applying cosmetics",
         examples: [
           "Schminke dich für die Party! (Put on makeup for the party!)",
-          "Sie schminkt sich jeden Morgen. (She puts on makeup every morning.)"
-        ]
+          "Sie schminkt sich jeden Morgen. (She puts on makeup every morning.)",
+        ],
       },
       {
         verb: "sich kämmen",
@@ -463,8 +463,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Grooming one's hair",
         examples: [
           "Kämm dich! (Comb your hair!)",
-          "Ich kämme mich vor dem Spiegel. (I comb my hair in front of the mirror.)"
-        ]
+          "Ich kämme mich vor dem Spiegel. (I comb my hair in front of the mirror.)",
+        ],
       },
       {
         verb: "sich rasieren",
@@ -472,8 +472,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Removing hair with a razor",
         examples: [
           "Rasier dich! (Shave!)",
-          "Er rasiert sich jeden Morgen. (He shaves every morning.)"
-        ]
+          "Er rasiert sich jeden Morgen. (He shaves every morning.)",
+        ],
       },
       {
         verb: "sich duschen",
@@ -481,8 +481,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Bathing under a shower",
         examples: [
           "Dusch dich! (Take a shower!)",
-          "Ich dusche mich nach dem Sport. (I shower after sports.)"
-        ]
+          "Ich dusche mich nach dem Sport. (I shower after sports.)",
+        ],
       },
       {
         verb: "sich baden",
@@ -490,8 +490,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Bathing in a bathtub",
         examples: [
           "Bade dich! (Take a bath!)",
-          "Das Baby badet sich gerne. (The baby likes to bathe.)"
-        ]
+          "Das Baby badet sich gerne. (The baby likes to bathe.)",
+        ],
       },
       {
         verb: "sich putzen",
@@ -499,8 +499,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Cleaning or grooming oneself",
         examples: [
           "Putz dich! (Clean yourself!)",
-          "Die Katze putzt sich ständig. (The cat constantly cleans itself.)"
-        ]
+          "Die Katze putzt sich ständig. (The cat constantly cleans itself.)",
+        ],
       },
       {
         verb: "sich bürsten",
@@ -508,8 +508,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Brushing hair or teeth",
         examples: [
           "Bürste dir die Haare! (Brush your hair!)",
-          "Ich bürste mir die Zähne. (I brush my teeth.)"
-        ]
+          "Ich bürste mir die Zähne. (I brush my teeth.)",
+        ],
       },
       {
         verb: "sich parfümieren",
@@ -517,8 +517,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Applying fragrance",
         examples: [
           "Parfümiere dich! (Put on perfume!)",
-          "Sie parfümiert sich vor dem Ausgehen. (She puts on perfume before going out.)"
-        ]
+          "Sie parfümiert sich vor dem Ausgehen. (She puts on perfume before going out.)",
+        ],
       },
       {
         verb: "sich erkälten",
@@ -526,8 +526,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming ill with a cold",
         examples: [
           "Erkälte dich nicht! (Don't catch a cold!)",
-          "Ich habe mich erkältet. (I caught a cold.)"
-        ]
+          "Ich habe mich erkältet. (I caught a cold.)",
+        ],
       },
       {
         verb: "sich verletzen",
@@ -535,8 +535,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Causing injury to oneself",
         examples: [
           "Verletze dich nicht! (Don't injure yourself!)",
-          "Er hat sich beim Fußball verletzt. (He injured himself playing soccer.)"
-        ]
+          "Er hat sich beim Fußball verletzt. (He injured himself playing soccer.)",
+        ],
       },
       {
         verb: "sich schneiden",
@@ -544,8 +544,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Accidentally cutting oneself",
         examples: [
           "Schneide dich nicht! (Don't cut yourself!)",
-          "Ich habe mich beim Kochen geschnitten. (I cut myself while cooking.)"
-        ]
+          "Ich habe mich beim Kochen geschnitten. (I cut myself while cooking.)",
+        ],
       },
       {
         verb: "sich verbrennen",
@@ -553,8 +553,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Accidentally burning oneself",
         examples: [
           "Verbrenne dich nicht! (Don't burn yourself!)",
-          "Sie hat sich am Ofen verbrannt. (She burned herself on the oven.)"
-        ]
+          "Sie hat sich am Ofen verbrannt. (She burned herself on the oven.)",
+        ],
       },
       {
         verb: "sich anstecken",
@@ -562,8 +562,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming infected with a disease",
         examples: [
           "Steck dich nicht an! (Don't catch it!)",
-          "Ich habe mich mit Grippe angesteckt. (I caught the flu.)"
-        ]
+          "Ich habe mich mit Grippe angesteckt. (I caught the flu.)",
+        ],
       },
       {
         verb: "sich erholen",
@@ -571,8 +571,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Getting better from illness or fatigue",
         examples: [
           "Erhol dich gut! (Get well!)",
-          "Er erholt sich von der Operation. (He's recovering from the operation.)"
-        ]
+          "Er erholt sich von der Operation. (He's recovering from the operation.)",
+        ],
       },
       {
         verb: "sich ausruhen",
@@ -580,8 +580,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking a break to restore energy",
         examples: [
           "Ruh dich aus! (Rest!)",
-          "Ich ruhe mich nach der Arbeit aus. (I rest after work.)"
-        ]
+          "Ich ruhe mich nach der Arbeit aus. (I rest after work.)",
+        ],
       },
       {
         verb: "sich hinlegen",
@@ -589,8 +589,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Lying down to rest",
         examples: [
           "Leg dich hin! (Lie down!)",
-          "Ich lege mich aufs Sofa. (I lie down on the sofa.)"
-        ]
+          "Ich lege mich aufs Sofa. (I lie down on the sofa.)",
+        ],
       },
       {
         verb: "sich strecken",
@@ -598,8 +598,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Extending the body or limbs",
         examples: [
           "Streck dich! (Stretch!)",
-          "Ich strecke mich nach dem Schlafen. (I stretch after sleeping.)"
-        ]
+          "Ich strecke mich nach dem Schlafen. (I stretch after sleeping.)",
+        ],
       },
       {
         verb: "sich bücken",
@@ -607,8 +607,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Bending the body downward",
         examples: [
           "Bück dich! (Bend down!)",
-          "Ich bücke mich nach dem Ball. (I bend down for the ball.)"
-        ]
+          "Ich bücke mich nach dem Ball. (I bend down for the ball.)",
+        ],
       },
       {
         verb: "sich umdrehen",
@@ -616,8 +616,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Turning to face the opposite direction",
         examples: [
           "Dreh dich um! (Turn around!)",
-          "Sie dreht sich nach dem Geräusch um. (She turns around at the noise.)"
-        ]
+          "Sie dreht sich nach dem Geräusch um. (She turns around at the noise.)",
+        ],
       },
       {
         verb: "sich wenden",
@@ -625,8 +625,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Turning to someone for help",
         examples: [
           "Wende dich an mich! (Turn to me!)",
-          "Ich wende mich an den Anwalt. (I turn to the lawyer.)"
-        ]
+          "Ich wende mich an den Anwalt. (I turn to the lawyer.)",
+        ],
       },
       {
         verb: "sich nähern",
@@ -634,8 +634,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Coming closer to something",
         examples: [
           "Nähere dich! (Approach!)",
-          "Das Auto nähert sich der Kreuzung. (The car approaches the intersection.)"
-        ]
+          "Das Auto nähert sich der Kreuzung. (The car approaches the intersection.)",
+        ],
       },
       {
         verb: "sich entfernen",
@@ -643,8 +643,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Going further from something",
         examples: [
           "Entferne dich! (Move away!)",
-          "Ich entferne mich vom Lärm. (I move away from the noise.)"
-        ]
+          "Ich entferne mich vom Lärm. (I move away from the noise.)",
+        ],
       },
       {
         verb: "sich bewegen",
@@ -652,8 +652,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Changing position or exercising",
         examples: [
           "Bewege dich! (Move!)",
-          "Ich bewege mich zu wenig. (I don't move enough.)"
-        ]
+          "Ich bewege mich zu wenig. (I don't move enough.)",
+        ],
       },
       {
         verb: "sich verstecken",
@@ -661,8 +661,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Concealing oneself",
         examples: [
           "Versteck dich! (Hide!)",
-          "Das Kind versteckt sich unter dem Bett. (The child hides under the bed.)"
-        ]
+          "Das Kind versteckt sich unter dem Bett. (The child hides under the bed.)",
+        ],
       },
       {
         verb: "sich zeigen",
@@ -670,8 +670,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming visible or apparent",
         examples: [
           "Zeig dich! (Show yourself!)",
-          "Die Sonne zeigt sich zwischen den Wolken. (The sun shows itself between the clouds.)"
-        ]
+          "Die Sonne zeigt sich zwischen den Wolken. (The sun shows itself between the clouds.)",
+        ],
       },
       {
         verb: "sich bewerben",
@@ -679,8 +679,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Submitting an application",
         examples: [
           "Bewirb dich für die Stelle! (Apply for the job!)",
-          "Ich bewerbe mich um eine neue Position. (I'm applying for a new position.)"
-        ]
+          "Ich bewerbe mich um eine neue Position. (I'm applying for a new position.)",
+        ],
       },
       {
         verb: "sich informieren",
@@ -688,8 +688,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Gathering information",
         examples: [
           "Informiere dich! (Inform yourself!)",
-          "Ich informiere mich über das Angebot. (I inform myself about the offer.)"
-        ]
+          "Ich informiere mich über das Angebot. (I inform myself about the offer.)",
+        ],
       },
       {
         verb: "sich erkundigen",
@@ -697,8 +697,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Asking for information",
         examples: [
           "Erkundige dich! (Inquire!)",
-          "Ich erkundige mich nach den Preisen. (I inquire about the prices.)"
-        ]
+          "Ich erkundige mich nach den Preisen. (I inquire about the prices.)",
+        ],
       },
       {
         verb: "sich interessieren",
@@ -706,8 +706,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Having interest in something",
         examples: [
           "Interessiere dich für Kunst! (Be interested in art!)",
-          "Ich interessiere mich für Geschichte. (I'm interested in history.)"
-        ]
+          "Ich interessiere mich für Geschichte. (I'm interested in history.)",
+        ],
       },
       {
         verb: "sich beteiligen",
@@ -715,8 +715,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking part in something",
         examples: [
           "Beteilige dich! (Participate!)",
-          "Ich beteilige mich an der Diskussion. (I participate in the discussion.)"
-        ]
+          "Ich beteilige mich an der Diskussion. (I participate in the discussion.)",
+        ],
       },
       {
         verb: "sich engagieren",
@@ -724,8 +724,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Committing oneself to a cause",
         examples: [
           "Engagiere dich! (Get involved!)",
-          "Sie engagiert sich für den Umweltschutz. (She gets involved in environmental protection.)"
-        ]
+          "Sie engagiert sich für den Umweltschutz. (She gets involved in environmental protection.)",
+        ],
       },
       {
         verb: "sich einsetzen",
@@ -733,8 +733,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Fighting for a cause",
         examples: [
           "Setze dich ein! (Commit yourself!)",
-          "Ich setze mich für Gerechtigkeit ein. (I advocate for justice.)"
-        ]
+          "Ich setze mich für Gerechtigkeit ein. (I advocate for justice.)",
+        ],
       },
       {
         verb: "sich weigern",
@@ -742,8 +742,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Declining to do something",
         examples: [
           "Weigere dich! (Refuse!)",
-          "Er weigert sich zu helfen. (He refuses to help.)"
-        ]
+          "Er weigert sich zu helfen. (He refuses to help.)",
+        ],
       },
       {
         verb: "sich wehren",
@@ -751,8 +751,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Fighting back or resisting",
         examples: [
           "Wehre dich! (Defend yourself!)",
-          "Sie wehrt sich gegen die Anschuldigungen. (She defends herself against the accusations.)"
-        ]
+          "Sie wehrt sich gegen die Anschuldigungen. (She defends herself against the accusations.)",
+        ],
       },
       {
         verb: "sich rächen",
@@ -760,8 +760,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Getting back at someone",
         examples: [
           "Räche dich nicht! (Don't take revenge!)",
-          "Er rächt sich an seinem Feind. (He takes revenge on his enemy.)"
-        ]
+          "Er rächt sich an seinem Feind. (He takes revenge on his enemy.)",
+        ],
       },
       {
         verb: "sich besserн",
@@ -769,8 +769,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming better",
         examples: [
           "Bessere dich! (Improve!)",
-          "Sein Verhalten hat sich gebessert. (His behavior has improved.)"
-        ]
+          "Sein Verhalten hat sich gebessert. (His behavior has improved.)",
+        ],
       },
       {
         verb: "sich verschlechtern",
@@ -778,8 +778,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming worse",
         examples: [
           "Verschlechtere dich nicht! (Don't deteriorate!)",
-          "Sein Zustand hat sich verschlechtert. (His condition has worsened.)"
-        ]
+          "Sein Zustand hat sich verschlechtert. (His condition has worsened.)",
+        ],
       },
       {
         verb: "sich verändern",
@@ -787,8 +787,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Undergoing change",
         examples: [
           "Verändere dich! (Change!)",
-          "Sie hat sich sehr verändert. (She has changed a lot.)"
-        ]
+          "Sie hat sich sehr verändert. (She has changed a lot.)",
+        ],
       },
       {
         verb: "sich entwickeln",
@@ -796,8 +796,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Growing or evolving",
         examples: [
           "Entwickle dich! (Develop!)",
-          "Das Kind entwickelt sich gut. (The child is developing well.)"
-        ]
+          "Das Kind entwickelt sich gut. (The child is developing well.)",
+        ],
       },
       {
         verb: "sich bilden",
@@ -805,8 +805,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Forming or self-education",
         examples: [
           "Bilde dich! (Educate yourself!)",
-          "Wolken bilden sich am Himmel. (Clouds are forming in the sky.)"
-        ]
+          "Wolken bilden sich am Himmel. (Clouds are forming in the sky.)",
+        ],
       },
       {
         verb: "sich fortbilden",
@@ -814,8 +814,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Continuing professional development",
         examples: [
           "Bilde dich fort! (Continue your education!)",
-          "Ich bilde mich beruflich fort. (I continue my professional education.)"
-        ]
+          "Ich bilde mich beruflich fort. (I continue my professional education.)",
+        ],
       },
       {
         verb: "sich weiterbilden",
@@ -823,8 +823,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Advancing one's education",
         examples: [
           "Bilde dich weiter! (Further your education!)",
-          "Sie bildet sich ständig weiter. (She constantly furthers her education.)"
-        ]
+          "Sie bildet sich ständig weiter. (She constantly furthers her education.)",
+        ],
       },
       {
         verb: "sich ausbilden",
@@ -832,8 +832,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Receiving training or education",
         examples: [
           "Bilde dich aus! (Get trained!)",
-          "Er bildet sich zum Mechaniker aus. (He's training to be a mechanic.)"
-        ]
+          "Er bildet sich zum Mechaniker aus. (He's training to be a mechanic.)",
+        ],
       },
       {
         verb: "sich spezialisieren",
@@ -841,8 +841,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Focusing on a specific area",
         examples: [
           "Spezialisiere dich! (Specialize!)",
-          "Sie spezialisiert sich auf Kardiologie. (She specializes in cardiology.)"
-        ]
+          "Sie spezialisiert sich auf Kardiologie. (She specializes in cardiology.)",
+        ],
       },
       {
         verb: "sich qualifizieren",
@@ -850,8 +850,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Gaining qualifications",
         examples: [
           "Qualifiziere dich! (Qualify!)",
-          "Er qualifiziert sich für die WM. (He qualifies for the World Cup.)"
-        ]
+          "Er qualifiziert sich für die WM. (He qualifies for the World Cup.)",
+        ],
       },
       {
         verb: "sich besinnen",
@@ -859,8 +859,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Thinking deeply or remembering",
         examples: [
           "Besinne dich! (Reflect!)",
-          "Ich besinne mich auf meine Werte. (I reflect on my values.)"
-        ]
+          "Ich besinne mich auf meine Werte. (I reflect on my values.)",
+        ],
       },
       {
         verb: "sich überlegen",
@@ -868,8 +868,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Considering something carefully",
         examples: [
           "Überleg dir das! (Think that over!)",
-          "Ich überlege mir den Vorschlag. (I'm considering the proposal.)"
-        ]
+          "Ich überlege mir den Vorschlag. (I'm considering the proposal.)",
+        ],
       },
       {
         verb: "sich vorstellen",
@@ -877,8 +877,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Using imagination or self-introduction",
         examples: [
           "Stell dir vor! (Imagine!)",
-          "Ich stelle mich der Gruppe vor. (I introduce myself to the group.)"
-        ]
+          "Ich stelle mich der Gruppe vor. (I introduce myself to the group.)",
+        ],
       },
       {
         verb: "sich einbilden",
@@ -886,8 +886,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Having false beliefs or being vain",
         examples: [
           "Bilde dir das nicht ein! (Don't imagine that!)",
-          "Er bildet sich viel ein. (He's very conceited.)"
-        ]
+          "Er bildet sich viel ein. (He's very conceited.)",
+        ],
       },
       {
         verb: "sich ausdenken",
@@ -895,8 +895,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Creating ideas or stories",
         examples: [
           "Denk dir was aus! (Think something up!)",
-          "Sie denkt sich Geschichten aus. (She makes up stories.)"
-        ]
+          "Sie denkt sich Geschichten aus. (She makes up stories.)",
+        ],
       },
       {
         verb: "sich erhalten",
@@ -904,8 +904,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Keeping oneself alive or in good condition",
         examples: [
           "Erhalte dich gesund! (Keep yourself healthy!)",
-          "Die Tradition erhält sich seit Jahrhunderten. (The tradition has maintained itself for centuries.)"
-        ]
+          "Die Tradition erhält sich seit Jahrhunderten. (The tradition has maintained itself for centuries.)",
+        ],
       },
       {
         verb: "sich ernähren",
@@ -913,8 +913,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Providing oneself with food",
         examples: [
           "Ernähre dich gesund! (Eat healthily!)",
-          "Ich ernähre mich vegetarisch. (I eat vegetarian food.)"
-        ]
+          "Ich ernähre mich vegetarisch. (I eat vegetarian food.)",
+        ],
       },
       {
         verb: "sich versorgen",
@@ -922,8 +922,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Taking care of one's needs",
         examples: [
           "Versorge dich selbst! (Provide for yourself!)",
-          "Sie versorgt sich mit allem Nötigen. (She provides herself with everything necessary.)"
-        ]
+          "Sie versorgt sich mit allem Nötigen. (She provides herself with everything necessary.)",
+        ],
       },
       {
         verb: "sich organisieren",
@@ -931,8 +931,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Arranging one's affairs",
         examples: [
           "Organisiere dich besser! (Organize yourself better!)",
-          "Ich organisiere mich für die Prüfung. (I organize myself for the exam.)"
-        ]
+          "Ich organisiere mich für die Prüfung. (I organize myself for the exam.)",
+        ],
       },
       {
         verb: "sich orientieren",
@@ -940,8 +940,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Finding one's bearings",
         examples: [
           "Orientiere dich! (Orient yourself!)",
-          "Ich orientiere mich am Stadtplan. (I orient myself using the city map.)"
-        ]
+          "Ich orientiere mich am Stadtplan. (I orient myself using the city map.)",
+        ],
       },
       {
         verb: "sich zurechtfinden",
@@ -949,8 +949,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Managing to navigate",
         examples: [
           "Finde dich zurecht! (Find your way!)",
-          "Ich finde mich in der Stadt nicht zurecht. (I can't find my way around the city.)"
-        ]
+          "Ich finde mich in der Stadt nicht zurecht. (I can't find my way around the city.)",
+        ],
       },
       {
         verb: "sich durchsetzen",
@@ -958,8 +958,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Getting one's way",
         examples: [
           "Setze dich durch! (Assert yourself!)",
-          "Sie setzt sich gegen alle durch. (She asserts herself against everyone.)"
-        ]
+          "Sie setzt sich gegen alle durch. (She asserts herself against everyone.)",
+        ],
       },
       {
         verb: "sich behaupten",
@@ -967,8 +967,8 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Maintaining one's position",
         examples: [
           "Behaupte dich! (Assert yourself!)",
-          "Er behauptet sich im Beruf. (He asserts himself in his career.)"
-        ]
+          "Er behauptet sich im Beruf. (He asserts himself in his career.)",
+        ],
       },
       {
         verb: "sich etablieren",
@@ -976,9 +976,1017 @@ export const germanReflexiveVerbs: VerbGroup[] = [
         keyPoint: "Becoming established",
         examples: [
           "Etabliere dich! (Establish yourself!)",
-          "Das Unternehmen etabliert sich am Markt. (The company establishes itself in the market.)"
-        ]
-      }
-    ]
-  }
+          "Das Unternehmen etabliert sich am Markt. (The company establishes itself in the market.)",
+        ],
+      },
+      {
+        verb: "sich anpassen",
+        translation: "to adapt oneself",
+        keyPoint: "Adjusting to new circumstances",
+        examples: [
+          "Ich passe mich der neuen Situation an. (I adapt to the new situation.)",
+          "Er hat sich schnell angepasst. (He adapted quickly.)",
+        ],
+      },
+      {
+        verb: "sich gewöhnen",
+        translation: "to get used to",
+        keyPoint: "Becoming accustomed",
+        examples: [
+          "Ich gewöhne mich an das Klima. (I get used to the climate.)",
+          "Sie hat sich daran gewöhnt. (She has gotten used to it.)",
+        ],
+      },
+      {
+        verb: "sich eingewöhnen",
+        translation: "to settle in",
+        keyPoint: "Getting comfortable in new environment",
+        examples: [
+          "Ich gewöhne mich in der neuen Stadt ein. (I settle in the new city.)",
+          "Die Familie hat sich gut eingewöhnt. (The family has settled in well.)",
+        ],
+      },
+      {
+        verb: "sich einleben",
+        translation: "to settle in",
+        keyPoint: "Adapting to new life situation",
+        examples: [
+          "Ich lebe mich langsam ein. (I'm slowly settling in.)",
+          "Er hat sich gut eingelebt. (He has settled in well.)",
+        ],
+      },
+      {
+        verb: "sich einfügen",
+        translation: "to fit in",
+        keyPoint: "Integrating into a group",
+        examples: [
+          "Ich füge mich in das Team ein. (I fit into the team.)",
+          "Sie hat sich gut eingefügt. (She has fit in well.)",
+        ],
+      },
+      {
+        verb: "sich integrieren",
+        translation: "to integrate",
+        keyPoint: "Becoming part of a whole",
+        examples: [
+          "Die Migranten integrieren sich. (The migrants integrate.)",
+          "Er hat sich vollständig integriert. (He has integrated completely.)",
+        ],
+      },
+      {
+        verb: "sich assimilieren",
+        translation: "to assimilate",
+        keyPoint: "Adopting culture of another group",
+        examples: [
+          "Die Einwanderer assimilieren sich. (The immigrants assimilate.)",
+          "Sie haben sich kulturell assimiliert. (They have culturally assimilated.)",
+        ],
+      },
+      {
+        verb: "sich isolieren",
+        translation: "to isolate oneself",
+        keyPoint: "Separating from others",
+        examples: [
+          "Er isoliert sich von der Gruppe. (He isolates himself from the group.)",
+          "Sie hat sich völlig isoliert. (She has completely isolated herself.)",
+        ],
+      },
+      {
+        verb: "sich absondern",
+        translation: "to separate oneself",
+        keyPoint: "Setting oneself apart",
+        examples: [
+          "Ich sondere mich von den anderen ab. (I separate myself from the others.)",
+          "Er hat sich abgesondert. (He has separated himself.)",
+        ],
+      },
+      {
+        verb: "sich zurückziehen",
+        translation: "to withdraw",
+        keyPoint: "Retreating from activity or society",
+        examples: [
+          "Ich ziehe mich zurück. (I withdraw.)",
+          "Sie hat sich aus der Politik zurückgezogen. (She has withdrawn from politics.)",
+        ],
+      },
+      {
+        verb: "sich distanzieren",
+        translation: "to distance oneself",
+        keyPoint: "Creating distance",
+        examples: [
+          "Ich distanziere mich von diesen Aussagen. (I distance myself from these statements.)",
+          "Er hat sich distanziert. (He has distanced himself.)",
+        ],
+      },
+      {
+        verb: "sich abgrenzen",
+        translation: "to set oneself apart",
+        keyPoint: "Defining boundaries",
+        examples: [
+          "Ich grenze mich von der Konkurrenz ab. (I set myself apart from the competition.)",
+          "Die Partei hat sich abgegrenzt. (The party has set itself apart.)",
+        ],
+      },
+      {
+        verb: "sich unterscheiden",
+        translation: "to differ",
+        keyPoint: "Being different",
+        examples: [
+          "Die Zwillinge unterscheiden sich kaum. (The twins hardly differ.)",
+          "Die Meinungen haben sich unterschieden. (The opinions differed.)",
+        ],
+      },
+      {
+        verb: "sich auszeichnen",
+        translation: "to distinguish oneself",
+        keyPoint: "Standing out positively",
+        examples: [
+          "Sie zeichnet sich durch Fleiß aus. (She distinguishes herself through diligence.)",
+          "Er hat sich ausgezeichnet. (He has distinguished himself.)",
+        ],
+      },
+      {
+        verb: "sich hervortun",
+        translation: "to stand out",
+        keyPoint: "Being prominent or noticeable",
+        examples: [
+          "Er tut sich als Redner hervor. (He stands out as a speaker.)",
+          "Sie hat sich hervorgetan. (She has stood out.)",
+        ],
+      },
+      {
+        verb: "sich profilieren",
+        translation: "to raise one's profile",
+        keyPoint: "Making oneself known",
+        examples: [
+          "Der Politiker profiliert sich. (The politician raises his profile.)",
+          "Sie hat sich erfolgreich profiliert. (She has successfully raised her profile.)",
+        ],
+      },
+      {
+        verb: "sich positionieren",
+        translation: "to position oneself",
+        keyPoint: "Taking a stance",
+        examples: [
+          "Ich positioniere mich zu diesem Thema. (I position myself on this topic.)",
+          "Die Firma hat sich am Markt positioniert. (The company has positioned itself in the market.)",
+        ],
+      },
+      {
+        verb: "sich orientieren",
+        translation: "to orient oneself",
+        keyPoint: "Finding direction or guidance",
+        examples: [
+          "Ich orientiere mich an den Sternen. (I orient myself by the stars.)",
+          "Er hat sich neu orientiert. (He has reoriented himself.)",
+        ],
+      },
+      {
+        verb: "sich informieren",
+        translation: "to inform oneself",
+        keyPoint: "Gathering information",
+        examples: [
+          "Ich informiere mich über das Thema. (I inform myself about the topic.)",
+          "Sie hat sich gut informiert. (She has informed herself well.)",
+        ],
+      },
+      {
+        verb: "sich erkundigen",
+        translation: "to inquire",
+        keyPoint: "Asking for information",
+        examples: [
+          "Ich erkundige mich nach dem Weg. (I inquire about the way.)",
+          "Er hat sich erkundigt. (He has inquired.)",
+        ],
+      },
+      {
+        verb: "sich vergewissern",
+        translation: "to make sure",
+        keyPoint: "Confirming certainty",
+        examples: [
+          "Ich vergewissere mich der Fakten. (I make sure of the facts.)",
+          "Sie hat sich vergewissert. (She has made sure.)",
+        ],
+      },
+      {
+        verb: "sich versichern",
+        translation: "to assure oneself",
+        keyPoint: "Seeking confirmation",
+        examples: [
+          "Ich versichere mich seiner Hilfe. (I assure myself of his help.)",
+          "Er hat sich versichert. (He has assured himself.)",
+        ],
+      },
+      {
+        verb: "sich verständigen",
+        translation: "to communicate",
+        keyPoint: "Reaching understanding",
+        examples: [
+          "Wir verständigen uns auf Englisch. (We communicate in English.)",
+          "Sie haben sich verständigt. (They have communicated.)",
+        ],
+      },
+      {
+        verb: "sich aussprechen",
+        translation: "to speak out",
+        keyPoint: "Expressing one's opinion",
+        examples: [
+          "Ich spreche mich gegen Gewalt aus. (I speak out against violence.)",
+          "Er hat sich ausgesprochen. (He has spoken out.)",
+        ],
+      },
+      {
+        verb: "sich äußern",
+        translation: "to express oneself",
+        keyPoint: "Making statements",
+        examples: [
+          "Ich äußere mich zu diesem Thema. (I express myself on this topic.)",
+          "Sie hat sich geäußert. (She has expressed herself.)",
+        ],
+      },
+      {
+        verb: "sich mitteilen",
+        translation: "to communicate",
+        keyPoint: "Sharing thoughts or feelings",
+        examples: [
+          "Ich teile mich dir mit. (I communicate with you.)",
+          "Er hat sich mitgeteilt. (He has communicated.)",
+        ],
+      },
+      {
+        verb: "sich offenbaren",
+        translation: "to reveal oneself",
+        keyPoint: "Showing one's true nature",
+        examples: [
+          "Die Wahrheit offenbart sich. (The truth reveals itself.)",
+          "Er hat sich offenbart. (He has revealed himself.)",
+        ],
+      },
+      {
+        verb: "sich zeigen",
+        translation: "to show oneself",
+        keyPoint: "Making an appearance",
+        examples: [
+          "Ich zeige mich von meiner besten Seite. (I show myself at my best.)",
+          "Sie hat sich gezeigt. (She has shown herself.)",
+        ],
+      },
+      {
+        verb: "sich präsentieren",
+        translation: "to present oneself",
+        keyPoint: "Making a presentation of oneself",
+        examples: [
+          "Ich präsentiere mich beim Vorstellungsgespräch. (I present myself at the job interview.)",
+          "Er hat sich gut präsentiert. (He has presented himself well.)",
+        ],
+      },
+      {
+        verb: "sich darstellen",
+        translation: "to present oneself",
+        keyPoint: "Portraying oneself",
+        examples: [
+          "Er stellt sich als Experte dar. (He presents himself as an expert.)",
+          "Sie hat sich anders dargestellt. (She has presented herself differently.)",
+        ],
+      },
+      {
+        verb: "sich verhalten",
+        translation: "to behave",
+        keyPoint: "Acting in a certain way",
+        examples: [
+          "Ich verhalte mich ruhig. (I behave calmly.)",
+          "Er hat sich gut verhalten. (He has behaved well.)",
+        ],
+      },
+      {
+        verb: "sich benehmen",
+        translation: "to behave",
+        keyPoint: "Conducting oneself properly",
+        examples: [
+          "Benimm dich! (Behave yourself!)",
+          "Die Kinder haben sich gut benommen. (The children have behaved well.)",
+        ],
+      },
+      {
+        verb: "sich aufführen",
+        translation: "to behave",
+        keyPoint: "Conducting oneself (often badly)",
+        examples: [
+          "Wie führst du dich auf? (How are you behaving?)",
+          "Er hat sich schlecht aufgeführt. (He has behaved badly.)",
+        ],
+      },
+      {
+        verb: "sich gebärden",
+        translation: "to act",
+        keyPoint: "Behaving in a dramatic way",
+        examples: [
+          "Er gebärdet sich wie ein König. (He acts like a king.)",
+          "Sie hat sich seltsam gebärdet. (She has acted strangely.)",
+        ],
+      },
+      {
+        verb: "sich geben",
+        translation: "to act",
+        keyPoint: "Presenting oneself in a certain way",
+        examples: [
+          "Er gibt sich cool. (He acts cool.)",
+          "Sie hat sich natürlich gegeben. (She has acted naturally.)",
+        ],
+      },
+      {
+        verb: "sich stellen",
+        translation: "to position oneself",
+        keyPoint: "Taking a position or pretending",
+        examples: [
+          "Ich stelle mich hinter dich. (I position myself behind you.)",
+          "Er hat sich krank gestellt. (He has pretended to be sick.)",
+        ],
+      },
+      {
+        verb: "sich verstellen",
+        translation: "to pretend",
+        keyPoint: "Acting contrary to one's true nature",
+        examples: [
+          "Ich verstelle mich nicht. (I don't pretend.)",
+          "Sie hat sich verstellt. (She has pretended.)",
+        ],
+      },
+      {
+        verb: "sich tarnen",
+        translation: "to camouflage oneself",
+        keyPoint: "Hiding one's true identity",
+        examples: [
+          "Der Spion tarnt sich. (The spy camouflages himself.)",
+          "Er hat sich erfolgreich getarnt. (He has successfully camouflaged himself.)",
+        ],
+      },
+      {
+        verb: "sich maskieren",
+        translation: "to mask oneself",
+        keyPoint: "Concealing identity",
+        examples: [
+          "Ich maskiere mich für Karneval. (I mask myself for carnival.)",
+          "Die Diebe haben sich maskiert. (The thieves have masked themselves.)",
+        ],
+      },
+      {
+        verb: "sich verkleiden",
+        translation: "to disguise oneself",
+        keyPoint: "Changing appearance",
+        examples: [
+          "Ich verkleide mich als Pirat. (I disguise myself as a pirate.)",
+          "Sie hat sich verkleidet. (She has disguised herself.)",
+        ],
+      },
+      {
+        verb: "sich verwandeln",
+        translation: "to transform",
+        keyPoint: "Changing into something different",
+        examples: [
+          "Die Raupe verwandelt sich in einen Schmetterling. (The caterpillar transforms into a butterfly.)",
+          "Er hat sich völlig verwandelt. (He has completely transformed.)",
+        ],
+      },
+      {
+        verb: "sich verändern",
+        translation: "to change",
+        keyPoint: "Becoming different",
+        examples: [
+          "Ich verändere mich ständig. (I'm constantly changing.)",
+          "Sie hat sich sehr verändert. (She has changed a lot.)",
+        ],
+      },
+      {
+        verb: "sich entwickeln",
+        translation: "to develop",
+        keyPoint: "Growing or evolving",
+        examples: [
+          "Das Kind entwickelt sich gut. (The child is developing well.)",
+          "Die Situation hat sich entwickelt. (The situation has developed.)",
+        ],
+      },
+      {
+        verb: "sich weiterentwickeln",
+        translation: "to develop further",
+        keyPoint: "Continuing to grow",
+        examples: [
+          "Ich entwickle mich beruflich weiter. (I develop further professionally.)",
+          "Das Projekt hat sich weiterentwickelt. (The project has developed further.)",
+        ],
+      },
+      {
+        verb: "sich fortentwickeln",
+        translation: "to evolve",
+        keyPoint: "Continuing evolution",
+        examples: [
+          "Die Technologie entwickelt sich fort. (Technology evolves.)",
+          "Die Sprache hat sich fortentwickelt. (The language has evolved.)",
+        ],
+      },
+      {
+        verb: "sich ausbilden",
+        translation: "to train",
+        keyPoint: "Getting education or training",
+        examples: [
+          "Ich bilde mich zum Arzt aus. (I train to be a doctor.)",
+          "Er hat sich ausgebildet. (He has trained.)",
+        ],
+      },
+      {
+        verb: "sich fortbilden",
+        translation: "to continue education",
+        keyPoint: "Ongoing professional development",
+        examples: [
+          "Ich bilde mich beruflich fort. (I continue my professional education.)",
+          "Sie hat sich fortgebildet. (She has continued her education.)",
+        ],
+      },
+      {
+        verb: "sich weiterbilden",
+        translation: "to further educate",
+        keyPoint: "Expanding knowledge and skills",
+        examples: [
+          "Ich bilde mich ständig weiter. (I constantly further educate myself.)",
+          "Er hat sich weitergebildet. (He has furthered his education.)",
+        ],
+      },
+      {
+        verb: "sich qualifizieren",
+        translation: "to qualify",
+        keyPoint: "Meeting requirements",
+        examples: [
+          "Ich qualifiziere mich für den Job. (I qualify for the job.)",
+          "Das Team hat sich qualifiziert. (The team has qualified.)",
+        ],
+      },
+      {
+        verb: "sich spezialisieren",
+        translation: "to specialize",
+        keyPoint: "Focusing on specific area",
+        examples: [
+          "Ich spezialisiere mich auf Computertechnik. (I specialize in computer technology.)",
+          "Der Arzt hat sich spezialisiert. (The doctor has specialized.)",
+        ],
+      },
+      {
+        verb: "sich perfektionieren",
+        translation: "to perfect oneself",
+        keyPoint: "Achieving perfection",
+        examples: [
+          "Ich perfektioniere meine Technik. (I perfect my technique.)",
+          "Sie hat sich perfektioniert. (She has perfected herself.)",
+        ],
+      },
+      {
+        verb: "sich verbessern",
+        translation: "to improve",
+        keyPoint: "Getting better",
+        examples: [
+          "Ich verbessere mich täglich. (I improve daily.)",
+          "Seine Leistung hat sich verbessert. (His performance has improved.)",
+        ],
+      },
+      {
+        verb: "sich verschlechtern",
+        translation: "to deteriorate",
+        keyPoint: "Getting worse",
+        examples: [
+          "Mein Zustand verschlechtert sich. (My condition is deteriorating.)",
+          "Das Wetter hat sich verschlechtert. (The weather has deteriorated.)",
+        ],
+      },
+      {
+        verb: "sich erholen",
+        translation: "to recover",
+        keyPoint: "Getting better after illness or fatigue",
+        examples: [
+          "Ich erhole mich von der Krankheit. (I recover from the illness.)",
+          "Er hat sich erholt. (He has recovered.)",
+        ],
+      },
+      {
+        verb: "sich regenerieren",
+        translation: "to regenerate",
+        keyPoint: "Renewing or restoring",
+        examples: [
+          "Die Haut regeneriert sich. (The skin regenerates.)",
+          "Er hat sich regeneriert. (He has regenerated.)",
+        ],
+      },
+      {
+        verb: "sich revitalisieren",
+        translation: "to revitalize",
+        keyPoint: "Restoring vitality",
+        examples: [
+          "Ich revitalisiere mich im Urlaub. (I revitalize myself on vacation.)",
+          "Die Stadt hat sich revitalisiert. (The city has revitalized.)",
+        ],
+      },
+      {
+        verb: "sich stabilisieren",
+        translation: "to stabilize",
+        keyPoint: "Becoming stable",
+        examples: [
+          "Mein Zustand stabilisiert sich. (My condition is stabilizing.)",
+          "Die Wirtschaft hat sich stabilisiert. (The economy has stabilized.)",
+        ],
+      },
+      {
+        verb: "sich normalisieren",
+        translation: "to normalize",
+        keyPoint: "Returning to normal",
+        examples: [
+          "Die Lage normalisiert sich. (The situation is normalizing.)",
+          "Alles hat sich normalisiert. (Everything has normalized.)",
+        ],
+      },
+      {
+        verb: "sich beruhigen",
+        translation: "to calm down",
+        keyPoint: "Becoming calm",
+        examples: [
+          "Beruhige dich! (Calm down!)",
+          "Die Situation hat sich beruhigt. (The situation has calmed down.)",
+        ],
+      },
+      {
+        verb: "sich entspannen",
+        translation: "to relax",
+        keyPoint: "Releasing tension",
+        examples: [
+          "Ich entspanne mich am Strand. (I relax at the beach.)",
+          "Er hat sich entspannt. (He has relaxed.)",
+        ],
+      },
+      {
+        verb: "sich ausruhen",
+        translation: "to rest",
+        keyPoint: "Taking a break",
+        examples: [
+          "Ich ruhe mich aus. (I rest.)",
+          "Sie hat sich ausgeruht. (She has rested.)",
+        ],
+      },
+      {
+        verb: "sich erholen",
+        translation: "to recuperate",
+        keyPoint: "Recovering strength",
+        examples: [
+          "Ich erhole mich vom Stress. (I recuperate from stress.)",
+          "Er hat sich gut erholt. (He has recuperated well.)",
+        ],
+      },
+      {
+        verb: "sich stärken",
+        translation: "to strengthen oneself",
+        keyPoint: "Building strength",
+        examples: [
+          "Ich stärke mich mit einem Kaffee. (I strengthen myself with a coffee.)",
+          "Sie hat sich gestärkt. (She has strengthened herself.)",
+        ],
+      },
+      {
+        verb: "sich kräftigen",
+        translation: "to strengthen",
+        keyPoint: "Building physical strength",
+        examples: [
+          "Ich kräftige mich durch Sport. (I strengthen myself through sports.)",
+          "Er hat sich gekräftigt. (He has strengthened.)",
+        ],
+      },
+      {
+        verb: "sich trainieren",
+        translation: "to train",
+        keyPoint: "Physical or mental training",
+        examples: [
+          "Ich trainiere mich für den Marathon. (I train for the marathon.)",
+          "Das Team hat sich trainiert. (The team has trained.)",
+        ],
+      },
+      {
+        verb: "sich vorbereiten",
+        translation: "to prepare",
+        keyPoint: "Getting ready",
+        examples: [
+          "Ich bereite mich auf die Prüfung vor. (I prepare for the exam.)",
+          "Sie hat sich vorbereitet. (She has prepared.)",
+        ],
+      },
+      {
+        verb: "sich rüsten",
+        translation: "to arm oneself",
+        keyPoint: "Preparing for conflict",
+        examples: [
+          "Das Land rüstet sich für den Krieg. (The country arms itself for war.)",
+          "Sie haben sich gerüstet. (They have armed themselves.)",
+        ],
+      },
+      {
+        verb: "sich wappnen",
+        translation: "to prepare oneself",
+        keyPoint: "Getting ready for difficulties",
+        examples: [
+          "Ich wappne mich gegen Kritik. (I prepare myself against criticism.)",
+          "Er hat sich gewappnet. (He has prepared himself.)",
+        ],
+      },
+      {
+        verb: "sich sammeln",
+        translation: "to collect oneself",
+        keyPoint: "Gathering strength or thoughts",
+        examples: [
+          "Ich sammle mich vor dem Auftritt. (I collect myself before the performance.)",
+          "Sie hat sich gesammelt. (She has collected herself.)",
+        ],
+      },
+      {
+        verb: "sich konzentrieren",
+        translation: "to concentrate",
+        keyPoint: "Focusing attention",
+        examples: [
+          "Ich konzentriere mich auf die Arbeit. (I concentrate on work.)",
+          "Er hat sich konzentriert. (He has concentrated.)",
+        ],
+      },
+      {
+        verb: "sich fokussieren",
+        translation: "to focus",
+        keyPoint: "Directing attention to specific point",
+        examples: [
+          "Ich fokussiere mich auf das Ziel. (I focus on the goal.)",
+          "Das Team hat sich fokussiert. (The team has focused.)",
+        ],
+      },
+      {
+        verb: "sich vertiefen",
+        translation: "to immerse oneself",
+        keyPoint: "Going deep into something",
+        examples: [
+          "Ich vertiefe mich in das Buch. (I immerse myself in the book.)",
+          "Er hat sich vertieft. (He has immersed himself.)",
+        ],
+      },
+      {
+        verb: "sich verlieren",
+        translation: "to lose oneself",
+        keyPoint: "Getting absorbed or lost",
+        examples: [
+          "Ich verliere mich in der Musik. (I lose myself in the music.)",
+          "Sie hat sich verloren. (She has lost herself.)",
+        ],
+      },
+      {
+        verb: "sich hingeben",
+        translation: "to give oneself up to",
+        keyPoint: "Surrendering to something",
+        examples: [
+          "Ich gebe mich der Musik hin. (I give myself up to the music.)",
+          "Er hat sich hingegeben. (He has given himself up.)",
+        ],
+      },
+      {
+        verb: "sich widmen",
+        translation: "to dedicate oneself",
+        keyPoint: "Devoting time and energy",
+        examples: [
+          "Ich widme mich meiner Familie. (I dedicate myself to my family.)",
+          "Sie hat sich der Kunst gewidmet. (She has dedicated herself to art.)",
+        ],
+      },
+      {
+        verb: "sich opfern",
+        translation: "to sacrifice oneself",
+        keyPoint: "Giving up something for others",
+        examples: [
+          "Ich opfere mich für die Familie. (I sacrifice myself for the family.)",
+          "Er hat sich geopfert. (He has sacrificed himself.)",
+        ],
+      },
+      {
+        verb: "sich aufopfern",
+        translation: "to sacrifice oneself",
+        keyPoint: "Self-sacrifice for others",
+        examples: [
+          "Die Mutter opfert sich für ihre Kinder auf. (The mother sacrifices herself for her children.)",
+          "Er hat sich aufgeopfert. (He has sacrificed himself.)",
+        ],
+      },
+      {
+        verb: "sich hingeben",
+        translation: "to devote oneself",
+        keyPoint: "Complete dedication",
+        examples: [
+          "Ich gebe mich meiner Arbeit hin. (I devote myself to my work.)",
+          "Sie hat sich hingegeben. (She has devoted herself.)",
+        ],
+      },
+      {
+        verb: "sich einsetzen",
+        translation: "to commit oneself",
+        keyPoint: "Making an effort for something",
+        examples: [
+          "Ich setze mich für Gerechtigkeit ein. (I commit myself to justice.)",
+          "Er hat sich eingesetzt. (He has committed himself.)",
+        ],
+      },
+      {
+        verb: "sich engagieren",
+        translation: "to get involved",
+        keyPoint: "Active participation",
+        examples: [
+          "Ich engagiere mich sozial. (I get involved socially.)",
+          "Sie hat sich engagiert. (She has gotten involved.)",
+        ],
+      },
+      {
+        verb: "sich beteiligen",
+        translation: "to participate",
+        keyPoint: "Taking part in something",
+        examples: [
+          "Ich beteilige mich an der Diskussion. (I participate in the discussion.)",
+          "Alle haben sich beteiligt. (Everyone has participated.)",
+        ],
+      },
+      {
+        verb: "sich einbringen",
+        translation: "to contribute",
+        keyPoint: "Bringing skills or ideas",
+        examples: [
+          "Ich bringe mich in das Projekt ein. (I contribute to the project.)",
+          "Er hat sich eingebracht. (He has contributed.)",
+        ],
+      },
+      {
+        verb: "sich einmischen",
+        translation: "to interfere",
+        keyPoint: "Getting involved without invitation",
+        examples: [
+          "Misch dich nicht ein! (Don't interfere!)",
+          "Er hat sich eingemischt. (He has interfered.)",
+        ],
+      },
+      {
+        verb: "sich heraushalten",
+        translation: "to stay out of",
+        keyPoint: "Not getting involved",
+        examples: [
+          "Ich halte mich aus dem Streit heraus. (I stay out of the argument.)",
+          "Sie hat sich herausgehalten. (She has stayed out of it.)",
+        ],
+      },
+      {
+        verb: "sich zurückhalten",
+        translation: "to hold back",
+        keyPoint: "Restraining oneself",
+        examples: [
+          "Ich halte mich mit Kritik zurück. (I hold back with criticism.)",
+          "Er hat sich zurückgehalten. (He has held back.)",
+        ],
+      },
+      {
+        verb: "sich beherrschen",
+        translation: "to control oneself",
+        keyPoint: "Self-control",
+        examples: [
+          "Ich beherrsche mich und bleibe ruhig. (I control myself and stay calm.)",
+          "Sie hat sich beherrscht. (She has controlled herself.)",
+        ],
+      },
+      {
+        verb: "sich mäßigen",
+        translation: "to moderate oneself",
+        keyPoint: "Practicing moderation",
+        examples: [
+          "Ich mäßige mich beim Essen. (I moderate myself when eating.)",
+          "Er hat sich gemäßigt. (He has moderated himself.)",
+        ],
+      },
+      {
+        verb: "sich zügeln",
+        translation: "to restrain oneself",
+        keyPoint: "Holding back impulses",
+        examples: [
+          "Ich zügle meine Ungeduld. (I restrain my impatience.)",
+          "Sie hat sich gezügelt. (She has restrained herself.)",
+        ],
+      },
+      {
+        verb: "sich disziplinieren",
+        translation: "to discipline oneself",
+        keyPoint: "Self-discipline",
+        examples: [
+          "Ich diszipliniere mich beim Training. (I discipline myself during training.)",
+          "Er hat sich diszipliniert. (He has disciplined himself.)",
+        ],
+      },
+      {
+        verb: "sich zusammenreißen",
+        translation: "to pull oneself together",
+        keyPoint: "Getting control of emotions",
+        examples: [
+          "Reiß dich zusammen! (Pull yourself together!)",
+          "Sie hat sich zusammengerissen. (She has pulled herself together.)",
+        ],
+      },
+      {
+        verb: "sich überwinden",
+        translation: "to overcome oneself",
+        keyPoint: "Conquering one's reluctance",
+        examples: [
+          "Ich überwinde mich und springe. (I overcome myself and jump.)",
+          "Er hat sich überwunden. (He has overcome himself.)",
+        ],
+      },
+      {
+        verb: "sich durchringen",
+        translation: "to bring oneself to",
+        keyPoint: "Making a difficult decision",
+        examples: [
+          "Ich ringe mich zu einem Entschluss durch. (I bring myself to a decision.)",
+          "Sie hat sich durchgerungen. (She has brought herself to it.)",
+        ],
+      },
+      {
+        verb: "sich aufraffen",
+        translation: "to pull oneself up",
+        keyPoint: "Mustering energy or courage",
+        examples: [
+          "Ich raffe mich auf und gehe arbeiten. (I pull myself up and go to work.)",
+          "Er hat sich aufgerafft. (He has pulled himself up.)",
+        ],
+      },
+      {
+        verb: "sich ermutigen",
+        translation: "to encourage oneself",
+        keyPoint: "Self-encouragement",
+        examples: [
+          "Ich ermutige mich selbst. (I encourage myself.)",
+          "Sie hat sich ermutigt. (She has encouraged herself.)",
+        ],
+      },
+      {
+        verb: "sich motivieren",
+        translation: "to motivate oneself",
+        keyPoint: "Self-motivation",
+        examples: [
+          "Ich motiviere mich für das Training. (I motivate myself for training.)",
+          "Er hat sich motiviert. (He has motivated himself.)",
+        ],
+      },
+      {
+        verb: "sich antreiben",
+        translation: "to drive oneself",
+        keyPoint: "Pushing oneself forward",
+        examples: [
+          "Ich treibe mich zu Höchstleistungen an. (I drive myself to peak performance.)",
+          "Sie hat sich angetrieben. (She has driven herself.)",
+        ],
+      },
+      {
+        verb: "sich anspornen",
+        translation: "to spur oneself on",
+        keyPoint: "Encouraging oneself to action",
+        examples: [
+          "Ich sporne mich selbst an. (I spur myself on.)",
+          "Das Team hat sich angespornt. (The team has spurred itself on.)",
+        ],
+      },
+      {
+        verb: "sich pushen",
+        translation: "to push oneself",
+        keyPoint: "Self-motivation (colloquial)",
+        examples: [
+          "Ich pushe mich im Gym. (I push myself in the gym.)",
+          "Er hat sich gepusht. (He has pushed himself.)",
+        ],
+      },
+      {
+        verb: "sich fordern",
+        translation: "to challenge oneself",
+        keyPoint: "Setting challenges for oneself",
+        examples: [
+          "Ich fordere mich täglich heraus. (I challenge myself daily.)",
+          "Sie hat sich gefordert. (She has challenged herself.)",
+        ],
+      },
+      {
+        verb: "sich belasten",
+        translation: "to burden oneself",
+        keyPoint: "Taking on burden or stress",
+        examples: [
+          "Ich belaste mich nicht mit Sorgen. (I don't burden myself with worries.)",
+          "Er hat sich belastet. (He has burdened himself.)",
+        ],
+      },
+      {
+        verb: "sich überlasten",
+        translation: "to overburden oneself",
+        keyPoint: "Taking on too much",
+        examples: [
+          "Ich überlaste mich nicht. (I don't overburden myself.)",
+          "Sie hat sich überlastet. (She has overburdened herself.)",
+        ],
+      },
+      {
+        verb: "sich schonen",
+        translation: "to take care of oneself",
+        keyPoint: "Being gentle with oneself",
+        examples: [
+          "Ich schone mich nach der Operation. (I take care of myself after the operation.)",
+          "Er hat sich geschont. (He has taken care of himself.)",
+        ],
+      },
+      {
+        verb: "sich erholen",
+        translation: "to rest",
+        keyPoint: "Taking time to recover",
+        examples: [
+          "Ich erhole mich am Wochenende. (I rest on the weekend.)",
+          "Sie hat sich gut erholt. (She has rested well.)",
+        ],
+      },
+      {
+        verb: "sich verwöhnen",
+        translation: "to pamper oneself",
+        keyPoint: "Treating oneself well",
+        examples: [
+          "Ich verwöhne mich mit einem Bad. (I pamper myself with a bath.)",
+          "Sie hat sich verwöhnt. (She has pampered herself.)",
+        ],
+      },
+      {
+        verb: "sich gönnen",
+        translation: "to treat oneself",
+        keyPoint: "Allowing oneself something nice",
+        examples: [
+          "Ich gönne mir eine Pause. (I treat myself to a break.)",
+          "Er hat sich etwas gegönnt. (He has treated himself to something.)",
+        ],
+      },
+      {
+        verb: "sich leisten",
+        translation: "to afford oneself",
+        keyPoint: "Being able to have something",
+        examples: [
+          "Ich leiste mir ein neues Auto. (I afford myself a new car.)",
+          "Sie hat sich das geleistet. (She has afforded herself that.)",
+        ],
+      },
+      {
+        verb: "sich sparen",
+        translation: "to save oneself",
+        keyPoint: "Avoiding something unpleasant",
+        examples: [
+          "Ich spare mir die Mühe. (I save myself the trouble.)",
+          "Er hat sich das gespart. (He has saved himself that.)",
+        ],
+      },
+      {
+        verb: "sich ersparen",
+        translation: "to spare oneself",
+        keyPoint: "Avoiding unnecessary effort",
+        examples: [
+          "Ich erspare mir den Weg. (I spare myself the journey.)",
+          "Sie hat sich das erspart. (She has spared herself that.)",
+        ],
+      },
+      {
+        verb: "sich entziehen",
+        translation: "to withdraw from",
+        keyPoint: "Avoiding or escaping",
+        examples: [
+          "Ich entziehe mich der Verantwortung nicht. (I don't withdraw from responsibility.)",
+          "Er hat sich entzogen. (He has withdrawn.)",
+        ],
+      },
+      {
+        verb: "sich drücken",
+        translation: "to shirk",
+        keyPoint: "Avoiding responsibility (colloquial)",
+        examples: [
+          "Drück dich nicht vor der Arbeit! (Don't shirk work!)",
+          "Er hat sich gedrückt. (He has shirked.)",
+        ],
+      },
+      {
+        verb: "sich winden",
+        translation: "to squirm",
+        keyPoint: "Trying to escape or avoid",
+        examples: [
+          "Ich winde mich nicht aus der Verantwortung. (I don't squirm out of responsibility.)",
+          "Er hat sich gewunden. (He has squirmed.)",
+        ],
+      },
+      {
+        verb: "sich herauswinden",
+        translation: "to wriggle out",
+        keyPoint: "Escaping from a difficult situation",
+        examples: [
+          "Ich winde mich aus der Situation heraus. (I wriggle out of the situation.)",
+          "Sie hat sich herausgewunden. (She has wriggled out.)",
+        ],
+      },
+    ],
+  },
 ];
