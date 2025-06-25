@@ -431,7 +431,7 @@ const originalVerbGroups: VerbGroup[] = [
 
 // Combine ALL verb categories - comprehensive B2 level German verb database
 export const germanSeparableVerbs: VerbGroup[] = [
-  ...originalVerbGroups,
+  // ...originalVerbGroups,
   ...additionalVerbGroups,
   ...additionalVerbGroups2,
   ...additionalVerbGroups3,
