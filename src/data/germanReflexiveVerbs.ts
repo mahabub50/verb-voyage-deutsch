@@ -1,11 +1,10 @@
 import { VerbGroup } from "./germanVerbs";
 
-// Reflexive verbs (Reflexive Verben) - B2 level comprehensive collection (300+ verbs)
+// Reflexive verbs (Reflexive Verben) - 252 verbs split into groups of 42
 export const germanReflexiveVerbs: VerbGroup[] = [
   {
-    prefix: "reflexive",
-    description:
-      "reflexive verbs - comprehensive collection used with reflexive pronouns (sich)",
+    prefix: "reflexive-group-1",
+    description: "Reflexive verbs - Group 1 (Daily routines and basic actions)",
     verbs: [
       {
         verb: "sich waschen",
@@ -466,6 +465,12 @@ export const germanReflexiveVerbs: VerbGroup[] = [
           "Er rasiert sich jeden Morgen. (He shaves every morning.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "reflexive-group-2",
+    description: "Reflexive verbs - Group 2 (Personal care and health)",
+    verbs: [
       {
         verb: "sich duschen",
         translation: "to take a shower",
@@ -772,6 +777,12 @@ export const germanReflexiveVerbs: VerbGroup[] = [
           "Das Kind entwickelt sich gut. (The child is developing well.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "reflexive-group-3",
+    description: "Reflexive verbs - Group 3 (Self-improvement and learning)",
+    verbs: [
       {
         verb: "sich bilden",
         translation: "to form, to educate oneself",
@@ -1177,6 +1188,12 @@ export const germanReflexiveVerbs: VerbGroup[] = [
           "Die Kinder haben sich gut benommen. (The children have behaved well.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "reflexive-group-4",
+    description: "Reflexive verbs - Group 4 (Behavior and self-presentation)",
+    verbs: [
       {
         verb: "sich aufführen",
         translation: "to behave",
@@ -1726,6 +1743,12 @@ export const germanReflexiveVerbs: VerbGroup[] = [
           "Sie hat sich durchgebissen. (She has persevered.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "reflexive-group-5",
+    description: "Reflexive verbs - Group 5 (Hard work and achievement)",
+    verbs: [
       {
         verb: "sich abrackern",
         translation: "to toil / slave away",
@@ -2149,6 +2172,13 @@ export const germanReflexiveVerbs: VerbGroup[] = [
           "Sie haben sich aufgemacht. (They have set off.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "reflexive-group-6",
+    description:
+      "Reflexive verbs - Group 6 (Movement, position and transformation)",
+    verbs: [
       {
         verb: "sich aufhalten",
         translation: "to stay / linger",

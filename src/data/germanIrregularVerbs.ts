@@ -1,11 +1,10 @@
 import { VerbGroup } from "./germanVerbs";
 
-// Irregular/Strong verbs (Unregelmäßige/Starke Verben) - B2 level comprehensive collection (300+ verbs)
+// Irregular/Strong verbs (Unregelmäßige/Starke Verben) - B2 level comprehensive collection (402 verbs split into groups of 50)
 export const germanIrregularVerbs: VerbGroup[] = [
   {
-    prefix: "irregular",
-    description:
-      "irregular verbs with stem changes - comprehensive B2 level collection",
+    prefix: "irregular-group-1",
+    description: "Irregular verbs - Group 1 (Essential irregular verbs)",
     verbs: [
       {
         verb: "sein",
@@ -444,6 +443,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Die Schlange ist ins Loch gekrochen. (The snake crawled into the hole.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-2",
+    description: "Irregular verbs - Group 2 (Strong verbs with vowel changes)",
+    verbs: [
       {
         verb: "riechen",
         translation: "to smell",
@@ -579,6 +584,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Sie hat im Lotto gewonnen. (She won the lottery.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-3",
+    description: "Irregular verbs - Group 3 (Complex stem-changing verbs)",
+    verbs: [
       {
         verb: "beginnen",
         translation: "to begin",
@@ -706,6 +717,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Ich bin zu Hause geblieben. (I stayed at home.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-4",
+    description: "Irregular verbs - Group 4 (Writing and communication verbs)",
+    verbs: [
       {
         verb: "schreiben",
         translation: "to write",
@@ -869,6 +886,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Sie hat um Hilfe gerufen. (She called for help.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-5",
+    description: "Irregular verbs - Group 5 (Action and movement verbs)",
+    verbs: [
       {
         verb: "werfen",
         translation: "to throw",
@@ -914,6 +937,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Sie haben um Unterstützung geworben. (They recruited support.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-3",
+    description: "Complex stem-changing verbs",
+    verbs: [
       {
         verb: "bergen",
         translation: "to rescue, to salvage",
@@ -1215,6 +1244,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Er hat einen Brief bekommen. (He received a letter.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-6",
+    description: "Irregular verbs - Group 6 (Prefix verbs with kommen)",
+    verbs: [
       {
         verb: "ankommen",
         translation: "to arrive",
@@ -1372,6 +1407,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Der Vertrag wurde abgeschlossen. (The contract was concluded.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-4",
+    description: "Writing and communication verbs",
+    verbs: [
       {
         verb: "abschneiden",
         translation: "to cut off",
@@ -1594,6 +1635,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Sie wurde magisch angezogen. (She was magnetically attracted.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-7",
+    description: "Irregular verbs - Group 7 (Aufsteigen and movement verbs)",
+    verbs: [
       {
         verb: "aufbrechen",
         translation: "to break open, to set off",
@@ -1840,6 +1887,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Er ist hier aufgewachsen. (He grew up here.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-5",
+    description: "Action and movement verbs",
+    verbs: [
       {
         verb: "aufwenden",
         translation: "to spend (effort)",
@@ -2313,6 +2366,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Es wurde heraufgezogen. (It was pulled up.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-6",
+    description: "Prefix verbs with kommen",
+    verbs: [
       {
         verb: "abbiegen",
         translation: "to turn off",
@@ -2675,6 +2734,13 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Alles wurde zusammengehalten. (Everything was held together.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-9",
+    description:
+      "Irregular verbs - Group 9 (Final collection and compound verbs)",
+    verbs: [
       {
         verb: "abbeißen",
         translation: "to bite off",
@@ -2785,6 +2851,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Das Wissen wurde abgefragt. (The knowledge was tested.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-7",
+    description: "Aufsteigen and movement verbs",
+    verbs: [
       {
         verb: "abfressen",
         translation: "to eat bare/graze off",
@@ -3242,6 +3314,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Der Wert wurde abgelesen. (The value was read off.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-8",
+    description: "Advanced prefix verbs and complex compounds",
+    verbs: [
       {
         verb: "abliefern",
         translation: "to deliver/hand over",
@@ -3712,6 +3790,12 @@ export const germanIrregularVerbs: VerbGroup[] = [
           "Die Bitte wurde abgeschlagen. (The request was refused.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "irregular-group-9",
+    description: "Final collection and compound verbs",
+    verbs: [
       {
         verb: "abschleifen",
         translation: "to grind off/sand",

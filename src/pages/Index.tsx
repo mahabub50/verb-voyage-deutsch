@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Download, BookOpen, Users, Shuffle, Sparkles } from "lucide-react";
 import { germanSeparableVerbs } from "../data/germanVerbs";
 import { generateVerbsPDF } from "../utils/pdfGenerator";
-import VerbCard from "../components/VerbCard";
+import VerbGroupsContainer from "../components/VerbGroupsContainer";
 import SearchBar from "../components/SearchBar";
 import PrefixFilter from "../components/PrefixFilter";
 import ProgressBar from "../components/ProgressBar";
@@ -258,51 +258,13 @@ const Index = () => {
           )}
 
           <AnimatePresence mode="wait">
-            <motion.div
+            <VerbGroupsContainer
               key={`filters-${selectedPrefix}-${
                 debouncedSearchTerm ? "search" : "no-search"
               }-${shuffleKey}`}
-              initial={{ opacity: 0, y: -100 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: 100 }}
-              transition={{ duration: 0.7, ease: "easeOut" }}
-            >
-              {filteredVerbs.map((group, groupIndex) => (
-                <motion.div
-                  key={`${group.prefix}-${group.verbs.length}-${shuffleKey}`}
-                  className="bg-white/90 backdrop-blur-sm rounded-2xl shadow-xl p-8 border border-gray-200 hover:shadow-2xl transition-all duration-500"
-                >
-                  <div className="mb-8">
-                    <div className="flex items-center gap-4 mb-4">
-                      <div className="w-16 h-16 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl flex items-center justify-center">
-                        <span className="text-white font-bold text-xl">
-                          {group.prefix.toUpperCase()}
-                        </span>
-                      </div>
-                      <div>
-                        <h2 className="text-3xl font-bold bg-gradient-to-r from-indigo-700 to-purple-700 bg-clip-text text-transparent">
-                          {group.prefix.toUpperCase()} Verbs
-                        </h2>
-                        <p className="text-gray-600 text-lg mt-1">
-                          {group.description}
-                        </p>
-                      </div>
-                    </div>
-                    <div className="w-full h-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full"></div>
-                  </div>
-
-                  <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-                    {group.verbs.map((verb) => (
-                      <motion.div
-                        key={`${verb.verb}-${group.prefix}-${shuffleKey}`}
-                      >
-                        <VerbCard verb={verb} prefix={group.prefix} />
-                      </motion.div>
-                    ))}
-                  </div>
-                </motion.div>
-              ))}
-            </motion.div>
+              groups={filteredVerbs}
+              shuffleKey={shuffleKey}
+            />
           </AnimatePresence>
         </div>
 

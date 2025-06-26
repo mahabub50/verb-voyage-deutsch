@@ -1,11 +1,10 @@
 import { VerbGroup } from "./germanVerbs";
 
-// Regular verbs (Regelmäßige Verben) - B2 level comprehensive collection (300+ verbs)
+// Regular verbs (Regelmäßige Verben) - 296 verbs split into groups of 50
 export const germanRegularVerbs: VerbGroup[] = [
   {
-    prefix: "regular",
-    description:
-      "regular verbs with standard conjugation patterns - essential for B2 level",
+    prefix: "regular-group-1",
+    description: "Regular verbs - Group 1 (Essential daily verbs)",
     verbs: [
       {
         verb: "arbeiten",
@@ -503,6 +502,13 @@ export const germanRegularVerbs: VerbGroup[] = [
           "Ich habe ein Portrait gezeichnet. (I drew a portrait.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "regular-group-2",
+    description:
+      "Regular verbs - Group 2 (Creative and professional activities)",
+    verbs: [
       {
         verb: "fotografieren",
         translation: "to photograph",
@@ -1025,6 +1031,12 @@ export const germanRegularVerbs: VerbGroup[] = [
           "Das Missverständnis wurde geklärt. (The misunderstanding was clarified.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "regular-group-3",
+    description: "Regular verbs - Group 3 (Communication and information)",
+    verbs: [
       {
         verb: "berichten",
         translation: "to report",
@@ -1529,6 +1541,12 @@ export const germanRegularVerbs: VerbGroup[] = [
           "Wichtige Details wurden verschwiegen. (Important details were kept silent.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "regular-group-4",
+    description: "Regular verbs - Group 4 (Protection and social actions)",
+    verbs: [
       {
         verb: "schützen",
         translation: "to protect",
@@ -1970,6 +1988,13 @@ export const germanRegularVerbs: VerbGroup[] = [
           "Die Artikel wurden kategorisiert. (The articles were categorized.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "regular-group-5",
+    description:
+      "Regular verbs - Group 5 (Scientific and systematic processes)",
+    verbs: [
       {
         verb: "klassifizieren",
         translation: "to classify",
@@ -2214,7 +2239,6 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
 
-     
       {
         verb: "gähnen",
         translation: "to yawn",
@@ -2413,6 +2437,13 @@ export const germanRegularVerbs: VerbGroup[] = [
           "Die Soße wurde gewürzt. (The sauce was seasoned.)",
         ],
       },
+    ],
+  },
+  {
+    prefix: "regular-group-6",
+    description:
+      "Regular verbs - Group 6 (Cooking, body functions and daily activities)",
+    verbs: [
       {
         verb: "salzen",
         translation: "to salt",
