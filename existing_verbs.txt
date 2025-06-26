@@ -1,0 +1,1297 @@
+  verb: string;
+abbeißen
+abbiegen
+abfahren
+abfliegen
+abfragen
+abgeben
+abgehen
+abgewöhnen
+abhalten
+abholen
+ablehnen
+ablesen
+abmachen
+abnehmen
+abraten
+abreißen
+absagen
+abschalten
+abschicken
+abschieben
+abschlagen
+abschließen
+abspielen
+abstellen
+abstimmen
+abtrocknen
+abwarten
+abwechseln
+achten
+aktualisieren
+analysieren
+anbieten
+ändern
+anfahren
+anfangen
+anfassen
+angeben
+angehen
+angeraten
+angewöhnen
+angreifen
+angucken
+anhaben
+anhalten
+anklopfen
+ankommen
+ankündigen
+anlassen
+anmachen
+anmalen
+anmelden
+annehmen
+anprobieren
+anraten
+anrufen
+anschalten
+anschauen
+anschlagen
+ansehen
+ansprechen
+anstehen
+ansteigen
+anwachsen
+anwenden
+anzeigen
+anziehen
+arbeiten
+aufatmen
+aufbauen
+aufbehalten
+aufbiegen
+aufbleiben
+aufblicken
+aufbrechen
+aufessen
+auffahren
+auffordern
+aufführen
+aufgeben
+aufgehen
+aufhaben
+aufhalten
+aufhängen
+aufheben
+aufklären
+auflassen
+aufmachen
+aufnehmen
+aufpassen
+aufräumen
+aufregen
+aufschieben
+aufschlagen
+aufschreiben
+aufstehen
+auftauchen
+aufteilen
+auftreten
+aufwachen
+aufwachsen
+aufwecken
+aufwischen
+aufziehen
+ausatmen
+ausbehalten
+ausbiegen
+ausbilden
+ausbleiben
+ausdenken
+ausdrucken
+auseinanderfallen
+auseinanderleben
+auseinandersetzen
+ausfahren
+ausfallen
+ausfragen
+ausgeben
+ausgehen
+aushalten
+auskennen
+auskommen
+auslachen
+ausleben
+ausleihen
+ausliegen
+auslosen
+ausmachen
+ausmalen
+ausnutzen
+ausräumen
+ausruhen
+ausschalten
+ausschlafen
+ausschlagen
+ausschließen
+ausschneiden
+aussehen
+aussprechen
+aussteigen
+ausstellen
+austauschen
+austeilen
+austrinken
+auswählen
+auswandern
+auswirken
+ausziehen
+automatisieren
+backen
+basteln
+bauen
+beachten
+beantworten
+bearbeiten
+bedeuten
+bedienen
+beeinflussen
+beenden
+befehlen
+befinden
+befolgen
+befreien
+begegnen
+beginnen
+begleiten
+begreifen
+begrüßen
+behalten
+behandeln
+behaupten
+beherrschen
+beibehalten
+beibringen
+beiliegen
+beiseiteschieben
+beisetzen
+beitragen
+beitreten
+bekommen
+beleidigen
+belohnen
+beobachten
+beraten
+bergen
+berichten
+beschreiben
+besiegen
+bestätigen
+bestellen
+bestrafen
+bestreiten
+besuchen
+betrachten
+betrügen
+beurteilen
+bewältigen
+beweisen
+bewerten
+bezahlen
+bezweifeln
+biegen
+bieten
+binden
+bitten
+bleiben
+brauchen
+brechen
+brennen
+bringen
+buchen
+bügeln
+charakterisieren
+chatten
+codieren
+dableiben
+dalassen
+daliegen
+danken
+darbieten
+darlegen
+darstellen
+dasitzen
+dastehen
+dauern
+debuggen
+dekorieren
+demolieren
+demontieren
+denken
+destabilisieren
+digitalisieren
+dokumentieren
+dolmetschen
+downloaden
+dreschen
+drohen
+drucken
+durchbehalten
+durchbeißen
+durchberaten
+durchbiegen
+durchbrechen
+durchfahren
+durchgehen
+durchgeraten
+durchschieben
+durchschlagen
+durchziehen
+dürfen
+ehren
+einatmen
+einbehalten
+einbiegen
+einbilden
+einbrechen
+einchecken
+eincremen
+einfahren
+eingeben
+eingehen
+eingreifen
+einhalten
+einkaufen
+einladen
+einloggen
+einpacken
+einräumen
+einschlafen
+einschlagen
+einsteigen
+eintauchen
+einteilen
+eintragen
+einziehen
+empfangen
+empfehlen
+empfinden
+emporfliegen
+emporklettern
+emporschauen
+entdecken
+entfernen
+entgegenfahren
+entgegengehen
+entgegenkommen
+entgegennehmen
+entgegentreten
+entgehen
+enthalten
+enthüllen
+entlangfahren
+entlangführen
+entlanggehen
+entlangkommen
+entlanglaufen
+entlassen
+entmutigen
+entschädigen
+entscheiden
+entschuldigen
+entstehen
+enttäuschen
+entwerfen
+entwickeln
+entzweibrechen
+entzweigehen
+erfahren
+erforschen
+erhalten
+erhöhen
+erinnern
+erkennen
+erklären
+erlauben
+erleben
+erledigen
+ermöglichen
+ermutigen
+ernähren
+erneuern
+erobern
+erraten
+erreichen
+errichten
+erscheinen
+erschlagen
+erschrecken
+ersetzen
+erstatten
+erwähnen
+erwarten
+erweitern
+erwerben
+erzählen
+erziehen
+essen
+fahren
+fallen
+fangen
+fantasieren
+fechten
+fehlinterpretieren
+fehlschlagen
+feiern
+fernbleiben
+fernsehen
+fernsteuern
+fesseln
+festbehalten
+festbinden
+festdrücken
+festhalten
+festigen
+festkleben
+festknoten
+festlegen
+festliegen
+feststellen
+filmen
+finden
+flechten
+fliegen
+fliehen
+fließen
+fordern
+fortbilden
+fortbleiben
+fortdauern
+fortfahren
+fortführen
+fortkommen
+fortlaufen
+fortnehmen
+fortrennen
+fortschicken
+fortschreiten
+fortsetzen
+fortziehen
+fotografieren
+fragen
+freigeben
+freihaben
+freihalten
+freilassen
+freimachen
+freinehmen
+freisprechen
+fressen
+frieren
+garantieren
+geben
+gebrauchen
+gefallen
+gefangennehmen
+gegenhalten
+gegenlesen
+gegenrechnen
+gegenüberliegen
+gegenübersetzen
+gegenübersitzen
+gegenüberstehen
+gegenüberstellen
+gegenübertreten
+gegenzeichnen
+gehen
+gehören
+gelingen
+gelten
+generalisieren
+genießen
+genügen
+geraten
+geschehen
+gestalten
+gestehen
+gewinnen
+gießen
+glauben
+graben
+gratulieren
+grüßen
+haben
+halten
+hängen
+harmonisieren
+hassen
+heimbringen
+heimfahren
+heimfinden
+heimgehen
+heimkehren
+heimkommen
+heimreisen
+heimschicken
+heiraten
+helfen
+heraufziehen
+herausgeraten
+herausziehen
+herbitten
+herbringen
+hereilen
+hereinschieben
+herfahren
+herfinden
+herholen
+herkommen
+herkriegen
+hernehmen
+herrufen
+herschauen
+herstellen
+herüberziehen
+herumbiegen
+herunterziehen
+hervorbrechen
+hinaufziehen
+hinausschieben
+hinbiegen
+hinblicken
+hinbringen
+hineingeraten
+hineinziehen
+hinfahren
+hinfallen
+hinfliegen
+hingehen
+hingucken
+hinhauen
+hinhören
+hinknien
+hinkommen
+hinkriegen
+hinlaufen
+hinnehmen
+hinrennen
+hinschicken
+hinschieben
+hinschmeißen
+hinsehen
+hinsetzen
+hinterherfahren
+hinterhergehen
+hinterhergucken
+hinterherlaufen
+hinterherschauen
+hintragen
+hinüberschieben
+hinüberziehen
+hinunterziehen
+hinweisen
+hinwerfen
+hinziehen
+hochblicken
+hochfahren
+hochfliegen
+hochgehen
+hochhalten
+hochheben
+hochklettern
+hochkommen
+hochnehmen
+hochschauen
+hochsehen
+hochspringen
+hochsteigen
+hochstellen
+hochwerfen
+hochziehen
+hoffen
+holen
+hören
+implementieren
+individualisieren
+informieren
+innebehalten
+innehaben
+innehalten
+innewohnen
+inspirieren
+installieren
+interpretieren
+investieren
+kämpfen
+kategorisieren
+kaufen
+kennen
+kennenlernen
+klären
+klassifizieren
+klicken
+klingen
+kochen
+kommen
+konfigurieren
+können
+konstruieren
+kontrollieren
+konzeptualisieren
+kopieren
+korrigieren
+kriechen
+kritisieren
+lachen
+laden
+lagern
+lassen
+laufen
+leben
+leiden
+leihen
+lernen
+lesen
+lieben
+liefern
+liegen
+loben
+lokalisieren
+losbinden
+losbrechen
+löschen
+lösen
+losfahren
+losfliegen
+losgehen
+loskommen
+loslassen
+loslaufen
+losmachen
+losrennen
+losschicken
+loswerden
+lügen
+machen
+mailen
+malen
+materialisieren
+maximieren
+meiden
+melken
+messen
+mieten
+minimieren
+missachten
+missbrauchen
+missfallen
+missgeraten
+misslingen
+misstrauen
+missverstehen
+mitarbeiten
+mitbringen
+mitdenken
+mitessen
+mitfahren
+mitfühlen
+mitgeben
+mitgehen
+mithaben
+mithelfen
+mitkommen
+mitkriegen
+mitlesen
+mitmachen
+mitnehmen
+mitreden
+mitreisen
+mitschreiben
+mitsingen
+mitspielen
+mitteilen
+möchten
+modernisieren
+mögen
+montieren
+motivieren
+müssen
+nachahmen
+nachbessern
+nachdenken
+nachfahren
+nachfeiern
+nachfolgen
+nachforschen
+nachfragen
+nachfüllen
+nachgeben
+nachgehen
+nachgucken
+nachholen
+nachkommen
+nachlassen
+nachlaufen
+nachlesen
+nachmachen
+nachprüfen
+nachrennen
+nachrufen
+nachschauen
+nachschlagen
+nachsehen
+nachsitzen
+nachspielen
+nachsprechen
+nachsuchen
+nachziehen
+nähen
+nebenordnen
+nebenschalten
+nehmen
+neiden
+nennen
+neutralisieren
+niederbrechen
+niederbrennen
+niederbrüllen
+niedergehen
+niederknien
+niedermachen
+niederschlagen
+niederschreiben
+normalisieren
+offenhalten
+öffnen
+optimieren
+ordnen
+organisieren
+packen
+pausieren
+personalisieren
+planen
+preisen
+preisgeben
+probieren
+programmieren
+prüfen
+putzen
+quellen
+räumen
+realisieren
+rechnen
+reduzieren
+reiben
+reichen
+reisen
+rennen
+renovieren
+reparieren
+reservieren
+respektieren
+riechen
+rinnen
+rückdatieren
+rückfragen
+rückspulen
+rufen
+sagen
+sammeln
+scannen
+schaffen
+schätzen
+schelten
+schenken
+schieben
+schießen
+schlafen
+schlagen
+schließen
+schmelzen
+schmücken
+schneiden
+schreiben
+schreien
+schulden
+schützen
+schwächen
+schweigen
+schwellen
+schwimmen
+schwören
+sehen
+sein
+senden
+senken
+sich abarbeiten
+sich abgrenzen
+sich abkühlen
+sich abmelden
+sich abplacken
+sich abrackern
+sich absichern
+sich absondern
+sich abstützen
+sich amüsieren
+sich anlehnen
+sich anmelden
+sich anpassen
+sich anspornen
+sich anstecken
+sich anstrengen
+sich antreiben
+sich anziehen
+sich ärgern
+sich assimilieren
+sich aufführen
+sich aufhalten
+sich aufhängen
+sich aufmachen
+sich aufopfern
+sich aufraffen
+sich aufregen
+sich aufwärmen
+sich ausbilden
+sich ausdenken
+sich ausruhen
+sich äußern
+sich aussöhnen
+sich aussprechen
+sich auszeichnen
+sich ausziehen
+sich automatisieren
+sich baden
+sich beeilen
+sich befinden
+sich befreien
+sich behaupten
+sich beherrschen
+sich belasten
+sich bemühen
+sich benehmen
+sich beruhigen
+sich beschweren
+sich besinnen
+sich besserн
+sich beteiligen
+sich bewegen
+sich bewerben
+sich bilden
+sich bücken
+sich bürsten
+sich darstellen
+sich digitalisieren
+sich distanzieren
+sich disziplinieren
+sich drücken
+sich durchbeißen
+sich durchkämpfen
+sich durchringen
+sich durchschlagen
+sich durchsetzen
+sich duschen
+sich einbilden
+sich einbringen
+sich einfügen
+sich eingewöhnen
+sich einleben
+sich einmischen
+sich einsetzen
+sich engagieren
+sich entfalten
+sich entfernen
+sich entscheiden
+sich entschuldigen
+sich entspannen
+sich entwickeln
+sich entziehen
+sich erhalten
+sich erhängen
+sich erhitzen
+sich erholen
+sich erinnern
+sich erkälten
+sich erkundigen
+sich ermutigen
+sich ernähren
+sich ersparen
+sich etablieren
+sich fallen lassen
+sich festbeißen
+sich festhalten
+sich fokussieren
+sich fordern
+sich fortbilden
+sich fortentwickeln
+sich freuen
+sich fürchten
+sich gebärden
+sich geben
+sich gehen lassen
+sich gewöhnen
+sich globalisieren
+sich gönnen
+sich hängen lassen
+sich heraushalten
+sich herauswinden
+sich hervortun
+sich hingeben
+sich hinlegen
+sich hinreißen lassen
+sich hocharbeiten
+sich individualisieren
+sich informieren
+sich integrieren
+sich interessieren
+sich isolieren
+sich kämmen
+sich kaputt machen
+sich konzentrieren
+sich kräftigen
+sich kümmern
+sich langweilen
+sich legen
+sich leisten
+sich lockern
+sich lösen
+sich loslassen
+sich loslösen
+sich losmachen
+sich losreißen
+sich maskieren
+sich mäßigen
+sich melden
+sich mitreißen lassen
+sich mitteilen
+sich modernisieren
+sich motivieren
+sich nähern
+sich niederlassen
+sich normalisieren
+sich offenbaren
+sich opfern
+sich organisieren
+sich orientieren
+sich parfümieren
+sich perfektionieren
+sich positionieren
+sich präsentieren
+sich professionalisieren
+sich profilieren
+sich pushen
+sich putzen
+sich qualifizieren
+sich rächen
+sich rasieren
+sich rechtfertigen
+sich regenerieren
+sich regulieren
+sich retten
+sich revitalisieren
+sich rüsten
+sich sammeln
+sich sanieren
+sich schämen
+sich scheiden lassen
+sich schminken
+sich schneiden
+sich schonen
+sich schützen
+sich selbstständig machen
+sich selbstverwirklichen
+sich setzen
+sich solidarisieren
+sich sorgen
+sich sparen
+sich spezialisieren
+sich stabilisieren
+sich stärken
+sich stellen
+sich strecken
+sich streiten
+sich tarnen
+sich totarbeiten
+sich trainieren
+sich trennen
+sich überlasten
+sich überlegen
+sich überschulden
+sich überwinden
+sich umbringen
+sich umdrehen
+sich umziehen
+sich unterhalten
+sich unterscheiden
+sich verabschieden
+sich verändern
+sich verbessern
+sich verbrennen
+sich verbünden
+sich vergewissern
+sich verhalten
+sich verheiraten
+sich verkleiden
+sich verklemmen
+sich verkrampfen
+sich verlassen
+sich verletzen
+sich verlieben
+sich verlieren
+sich verloben
+sich verschlechtern
+sich verschulden
+sich versichern
+sich versöhnen
+sich versorgen
+sich versprechen
+sich verständigen
+sich verstecken
+sich versteifen
+sich verstellen
+sich vertiefen
+sich vertragen
+sich verwandeln
+sich verwirklichen
+sich verwöhnen
+sich vorbereiten
+sich vorlehnen
+sich vorstellen
+sich wappnen
+sich waschen
+sich wehren
+sich weigern
+sich weiterbilden
+sich weiterentwickeln
+sich wenden
+sich widmen
+sich winden
+sich wundern
+sich zeigen
+sich zügeln
+sich zurechtfinden
+sich zurückhalten
+sich zurücklehnen
+sich zurückziehen
+sich zusammenreißen
+sich zusammenschließen
+sich zusammentun
+singen
+sinken
+sitzen
+skizzieren
+sollen
+sortieren
+sparen
+spazierengehen
+speichern
+spezialisieren
+spielen
+spinnen
+sprechen
+stabilisieren
+standardisieren
+stärken
+stattfinden
+stattgeben
+stehen
+stehlen
+steigen
+steigern
+sterben
+stinken
+stoppen
+stoßen
+streichen
+streiten
+stricken
+studieren
+suchen
+surfen
+symbolisieren
+synchronisieren
+systematisieren
+tadeln
+tanzen
+tauschen
+teilen
+teilhaben
+teilnehmen
+telefonieren
+testen
+tippen
+tragen
+trainieren
+transportieren
+träumen
+treiben
+trennen
+treten
+trinken
+trocknen
+überfahren
+übergehen
+überkommen
+übernachten
+überreden
+überschieben
+überschlagen
+übersetzen
+überwachen
+überzeugen
+überziehen
+umbiegen
+umfahren
+umgehen
+umschlagen
+umsteigen
+umtauschen
+umziehen
+unterbrechen
+untergehen
+unterhalten
+unterkommen
+unterrichten
+unterscheiden
+unterschieben
+unterschlagen
+untersuchen
+unterziehen
+verabreden
+verabschieden
+verändern
+verbehalten
+verbergen
+verbessern
+verbiegen
+verbieten
+verbinden
+verbringen
+verderben
+verdienen
+verfahren
+vergehen
+vergessen
+vergleichen
+vergrößern
+verhalten
+verheimlichen
+verhindern
+verkaufen
+verkleinern
+verkünden
+verlangen
+verlassen
+verleihen
+verlieren
+vermieten
+vermissen
+verraten
+verschenken
+verschieben
+verschlagen
+verschlechtern
+verschweigen
+verschwinden
+versehen
+versichern
+verspäten
+versprechen
+verstärken
+verstehen
+verteidigen
+verteilen
+vertrauen
+verursachen
+visualisieren
+vorbehalten
+vorbereiten
+vorfahren
+vorfinden
+vorführen
+vorgeben
+vorgehen
+vorhaben
+vorhalten
+vorherrschen
+vorkommen
+vorlesen
+vormachen
+vornehmen
+vorschlagen
+vorschreiben
+vorsehen
+vorstellen
+vortragen
+vorziehen
+wachsen
+warnen
+warten
+waschen
+wechseln
+wegbiegen
+wegbleiben
+wegblicken
+wegbrechen
+wegbringen
+wegdrücken
+wegfahren
+wegfallen
+wegfliegen
+weggeben
+weggehen
+weggucken
+wegkommen
+weglassen
+weglaufen
+weglegen
+wegmachen
+wegnehmen
+wegräumen
+wegrennen
+wegschauen
+wegschicken
+wegschmeißen
+wegsehen
+wegsetzen
+wegstellen
+wegtragen
+wegtun
+wegwerfen
+wegziehen
+weichen
+weinen
+weisen
+weiterarbeiten
+weiterbringen
+weiteressen
+weiterfahren
+weiterführen
+weitergeben
+weitergehen
+weiterhelfen
+weiterkommen
+weiterleben
+weitermachen
+weiterreden
+weitersagen
+weiterschlafen
+weitersehen
+weiterspielen
+weitersprechen
+weitersuchen
+wenden
+werben
+werden
+werfen
+wettlaufen
+wettmachen
+wettstreiten
+wiederholen
+wiegen
+winden
+wissen
+wohnen
+wollen
+wünschen
+würdigen
+zählen
+zeichnen
+zeigen
+zerbrechen
+zerreißen
+zerschlagen
+zerschneiden
+zerstören
+ziehen
+zubeißen
+zubiegen
+zubinden
+zudecken
+zudrehen
+zudrücken
+zufassen
+zugeben
+zugehen
+zugeraten
+zugreifen
+zugucken
+zuhaben
+zuhalten
+zuhören
+zuknoten
+zukommen
+zulassen
+zumachen
+zunehmen
+zuordnen
+zuraten
+zurechtfinden
+zurechtkommen
+zurechtmachen
+zurechtweisen
+zurückbehalten
+zurückblättern
+zurückbleiben
+zurückblicken
+zurückbringen
+zurückfahren
+zurückfliegen
+zurückgeben
+zurückgehen
+zurückhalten
+zurückkehren
+zurückkommen
+zurücklassen
+zurückmelden
+zurücknehmen
+zurückreisen
+zurückrufen
+zurückschicken
+zurückschreiben
+zurücksehen
+zurücktragen
+zurücktreten
+zurückzahlen
+zurufen
+zusagen
+zusammenarbeiten
+zusammenbauen
+zusammenbinden
+zusammenbleiben
+zusammenbrechen
+zusammenbringen
+zusammendrücken
+zusammenfalten
+zusammenfassen
+zusammengehören
+zusammenhaben
+zusammenhalten
+zusammenhängen
+zusammenlaufen
+zusammenleben
+zusammenpassen
+zusammenprallen
+zusammenschlagen
+zusammenschließen
+zusammenschreiben
+zusammensetzen
+zusammensitzen
+zusammenstellen
+zusammenstoßen
+zusammenstürzen
+zusammentreffen
+zusammenwirken
+zuschauen
+zuschicken
+zuschlagen
+zuschließen
+zusehen
+zusenden
+zusperren
+zustimmen
+zustoßen
+zuziehen
+zweifeln
+zwischenlagern
+zwischenlanden
+zwischenspeichern

@@ -72,6 +72,24 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "kaufen",
+        translation: "to buy",
+        keyPoint: "Shopping and commerce verb",
+        examples: [
+          "Ich kaufe Brot. (I buy bread.)",
+          "Wir haben ein Auto gekauft. (We bought a car.)",
+        ],
+      },
+      {
+        verb: "verkaufen",
+        translation: "to sell",
+        keyPoint: "Commerce verb",
+        examples: [
+          "Er verkauft sein Haus. (He sells his house.)",
+          "Sie hat ihr Auto verkauft. (She sold her car.)",
+        ],
+      },
+      {
         verb: "hören",
         translation: "to hear, to listen",
         keyPoint: "Auditory perception verb",
@@ -162,6 +180,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "singen",
+        translation: "to sing",
+        keyPoint: "Musical expression verb",
+        examples: [
+          "Er singt schön. (He sings beautifully.)",
+          "Wir haben im Chor gesungen. (We sang in the choir.)",
+        ],
+      },
+      {
         verb: "lachen",
         translation: "to laugh",
         keyPoint: "Joy expression verb",
@@ -243,6 +270,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "reisen",
+        translation: "to travel",
+        keyPoint: "Journey and tourism verb",
+        examples: [
+          "Wir reisen nach Italien. (We travel to Italy.)",
+          "Er ist viel gereist. (He traveled a lot.)",
+        ],
+      },
+      {
         verb: "packen",
         translation: "to pack",
         keyPoint: "Preparation for travel verb",
@@ -258,6 +294,24 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich buche ein Hotel. (I book a hotel.)",
           "Wir haben den Flug gebucht. (We booked the flight.)",
+        ],
+      },
+      {
+        verb: "besuchen",
+        translation: "to visit",
+        keyPoint: "Social interaction verb",
+        examples: [
+          "Ich besuche meine Oma. (I visit my grandma.)",
+          "Er hat uns besucht. (He visited us.)",
+        ],
+      },
+      {
+        verb: "einladen",
+        translation: "to invite",
+        keyPoint: "Social invitation verb",
+        examples: [
+          "Ich lade dich ein. (I invite you.)",
+          "Sie hat uns zum Essen eingeladen. (She invited us for dinner.)",
         ],
       },
       {
@@ -378,6 +432,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "löschen",
+        translation: "to delete",
+        keyPoint: "Removal verb",
+        examples: [
+          "Ich lösche die E-Mail. (I delete the email.)",
+          "Sie hat die Fotos gelöscht. (She deleted the photos.)",
+        ],
+      },
+      {
         verb: "drucken",
         translation: "to print",
         keyPoint: "Document output verb",
@@ -432,12 +495,30 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "schließen",
+        translation: "to close",
+        keyPoint: "Closure verb",
+        examples: [
+          "Ich schließe das Buch. (I close the book.)",
+          "Er hat die Augen geschlossen. (He closed his eyes.)",
+        ],
+      },
+      {
         verb: "putzen",
         translation: "to clean",
         keyPoint: "Cleaning and maintenance verb",
         examples: [
           "Ich putze das Haus. (I clean the house.)",
           "Sie hat die Zähne geputzt. (She brushed her teeth.)",
+        ],
+      },
+      {
+        verb: "waschen",
+        translation: "to wash",
+        keyPoint: "Cleaning verb",
+        examples: [
+          "Ich wasche die Wäsche. (I wash the laundry.)",
+          "Er hat das Auto gewaschen. (He washed the car.)",
         ],
       },
       {
@@ -612,12 +693,30 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "verdienen",
+        translation: "to earn",
+        keyPoint: "Income and merit verb",
+        examples: [
+          "Ich verdiene 2000 Euro. (I earn 2000 euros.)",
+          "Er hat eine Belohnung verdient. (He earned a reward.)",
+        ],
+      },
+      {
         verb: "sparen",
         translation: "to save money",
         keyPoint: "Financial preservation verb",
         examples: [
           "Ich spare für ein Auto. (I save for a car.)",
           "Sie hat viel Geld gespart. (She saved a lot of money.)",
+        ],
+      },
+      {
+        verb: "ausgeben",
+        translation: "to spend",
+        keyPoint: "Money expenditure verb",
+        examples: [
+          "Ich gebe zu viel aus. (I spend too much.)",
+          "Er hat alles ausgegeben. (He spent everything.)",
         ],
       },
       {
@@ -681,6 +780,24 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich bereite das Essen vor. (I prepare the food.)",
           "Er hat sich gut vorbereitet. (He prepared well.)",
+        ],
+      },
+      {
+        verb: "entwickeln",
+        translation: "to develop",
+        keyPoint: "Development and growth verb",
+        examples: [
+          "Wir entwickeln eine App. (We develop an app.)",
+          "Das Kind hat sich gut entwickelt. (The child developed well.)",
+        ],
+      },
+      {
+        verb: "verbessern",
+        translation: "to improve",
+        keyPoint: "Enhancement verb",
+        examples: [
+          "Ich verbessere mein Deutsch. (I improve my German.)",
+          "Sie hat ihre Noten verbessert. (She improved her grades.)",
         ],
       },
       {
@@ -846,12 +963,39 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "zerstören",
+        translation: "to destroy",
+        keyPoint: "Destruction verb",
+        examples: [
+          "Der Sturm zerstört Häuser. (The storm destroys houses.)",
+          "Das Gebäude wurde zerstört. (The building was destroyed.)",
+        ],
+      },
+      {
         verb: "demolieren",
         translation: "to demolish",
         keyPoint: "Demolition verb",
         examples: [
           "Sie demolieren das alte Haus. (They demolish the old house.)",
           "Die Mauer wurde demoliert. (The wall was demolished.)",
+        ],
+      },
+      {
+        verb: "abreißen",
+        translation: "to tear down",
+        keyPoint: "Tearing down structures verb",
+        examples: [
+          "Sie reißen die Fabrik ab. (They tear down the factory.)",
+          "Das alte Gebäude wurde abgerissen. (The old building was torn down.)",
+        ],
+      },
+      {
+        verb: "aufbauen",
+        translation: "to build up, to construct",
+        keyPoint: "Building and assembly verb",
+        examples: [
+          "Wir bauen ein Zelt auf. (We set up a tent.)",
+          "Die Firma wurde aufgebaut. (The company was built up.)",
         ],
       },
       {
@@ -870,6 +1014,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Wir demontieren das Bett. (We disassemble the bed.)",
           "Die Maschine wurde demontiert. (The machine was disassembled.)",
+        ],
+      },
+      {
+        verb: "installieren",
+        translation: "to install",
+        keyPoint: "Installation and setup verb",
+        examples: [
+          "Ich installiere das Programm. (I install the program.)",
+          "Die Heizung wurde installiert. (The heating was installed.)",
         ],
       },
       {
@@ -990,6 +1143,51 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "entdecken",
+        translation: "to discover",
+        keyPoint: "Discovery verb",
+        examples: [
+          "Kolumbus entdeckte Amerika. (Columbus discovered America.)",
+          "Ein neuer Planet wurde entdeckt. (A new planet was discovered.)",
+        ],
+      },
+      {
+        verb: "finden",
+        translation: "to find",
+        keyPoint: "Discovery and location verb",
+        examples: [
+          "Ich finde meinen Schlüssel. (I find my key.)",
+          "Die Lösung wurde gefunden. (The solution was found.)",
+        ],
+      },
+      {
+        verb: "verlieren",
+        translation: "to lose",
+        keyPoint: "Loss verb",
+        examples: [
+          "Ich verliere oft meinen Schlüssel. (I often lose my key.)",
+          "Das Spiel wurde verloren. (The game was lost.)",
+        ],
+      },
+      {
+        verb: "gewinnen",
+        translation: "to win",
+        keyPoint: "Victory verb",
+        examples: [
+          "Unser Team gewinnt das Spiel. (Our team wins the game.)",
+          "Der Preis wurde gewonnen. (The prize was won.)",
+        ],
+      },
+      {
+        verb: "erreichen",
+        translation: "to reach, to achieve",
+        keyPoint: "Achievement and reaching verb",
+        examples: [
+          "Ich erreiche mein Ziel. (I reach my goal.)",
+          "Der Gipfel wurde erreicht. (The summit was reached.)",
+        ],
+      },
+      {
         verb: "schaffen",
         translation: "to manage, to create",
         keyPoint: "Achievement and creation verb",
@@ -1023,6 +1221,33 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Wir klären die Situation. (We clarify the situation.)",
           "Das Missverständnis wurde geklärt. (The misunderstanding was clarified.)",
+        ],
+      },
+      {
+        verb: "erklären",
+        translation: "to explain",
+        keyPoint: "Explanation verb",
+        examples: [
+          "Der Lehrer erklärt die Regel. (The teacher explains the rule.)",
+          "Alles wurde erklärt. (Everything was explained.)",
+        ],
+      },
+      {
+        verb: "beschreiben",
+        translation: "to describe",
+        keyPoint: "Description verb",
+        examples: [
+          "Ich beschreibe das Haus. (I describe the house.)",
+          "Die Szene wurde beschrieben. (The scene was described.)",
+        ],
+      },
+      {
+        verb: "erzählen",
+        translation: "to tell, to narrate",
+        keyPoint: "Storytelling verb",
+        examples: [
+          "Oma erzählt Geschichten. (Grandma tells stories.)",
+          "Die Geschichte wurde erzählt. (The story was told.)",
         ],
       },
       {
@@ -1080,6 +1305,24 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "empfehlen",
+        translation: "to recommend",
+        keyPoint: "Recommendation verb",
+        examples: [
+          "Ich empfehle das Restaurant. (I recommend the restaurant.)",
+          "Das Buch wurde empfohlen. (The book was recommended.)",
+        ],
+      },
+      {
+        verb: "vorschlagen",
+        translation: "to suggest",
+        keyPoint: "Suggestion verb",
+        examples: [
+          "Ich schlage vor, früh zu gehen. (I suggest leaving early.)",
+          "Ein Kompromiss wurde vorgeschlagen. (A compromise was suggested.)",
+        ],
+      },
+      {
         verb: "bitten",
         translation: "to ask, to request",
         keyPoint: "Request verb",
@@ -1104,6 +1347,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Der Chef verlangt Pünktlichkeit. (The boss demands punctuality.)",
           "Ein Beweis wurde verlangt. (Proof was demanded.)",
+        ],
+      },
+      {
+        verb: "erwarten",
+        translation: "to expect",
+        keyPoint: "Expectation verb",
+        examples: [
+          "Ich erwarte eine Antwort. (I expect an answer.)",
+          "Gute Ergebnisse wurden erwartet. (Good results were expected.)",
         ],
       },
       {
@@ -1143,6 +1395,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "vorstellen",
+        translation: "to imagine, to introduce",
+        keyPoint: "Imagination and introduction verb",
+        examples: [
+          "Stell dir das vor! (Imagine that!)",
+          "Er wurde vorgestellt. (He was introduced.)",
+        ],
+      },
+      {
         verb: "einbilden",
         translation: "to imagine, to be conceited",
         keyPoint: "Imagination and conceit verb",
@@ -1167,6 +1428,24 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich bezweifle das. (I doubt that.)",
           "Seine Aussage wurde bezweifelt. (His statement was doubted.)",
+        ],
+      },
+      {
+        verb: "vertrauen",
+        translation: "to trust",
+        keyPoint: "Trust verb",
+        examples: [
+          "Ich vertraue dir. (I trust you.)",
+          "Ihm wurde vertraut. (He was trusted.)",
+        ],
+      },
+      {
+        verb: "misstrauen",
+        translation: "to distrust",
+        keyPoint: "Distrust verb",
+        examples: [
+          "Ich misstraue seinen Motiven. (I distrust his motives.)",
+          "Seinen Worten wurde misstraut. (His words were distrusted.)",
         ],
       },
       {
@@ -1215,6 +1494,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "feiern",
+        translation: "to celebrate",
+        keyPoint: "Celebration verb",
+        examples: [
+          "Wir feiern deinen Geburtstag. (We celebrate your birthday.)",
+          "Der Sieg wurde gefeiert. (The victory was celebrated.)",
+        ],
+      },
+      {
         verb: "rechnen",
         translation: "to calculate",
         keyPoint: "Mathematical operations",
@@ -1233,12 +1521,48 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "messen",
+        translation: "to measure",
+        keyPoint: "Taking measurements",
+        examples: [
+          "Ich messe die Temperatur. (I measure the temperature.)",
+          "Das Zimmer wurde gemessen. (The room was measured.)",
+        ],
+      },
+      {
+        verb: "wiegen",
+        translation: "to weigh",
+        keyPoint: "Determining weight",
+        examples: [
+          "Das Baby wiegt drei Kilo. (The baby weighs three kilos.)",
+          "Ich habe mich heute gewogen. (I weighed myself today.)",
+        ],
+      },
+      {
+        verb: "vergleichen",
+        translation: "to compare",
+        keyPoint: "Making comparisons",
+        examples: [
+          "Ich vergleiche die Preise. (I compare the prices.)",
+          "Die Ergebnisse wurden verglichen. (The results were compared.)",
+        ],
+      },
+      {
         verb: "unterscheiden",
         translation: "to distinguish",
         keyPoint: "Making distinctions",
         examples: [
           "Kannst du die Zwillinge unterscheiden? (Can you distinguish the twins?)",
           "Er hat gut unterschieden. (He distinguished well.)",
+        ],
+      },
+      {
+        verb: "verbinden",
+        translation: "to connect",
+        keyPoint: "Making connections",
+        examples: [
+          "Ich verbinde die Kabel. (I connect the cables.)",
+          "Die Städte sind verbunden. (The cities are connected.)",
         ],
       },
       {
@@ -1257,6 +1581,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Wir teilen das Essen. (We share the food.)",
           "Der Kuchen wurde geteilt. (The cake was divided.)",
+        ],
+      },
+      {
+        verb: "sammeln",
+        translation: "to collect",
+        keyPoint: "Gathering items",
+        examples: [
+          "Ich sammle Briefmarken. (I collect stamps.)",
+          "Die Kinder haben Blätter gesammelt. (The children collected leaves.)",
         ],
       },
       {
@@ -1293,6 +1626,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich fasse den Text zusammen. (I summarize the text.)",
           "Die Ergebnisse wurden zusammengefasst. (The results were summarized.)",
+        ],
+      },
+      {
+        verb: "erklären",
+        translation: "to explain",
+        keyPoint: "Providing explanations",
+        examples: [
+          "Der Lehrer erklärt die Regel. (The teacher explains the rule.)",
+          "Das wurde gut erklärt. (That was explained well.)",
         ],
       },
       {
@@ -1440,6 +1782,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "warnen",
+        translation: "to warn",
+        keyPoint: "Giving warnings",
+        examples: [
+          "Ich warne dich vor der Gefahr. (I warn you of the danger.)",
+          "Die Bevölkerung wurde gewarnt. (The population was warned.)",
+        ],
+      },
+      {
         verb: "drohen",
         translation: "to threaten",
         keyPoint: "Making threats",
@@ -1476,6 +1827,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "versichern",
+        translation: "to assure",
+        keyPoint: "Providing assurance",
+        examples: [
+          "Ich versichere dir meine Hilfe. (I assure you of my help.)",
+          "Er wurde der Unterstützung versichert. (He was assured of support.)",
+        ],
+      },
+      {
         verb: "bestätigen",
         translation: "to confirm",
         keyPoint: "Making confirmations",
@@ -1500,6 +1860,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich gebe meinen Fehler zu. (I admit my mistake.)",
           "Die Schuld wurde zugegeben. (The guilt was admitted.)",
+        ],
+      },
+      {
+        verb: "gestehen",
+        translation: "to confess",
+        keyPoint: "Making confessions",
+        examples: [
+          "Der Täter gesteht die Tat. (The perpetrator confesses the deed.)",
+          "Das Verbrechen wurde gestanden. (The crime was confessed.)",
         ],
       },
       {
@@ -1530,6 +1899,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "preisgeben",
+        translation: "to disclose",
+        keyPoint: "Revealing information",
+        examples: [
+          "Er gibt das Geheimnis preis. (He discloses the secret.)",
+          "Persönliche Daten wurden preisgegeben. (Personal data was disclosed.)",
+        ],
+      },
+      {
         verb: "schützen",
         translation: "to protect",
         keyPoint: "Providing protection",
@@ -1548,6 +1926,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "angreifen",
+        translation: "to attack",
+        keyPoint: "Making attacks",
+        examples: [
+          "Der Feind greift die Stadt an. (The enemy attacks the city.)",
+          "Die Position wurde angegriffen. (The position was attacked.)",
+        ],
+      },
+      {
         verb: "kämpfen",
         translation: "to fight",
         keyPoint: "Engaging in combat",
@@ -1563,6 +1950,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Unser Team besiegt den Gegner. (Our team defeats the opponent.)",
           "Der Champion wurde besiegt. (The champion was defeated.)",
+        ],
+      },
+      {
+        verb: "erobern",
+        translation: "to conquer",
+        keyPoint: "Taking control",
+        examples: [
+          "Die Armee erobert die Festung. (The army conquers the fortress.)",
+          "Das Gebiet wurde erobert. (The territory was conquered.)",
         ],
       },
       {
@@ -1638,6 +2034,15 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "aufnehmen",
+        translation: "to record, to accept",
+        keyPoint: "Recording or accepting",
+        examples: [
+          "Ich nehme ein Lied auf. (I record a song.)",
+          "Der Student wurde an der Uni aufgenommen. (The student was accepted at the university.)",
+        ],
+      },
+      {
         verb: "abspielen",
         translation: "to play back",
         keyPoint: "Playing recorded material",
@@ -1692,12 +2097,93 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "zurückkehren",
+        translation: "to return",
+        keyPoint: "Coming back",
+        examples: [
+          "Ich kehre nach Hause zurück. (I return home.)",
+          "Er ist gestern zurückgekehrt. (He returned yesterday.)",
+        ],
+      },
+      {
+        verb: "wegfahren",
+        translation: "to drive away",
+        keyPoint: "Departing by vehicle",
+        examples: [
+          "Wir fahren um acht Uhr weg. (We drive away at eight o'clock.)",
+          "Das Auto ist weggefahren. (The car has driven away.)",
+        ],
+      },
+      {
+        verb: "ankommen",
+        translation: "to arrive",
+        keyPoint: "Reaching a destination",
+        examples: [
+          "Der Zug kommt pünktlich an. (The train arrives on time.)",
+          "Wir sind gestern angekommen. (We arrived yesterday.)",
+        ],
+      },
+      {
+        verb: "abfahren",
+        translation: "to depart",
+        keyPoint: "Starting a journey",
+        examples: [
+          "Der Bus fährt um neun ab. (The bus departs at nine.)",
+          "Wir sind früh abgefahren. (We departed early.)",
+        ],
+      },
+      {
         verb: "umsteigen",
         translation: "to change (transport)",
         keyPoint: "Changing vehicles",
         examples: [
           "Ich steige in München um. (I change in Munich.)",
           "Wir sind zweimal umgestiegen. (We changed twice.)",
+        ],
+      },
+      {
+        verb: "einsteigen",
+        translation: "to get on/in",
+        keyPoint: "Boarding a vehicle",
+        examples: [
+          "Bitte steigen Sie ein! (Please get on!)",
+          "Alle sind eingestiegen. (Everyone has gotten on.)",
+        ],
+      },
+      {
+        verb: "aussteigen",
+        translation: "to get off/out",
+        keyPoint: "Leaving a vehicle",
+        examples: [
+          "Ich steige hier aus. (I get off here.)",
+          "Die Passagiere sind ausgestiegen. (The passengers got off.)",
+        ],
+      },
+      {
+        verb: "mitfahren",
+        translation: "to ride along",
+        keyPoint: "Traveling together",
+        examples: [
+          "Kann ich mitfahren? (Can I ride along?)",
+          "Sie ist mitgefahren. (She rode along.)",
+        ],
+      },
+      {
+        verb: "abholen",
+        translation: "to pick up",
+        keyPoint: "Collecting someone/something",
+        examples: [
+          "Ich hole dich ab. (I'll pick you up.)",
+          "Das Paket wurde abgeholt. (The package was picked up.)",
+        ],
+      },
+      {
+        verb: "bringen",
+        translation: "to bring",
+        keyPoint: "Carrying to a destination",
+        examples: [
+          "Ich bringe dir das Buch. (I bring you the book.)",
+          "Die Post wurde gebracht. (The mail was brought.)",
         ],
       },
       {
@@ -1710,6 +2196,42 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "zurückbringen",
+        translation: "to bring back",
+        keyPoint: "Returning something",
+        examples: [
+          "Ich bringe das Buch zurück. (I bring the book back.)",
+          "Der Schlüssel wurde zurückgebracht. (The key was brought back.)",
+        ],
+      },
+      {
+        verb: "mitnehmen",
+        translation: "to take along",
+        keyPoint: "Taking someone/something with you",
+        examples: [
+          "Ich nehme dich mit. (I take you along.)",
+          "Der Koffer wurde mitgenommen. (The suitcase was taken along.)",
+        ],
+      },
+      {
+        verb: "wegnehmen",
+        translation: "to take away",
+        keyPoint: "Removing something",
+        examples: [
+          "Die Mutter nimmt dem Kind das Spielzeug weg. (The mother takes the toy away from the child.)",
+          "Das wurde mir weggenommen. (That was taken away from me.)",
+        ],
+      },
+      {
+        verb: "weggeben",
+        translation: "to give away",
+        keyPoint: "Donating or disposing of",
+        examples: [
+          "Ich gebe alte Kleider weg. (I give away old clothes.)",
+          "Viele Bücher wurden weggegeben. (Many books were given away.)",
+        ],
+      },
+      {
         verb: "verschenken",
         translation: "to give as a gift",
         keyPoint: "Making a present of something",
@@ -1719,12 +2241,48 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "verkaufen",
+        translation: "to sell",
+        keyPoint: "Exchanging for money",
+        examples: [
+          "Ich verkaufe mein Auto. (I sell my car.)",
+          "Das Haus wurde schnell verkauft. (The house was sold quickly.)",
+        ],
+      },
+      {
+        verb: "vermieten",
+        translation: "to rent out",
+        keyPoint: "Letting property for rent",
+        examples: [
+          "Wir vermieten eine Wohnung. (We rent out an apartment.)",
+          "Das Zimmer wurde vermietet. (The room was rented out.)",
+        ],
+      },
+      {
         verb: "mieten",
         translation: "to rent",
         keyPoint: "Paying rent for use",
         examples: [
           "Ich miete ein Auto. (I rent a car.)",
           "Die Wohnung wurde gemietet. (The apartment was rented.)",
+        ],
+      },
+      {
+        verb: "leihen",
+        translation: "to lend/borrow",
+        keyPoint: "Temporary use exchange",
+        examples: [
+          "Ich leihe dir mein Buch. (I lend you my book.)",
+          "Das Geld wurde geliehen. (The money was borrowed.)",
+        ],
+      },
+      {
+        verb: "ausleihen",
+        translation: "to borrow",
+        keyPoint: "Taking temporarily",
+        examples: [
+          "Ich leihe mir ein Buch aus. (I borrow a book.)",
+          "Das Video wurde ausgeliehen. (The video was borrowed.)",
         ],
       },
       {
@@ -1764,6 +2322,33 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "ersetzen",
+        translation: "to replace",
+        keyPoint: "Substituting one for another",
+        examples: [
+          "Ich ersetze die kaputte Glühbirne. (I replace the broken light bulb.)",
+          "Der alte Computer wurde ersetzt. (The old computer was replaced.)",
+        ],
+      },
+      {
+        verb: "erneuern",
+        translation: "to renew",
+        keyPoint: "Making new again",
+        examples: [
+          "Ich erneuere meinen Pass. (I renew my passport.)",
+          "Das Dach wurde erneuert. (The roof was renewed.)",
+        ],
+      },
+      {
+        verb: "renovieren",
+        translation: "to renovate",
+        keyPoint: "Restoring or improving",
+        examples: [
+          "Wir renovieren die Küche. (We renovate the kitchen.)",
+          "Das Haus wurde komplett renoviert. (The house was completely renovated.)",
+        ],
+      },
+      {
         verb: "modernisieren",
         translation: "to modernize",
         keyPoint: "Making contemporary",
@@ -1779,6 +2364,33 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich aktualisiere die Software. (I update the software.)",
           "Die Daten wurden aktualisiert. (The data was updated.)",
+        ],
+      },
+      {
+        verb: "erweitern",
+        translation: "to expand",
+        keyPoint: "Making larger",
+        examples: [
+          "Wir erweitern das Haus. (We expand the house.)",
+          "Das Angebot wurde erweitert. (The offer was expanded.)",
+        ],
+      },
+      {
+        verb: "verkleinern",
+        translation: "to reduce in size",
+        keyPoint: "Making smaller",
+        examples: [
+          "Ich verkleinere das Foto. (I reduce the photo size.)",
+          "Das Team wurde verkleinert. (The team was reduced in size.)",
+        ],
+      },
+      {
+        verb: "vergrößern",
+        translation: "to enlarge",
+        keyPoint: "Making larger",
+        examples: [
+          "Ich vergrößere das Bild. (I enlarge the picture.)",
+          "Die Abteilung wurde vergrößert. (The department was enlarged.)",
         ],
       },
       {
@@ -2034,6 +2646,24 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "standardisieren",
+        translation: "to standardize",
+        keyPoint: "Making uniform",
+        examples: [
+          "Sie standardisieren die Verfahren. (They standardize the procedures.)",
+          "Die Normen wurden standardisiert. (The standards were standardized.)",
+        ],
+      },
+      {
+        verb: "kategorisieren",
+        translation: "to categorize",
+        keyPoint: "Classifying into groups",
+        examples: [
+          "Ich kategorisiere die Daten. (I categorize the data.)",
+          "Die Artikel wurden kategorisiert. (The articles were categorized.)",
+        ],
+      },
+      {
         verb: "charakterisieren",
         translation: "to characterize",
         keyPoint: "Describing distinctive features",
@@ -2061,463 +2691,21 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "stabilisieren",
+        translation: "to stabilize",
+        keyPoint: "Making stable",
+        examples: [
+          "Die Medikamente stabilisieren ihn. (The medications stabilize him.)",
+          "Die Lage wurde stabilisiert. (The situation was stabilized.)",
+        ],
+      },
+      {
         verb: "lokalisieren",
         translation: "to localize",
         keyPoint: "Finding location or adapting locally",
         examples: [
           "Wir lokalisieren das Problem. (We localize the problem.)",
           "Die Software wurde lokalisiert. (The software was localized.)",
-        ],
-      },
-      {
-        verb: "akzeptieren",
-        translation: "to accept",
-        keyPoint: "Agreeing to receive or take",
-        examples: [
-          "Ich akzeptiere dein Angebot. (I accept your offer.)",
-          "Die Entschuldigung wurde akzeptiert. (The apology was accepted.)",
-        ],
-      },
-      {
-        verb: "ablehnen",
-        translation: "to reject, to decline",
-        keyPoint: "Refusing or saying no",
-        examples: [
-          "Er lehnt das Angebot ab. (He rejects the offer.)",
-          "Die Bewerbung wurde abgelehnt. (The application was rejected.)",
-        ],
-      },
-      {
-        verb: "tolerieren",
-        translation: "to tolerate",
-        keyPoint: "Allowing or putting up with",
-        examples: [
-          "Wir tolerieren keine Gewalt. (We don't tolerate violence.)",
-          "Das Verhalten wurde toleriert. (The behavior was tolerated.)",
-        ],
-      },
-      {
-        verb: "ignorieren",
-        translation: "to ignore",
-        keyPoint: "Deliberately not noticing",
-        examples: [
-          "Ignoriere die Kritik! (Ignore the criticism!)",
-          "Die Warnung wurde ignoriert. (The warning was ignored.)",
-        ],
-      },
-      {
-        verb: "bemerken",
-        translation: "to notice",
-        keyPoint: "Becoming aware of something",
-        examples: [
-          "Ich bemerke den Unterschied. (I notice the difference.)",
-          "Der Fehler wurde bemerkt. (The mistake was noticed.)",
-        ],
-      },
-      {
-        verb: "wahrnehmen",
-        translation: "to perceive",
-        keyPoint: "Sensing or becoming aware",
-        examples: [
-          "Ich nehme Veränderungen wahr. (I perceive changes.)",
-          "Das Problem wurde wahrgenommen. (The problem was perceived.)",
-        ],
-      },
-      {
-        verb: "spüren",
-        translation: "to feel, to sense",
-        keyPoint: "Physical or emotional sensation",
-        examples: [
-          "Ich spüre den Wind. (I feel the wind.)",
-          "Die Kälte wurde gespürt. (The cold was felt.)",
-        ],
-      },
-      {
-        verb: "riechen",
-        translation: "to smell",
-        keyPoint: "Detecting scents",
-        examples: [
-          "Ich rieche Blumen. (I smell flowers.)",
-          "Rauch wurde gerochen. (Smoke was smelled.)",
-        ],
-      },
-      {
-        verb: "schmecken",
-        translation: "to taste",
-        keyPoint: "Detecting flavors",
-        examples: [
-          "Das schmeckt gut! (That tastes good!)",
-          "Salz wurde geschmeckt. (Salt was tasted.)",
-        ],
-      },
-      {
-        verb: "berühren",
-        translation: "to touch",
-        keyPoint: "Physical contact",
-        examples: [
-          "Berühren Sie bitte nichts! (Please don't touch anything!)",
-          "Die Wand wurde berührt. (The wall was touched.)",
-        ],
-      },
-      {
-        verb: "streicheln",
-        translation: "to stroke, to pet",
-        keyPoint: "Gentle touching",
-        examples: [
-          "Ich streichle die Katze. (I pet the cat.)",
-          "Das Kind wurde gestreichelt. (The child was stroked.)",
-        ],
-      },
-      {
-        verb: "massieren",
-        translation: "to massage",
-        keyPoint: "Therapeutic touching",
-        examples: [
-          "Sie massiert seinen Rücken. (She massages his back.)",
-          "Die Muskeln wurden massiert. (The muscles were massaged.)",
-        ],
-      },
-      {
-        verb: "küssen",
-        translation: "to kiss",
-        keyPoint: "Showing affection",
-        examples: [
-          "Sie küssen sich. (They kiss each other.)",
-          "Die Braut wurde geküsst. (The bride was kissed.)",
-        ],
-      },
-      {
-        verb: "umarmen",
-        translation: "to hug",
-        keyPoint: "Embracing with arms",
-        examples: [
-          "Ich umarme meine Mutter. (I hug my mother.)",
-          "Der Freund wurde umarmt. (The friend was hugged.)",
-        ],
-      },
-      {
-        verb: "atmen",
-        translation: "to breathe",
-        keyPoint: "Taking in air",
-        examples: [
-          "Atme tief ein! (Breathe in deeply!)",
-          "Langsam wurde geatmet. (Breathing was slow.)",
-        ],
-      },
-      {
-        verb: "seufzen",
-        translation: "to sigh",
-        keyPoint: "Expressing resignation",
-        examples: [
-          "Er seufzt müde. (He sighs tiredly.)",
-          "Leise wurde geseufzt. (There was quiet sighing.)",
-        ],
-      },
-
-      {
-        verb: "gähnen",
-        translation: "to yawn",
-        keyPoint: "Sign of tiredness",
-        examples: [
-          "Ich gähne vor Müdigkeit. (I yawn from tiredness.)",
-          "Laut wurde gegähnt. (There was loud yawning.)",
-        ],
-      },
-      {
-        verb: "niesen",
-        translation: "to sneeze",
-        keyPoint: "Involuntary response",
-        examples: [
-          "Ich niese wegen Allergie. (I sneeze because of allergies.)",
-          "Mehrmals wurde geniest. (There was sneezing several times.)",
-        ],
-      },
-      {
-        verb: "husten",
-        translation: "to cough",
-        keyPoint: "Clearing throat or illness",
-        examples: [
-          "Er hustet die ganze Nacht. (He coughs all night.)",
-          "Stark wurde gehustet. (There was heavy coughing.)",
-        ],
-      },
-      {
-        verb: "schlucken",
-        translation: "to swallow",
-        keyPoint: "Moving down throat",
-        examples: [
-          "Ich schlucke die Tablette. (I swallow the pill.)",
-          "Schwer wurde geschluckt. (Swallowing was difficult.)",
-        ],
-      },
-      {
-        verb: "kauen",
-        translation: "to chew",
-        keyPoint: "Breaking down food",
-        examples: [
-          "Kaue dein Essen gut! (Chew your food well!)",
-          "Lange wurde gekaut. (There was long chewing.)",
-        ],
-      },
-      {
-        verb: "lecken",
-        translation: "to lick",
-        keyPoint: "Using tongue",
-        examples: [
-          "Der Hund leckt meine Hand. (The dog licks my hand.)",
-          "Das Eis wurde geleckt. (The ice cream was licked.)",
-        ],
-      },
-      {
-        verb: "beißen",
-        translation: "to bite",
-        keyPoint: "Using teeth",
-        examples: [
-          "Der Hund beißt nicht. (The dog doesn't bite.)",
-          "In den Apfel wurde gebissen. (The apple was bitten.)",
-        ],
-      },
-      {
-        verb: "kratzen",
-        translation: "to scratch",
-        keyPoint: "Scraping with nails",
-        examples: [
-          "Ich kratze mich am Kopf. (I scratch my head.)",
-          "Die Stelle wurde gekratzt. (The spot was scratched.)",
-        ],
-      },
-      {
-        verb: "reiben",
-        translation: "to rub",
-        keyPoint: "Moving back and forth",
-        examples: [
-          "Ich reibe meine Hände. (I rub my hands.)",
-          "Die Augen wurden gerieben. (The eyes were rubbed.)",
-        ],
-      },
-      {
-        verb: "wischen",
-        translation: "to wipe",
-        keyPoint: "Cleaning by rubbing",
-        examples: [
-          "Ich wische den Tisch ab. (I wipe the table.)",
-          "Der Staub wurde gewischt. (The dust was wiped.)",
-        ],
-      },
-      {
-        verb: "kehren",
-        translation: "to sweep",
-        keyPoint: "Cleaning with broom",
-        examples: [
-          "Ich kehre den Hof. (I sweep the yard.)",
-          "Die Straße wurde gekehrt. (The street was swept.)",
-        ],
-      },
-      {
-        verb: "saugen",
-        translation: "to vacuum",
-        keyPoint: "Cleaning with suction",
-        examples: [
-          "Ich sauge den Teppich. (I vacuum the carpet.)",
-          "Das Zimmer wurde gesaugt. (The room was vacuumed.)",
-        ],
-      },
-      {
-        verb: "polieren",
-        translation: "to polish",
-        keyPoint: "Making shiny",
-        examples: [
-          "Ich poliere das Auto. (I polish the car.)",
-          "Die Schuhe wurden poliert. (The shoes were polished.)",
-        ],
-      },
-      {
-        verb: "schrubben",
-        translation: "to scrub",
-        keyPoint: "Vigorous cleaning",
-        examples: [
-          "Ich scrubbe den Boden. (I scrub the floor.)",
-          "Die Flecken wurden geschrubbt. (The stains were scrubbed.)",
-        ],
-      },
-      {
-        verb: "spülen",
-        translation: "to rinse, to wash dishes",
-        keyPoint: "Cleaning with water",
-        examples: [
-          "Ich spüle das Geschirr. (I wash the dishes.)",
-          "Die Gläser wurden gespült. (The glasses were rinsed.)",
-        ],
-      },
-      {
-        verb: "abtrocknen",
-        translation: "to dry off",
-        keyPoint: "Removing moisture",
-        examples: [
-          "Ich trockne mich ab. (I dry myself off.)",
-          "Das Geschirr wurde abgetrocknet. (The dishes were dried off.)",
-        ],
-      },
-      {
-        verb: "einweichen",
-        translation: "to soak",
-        keyPoint: "Softening in liquid",
-        examples: [
-          "Ich weiche die Wäsche ein. (I soak the laundry.)",
-          "Die Bohnen wurden eingeweicht. (The beans were soaked.)",
-        ],
-      },
-      {
-        verb: "einfrieren",
-        translation: "to freeze",
-        keyPoint: "Preserving by cold",
-        examples: [
-          "Ich friere das Fleisch ein. (I freeze the meat.)",
-          "Die Suppe wurde eingefroren. (The soup was frozen.)",
-        ],
-      },
-      {
-        verb: "auftauen",
-        translation: "to thaw",
-        keyPoint: "Melting frozen items",
-        examples: [
-          "Ich taue das Fleisch auf. (I thaw the meat.)",
-          "Das Eis wurde aufgetaut. (The ice was thawed.)",
-        ],
-      },
-      {
-        verb: "erhitzen",
-        translation: "to heat up",
-        keyPoint: "Making hot",
-        examples: [
-          "Ich erhitze die Milch. (I heat up the milk.)",
-          "Das Wasser wurde erhitzt. (The water was heated.)",
-        ],
-      },
-      {
-        verb: "abkühlen",
-        translation: "to cool down",
-        keyPoint: "Making cooler",
-        examples: [
-          "Lass die Suppe abkühlen! (Let the soup cool down!)",
-          "Das Metall wurde abgekühlt. (The metal was cooled down.)",
-        ],
-      },
-      {
-        verb: "würzen",
-        translation: "to season",
-        keyPoint: "Adding spices",
-        examples: [
-          "Ich würze das Essen. (I season the food.)",
-          "Die Soße wurde gewürzt. (The sauce was seasoned.)",
-        ],
-      },
-      {
-        verb: "salzen",
-        translation: "to salt",
-        keyPoint: "Adding salt",
-        examples: [
-          "Ich salze die Suppe. (I salt the soup.)",
-          "Das Fleisch wurde gesalzen. (The meat was salted.)",
-        ],
-      },
-      {
-        verb: "pfeffern",
-        translation: "to pepper",
-        keyPoint: "Adding pepper",
-        examples: [
-          "Ich pfeffere das Steak. (I pepper the steak.)",
-          "Der Salat wurde gepfeffert. (The salad was peppered.)",
-        ],
-      },
-      {
-        verb: "süßen",
-        translation: "to sweeten",
-        keyPoint: "Adding sweetener",
-        examples: [
-          "Ich süße den Kaffee. (I sweeten the coffee.)",
-          "Der Tee wurde gesüßt. (The tea was sweetened.)",
-        ],
-      },
-      {
-        verb: "mischen",
-        translation: "to mix",
-        keyPoint: "Combining ingredients",
-        examples: [
-          "Ich mische die Zutaten. (I mix the ingredients.)",
-          "Alles wurde gut gemischt. (Everything was mixed well.)",
-        ],
-      },
-      {
-        verb: "rühren",
-        translation: "to stir",
-        keyPoint: "Circular mixing motion",
-        examples: [
-          "Ich rühre die Soße um. (I stir the sauce.)",
-          "Ständig wurde gerührt. (There was constant stirring.)",
-        ],
-      },
-      {
-        verb: "schlagen",
-        translation: "to beat, to whip",
-        keyPoint: "Vigorous mixing",
-        examples: [
-          "Ich schlage die Sahne. (I whip the cream.)",
-          "Die Eier wurden geschlagen. (The eggs were beaten.)",
-        ],
-      },
-      {
-        verb: "kneten",
-        translation: "to knead",
-        keyPoint: "Working dough",
-        examples: [
-          "Ich knete den Teig. (I knead the dough.)",
-          "Der Brotteig wurde geknetet. (The bread dough was kneaded.)",
-        ],
-      },
-      {
-        verb: "backen",
-        translation: "to bake",
-        keyPoint: "Cooking in oven",
-        examples: [
-          "Ich backe einen Kuchen. (I bake a cake.)",
-          "Das Brot wurde gebacken. (The bread was baked.)",
-        ],
-      },
-      {
-        verb: "braten",
-        translation: "to fry, to roast",
-        keyPoint: "Cooking with fat",
-        examples: [
-          "Ich brate Fleisch. (I fry meat.)",
-          "Die Kartoffeln wurden gebraten. (The potatoes were fried.)",
-        ],
-      },
-      {
-        verb: "grillen",
-        translation: "to grill",
-        keyPoint: "Cooking over fire",
-        examples: [
-          "Wir grillen Würstchen. (We grill sausages.)",
-          "Das Fleisch wurde gegrillt. (The meat was grilled.)",
-        ],
-      },
-      {
-        verb: "dämpfen",
-        translation: "to steam",
-        keyPoint: "Cooking with steam",
-        examples: [
-          "Ich dämpfe Gemüse. (I steam vegetables.)",
-          "Der Fisch wurde gedämpft. (The fish was steamed.)",
-        ],
-      },
-      {
-        verb: "dünsten",
-        translation: "to braise",
-        keyPoint: "Gentle cooking method",
-        examples: [
-          "Ich dünste das Gemüse. (I braise the vegetables.)",
-          "Das Fleisch wurde gedünstet. (The meat was braised.)",
         ],
       },
     ],

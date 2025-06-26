@@ -52,12 +52,30 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
+        verb: "vorhaben",
+        translation: "to plan, to intend",
+        keyPoint: "Having plans or intentions",
+        examples: [
+          "Was hast du vor? (What do you plan?)",
+          "Ich habe heute viel vor. (I have a lot planned today.)",
+        ],
+      },
+      {
         verb: "vorherrschen",
         translation: "to prevail, to predominate",
         keyPoint: "Being dominant or most common",
         examples: [
           "Das herrscht vor. (That prevails.)",
           "Gutes Wetter herrscht vor. (Good weather prevails.)",
+        ],
+      },
+      {
+        verb: "vorkommen",
+        translation: "to occur, to happen",
+        keyPoint: "Happening or existing",
+        examples: [
+          "Komm vor! (Come forward!)",
+          "Das kommt oft vor. (That happens often.)",
         ],
       },
       {
@@ -123,6 +141,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
           "Ich trage ein Gedicht vor. (I'm reciting a poem.)",
         ],
       },
+      {
+        verb: "vorziehen",
+        translation: "to prefer, to pull forward",
+        keyPoint: "Preferring or moving something forward",
+        examples: [
+          "Zieh das vor! (Pull that forward!)",
+          "Ich ziehe Tee vor. (I prefer tea.)",
+        ],
+      },
     ],
   },
   {
@@ -163,6 +190,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
         examples: [
           "Drück das weg! (Push that away!)",
           "Ich drücke ihn weg. (I'm pushing him away.)",
+        ],
+      },
+      {
+        verb: "wegfahren",
+        translation: "to drive away",
+        keyPoint: "Leaving by vehicle",
+        examples: [
+          "Fahr weg! (Drive away!)",
+          "Ich fahre um 8 Uhr weg. (I'm driving away at 8 o'clock.)",
         ],
       },
       {
@@ -256,6 +292,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
+        verb: "wegräumen",
+        translation: "to clear away, to tidy up",
+        keyPoint: "Removing things to clean up",
+        examples: [
+          "Räum das weg! (Clear that away!)",
+          "Ich räume das Geschirr weg. (I'm clearing away the dishes.)",
+        ],
+      },
+      {
         verb: "wegrennen",
         translation: "to run away",
         keyPoint: "Running away quickly",
@@ -345,6 +390,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
           "Ich werfe das Papier weg. (I'm throwing the paper away.)",
         ],
       },
+      {
+        verb: "wegziehen",
+        translation: "to move away, to pull away",
+        keyPoint: "Moving to another place or pulling away",
+        examples: [
+          "Zieh weg! (Move away!)",
+          "Ich ziehe in eine andere Stadt weg. (I'm moving away to another city.)",
+        ],
+      },
     ],
   },
   {
@@ -394,6 +448,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
         examples: [
           "Führ das weiter! (Continue that!)",
           "Ich führe das Geschäft weiter. (I'm continuing the business.)",
+        ],
+      },
+      {
+        verb: "weitergeben",
+        translation: "to pass on",
+        keyPoint: "Passing something to someone else",
+        examples: [
+          "Gib das weiter! (Pass that on!)",
+          "Ich gebe die Nachricht weiter. (I'm passing on the message.)",
         ],
       },
       {
@@ -460,7 +523,7 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
-        verb: "weitersleepen",
+        verb: "weiterschlafen",
         translation: "to continue sleeping",
         keyPoint: "Continuing to sleep",
         examples: [
@@ -634,6 +697,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
+        verb: "zuhören",
+        translation: "to listen",
+        keyPoint: "Listening to someone",
+        examples: [
+          "Hör zu! (Listen!)",
+          "Ich höre der Musik zu. (I'm listening to the music.)",
+        ],
+      },
+      {
         verb: "zuknoten",
         translation: "to tie, to knot",
         keyPoint: "Tying something with a knot",
@@ -685,6 +757,24 @@ export const additionalVerbGroups3: VerbGroup[] = [
         examples: [
           "Ruf zu! (Call to!)",
           "Ich rufe ihm zu. (I'm calling to him.)",
+        ],
+      },
+      {
+        verb: "zusagen",
+        translation: "to agree, to promise",
+        keyPoint: "Agreeing to something",
+        examples: [
+          "Sag zu! (Agree!)",
+          "Ich sage die Hilfe zu. (I'm promising help.)",
+        ],
+      },
+      {
+        verb: "zuschauen",
+        translation: "to watch",
+        keyPoint: "Watching something happen",
+        examples: [
+          "Schau zu! (Watch!)",
+          "Ich schaue dem Spiel zu. (I'm watching the game.)",
         ],
       },
       {
@@ -853,12 +943,39 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
+        verb: "zurückgeben",
+        translation: "to give back, to return",
+        keyPoint: "Returning something to someone",
+        examples: [
+          "Gib das zurück! (Give that back!)",
+          "Ich gebe das Geld zurück. (I'm giving back the money.)",
+        ],
+      },
+      {
         verb: "zurückgehen",
         translation: "to go back",
         keyPoint: "Walking back to a place",
         examples: [
           "Geh zurück! (Go back!)",
           "Ich gehe zur Schule zurück. (I'm going back to school.)",
+        ],
+      },
+      {
+        verb: "zurückkehren",
+        translation: "to return",
+        keyPoint: "Coming back to a place",
+        examples: [
+          "Kehr zurück! (Return!)",
+          "Ich kehre nach Deutschland zurück. (I'm returning to Germany.)",
+        ],
+      },
+      {
+        verb: "zurückkommen",
+        translation: "to come back",
+        keyPoint: "Coming back to a place",
+        examples: [
+          "Komm zurück! (Come back!)",
+          "Ich komme um 6 Uhr zurück. (I'm coming back at 6 o'clock.)",
         ],
       },
       {
@@ -895,6 +1012,15 @@ export const additionalVerbGroups3: VerbGroup[] = [
         examples: [
           "Reise zurück! (Travel back!)",
           "Ich reise nach Berlin zurück. (I'm traveling back to Berlin.)",
+        ],
+      },
+      {
+        verb: "zurückrufen",
+        translation: "to call back",
+        keyPoint: "Calling someone back",
+        examples: [
+          "Ruf zurück! (Call back!)",
+          "Ich rufe dich später zurück. (I'll call you back later.)",
         ],
       },
       {
@@ -1213,12 +1339,129 @@ export const additionalVerbGroups3: VerbGroup[] = [
     description: "Essential B2-level daily verbs",
     verbs: [
       {
+        verb: "aufstehen",
+        translation: "to get up, to stand up",
+        keyPoint: "Rising from bed or sitting position",
+        examples: [
+          "Ich stehe um 7 Uhr auf. (I get up at 7 o'clock.)",
+          "Steh auf! (Get up!)",
+        ],
+      },
+      {
+        verb: "aufwachen",
+        translation: "to wake up",
+        keyPoint: "Becoming awake",
+        examples: [
+          "Ich wache früh auf. (I wake up early.)",
+          "Wach auf! (Wake up!)",
+        ],
+      },
+      {
+        verb: "einkaufen",
+        translation: "to shop, to go shopping",
+        keyPoint: "Buying goods and groceries",
+        examples: [
+          "Ich kaufe im Supermarkt ein. (I shop at the supermarket.)",
+          "Gehst du heute einkaufen? (Are you going shopping today?)",
+        ],
+      },
+      {
+        verb: "fernsehen",
+        translation: "to watch TV",
+        keyPoint: "Watching television",
+        examples: [
+          "Ich sehe gern fern. (I like to watch TV.)",
+          "Siehst du heute Abend fern? (Are you watching TV tonight?)",
+        ],
+      },
+      {
         verb: "spazierengehen",
         translation: "to go for a walk",
         keyPoint: "Walking for pleasure",
         examples: [
           "Ich gehe im Park spazieren. (I go for a walk in the park.)",
           "Gehen wir spazieren! (Let's go for a walk!)",
+        ],
+      },
+      {
+        verb: "teilnehmen",
+        translation: "to participate, to take part",
+        keyPoint: "Joining an activity or event",
+        examples: [
+          "Ich nehme an dem Kurs teil. (I participate in the course.)",
+          "Nimmst du an der Besprechung teil? (Are you taking part in the meeting?)",
+        ],
+      },
+      {
+        verb: "stattfinden",
+        translation: "to take place, to occur",
+        keyPoint: "Events happening or occurring",
+        examples: [
+          "Das Konzert findet heute statt. (The concert takes place today.)",
+          "Wann findet die Prüfung statt? (When does the exam take place?)",
+        ],
+      },
+      {
+        verb: "vorhaben",
+        translation: "to plan, to intend",
+        keyPoint: "Having plans or intentions",
+        examples: [
+          "Was hast du vor? (What are you planning?)",
+          "Ich habe nichts Besonderes vor. (I don't have any special plans.)",
+        ],
+      },
+      {
+        verb: "vorstellen",
+        translation: "to introduce, to imagine",
+        keyPoint: "Introducing people or imagining",
+        examples: [
+          "Ich stelle mich vor. (I introduce myself.)",
+          "Stell dir das vor! (Imagine that!)",
+        ],
+      },
+      {
+        verb: "abholen",
+        translation: "to pick up, to collect",
+        keyPoint: "Getting someone or something",
+        examples: [
+          "Ich hole dich ab. (I'll pick you up.)",
+          "Holst du das Paket ab? (Are you picking up the package?)",
+        ],
+      },
+      {
+        verb: "zuhören",
+        translation: "to listen",
+        keyPoint: "Actively listening to someone",
+        examples: [
+          "Hör zu! (Listen!)",
+          "Ich höre dem Lehrer zu. (I listen to the teacher.)",
+        ],
+      },
+      {
+        verb: "zuschauen",
+        translation: "to watch",
+        keyPoint: "Watching an activity or event",
+        examples: [
+          "Schau zu! (Watch!)",
+          "Ich schaue dem Spiel zu. (I watch the game.)",
+        ],
+      },
+      {
+        verb: "zusagen",
+        translation: "to accept, to agree",
+        keyPoint: "Accepting an invitation or offer",
+        examples: [
+          "Ich sage zu. (I accept.)",
+          "Sagst du der Einladung zu? (Are you accepting the invitation?)",
+        ],
+      },
+      {
+        verb: "absagen",
+        translation: "to cancel, to decline",
+        keyPoint: "Canceling or declining",
+        examples: [
+          "Ich sage ab. (I cancel/decline.)",
+          "Die Veranstaltung wurde abgesagt. (The event was canceled.)",
         ],
       },
       {
@@ -1231,12 +1474,147 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
+        verb: "aufräumen",
+        translation: "to clean up, to tidy",
+        keyPoint: "Organizing and cleaning",
+        examples: [
+          "Räum dein Zimmer auf! (Clean up your room!)",
+          "Ich räume die Küche auf. (I'm cleaning up the kitchen.)",
+        ],
+      },
+      {
+        verb: "wegräumen",
+        translation: "to put away, to clear away",
+        keyPoint: "Removing and storing things",
+        examples: [
+          "Räum das weg! (Put that away!)",
+          "Ich räume die Spielsachen weg. (I'm putting away the toys.)",
+        ],
+      },
+      {
+        verb: "anrufen",
+        translation: "to call, to phone",
+        keyPoint: "Making a phone call",
+        examples: [
+          "Ich rufe dich an. (I'll call you.)",
+          "Ruf mich an! (Call me!)",
+        ],
+      },
+      {
+        verb: "zurückrufen",
+        translation: "to call back",
+        keyPoint: "Returning a phone call",
+        examples: [
+          "Ich rufe zurück. (I'll call back.)",
+          "Ruf bitte zurück! (Please call back!)",
+        ],
+      },
+      {
+        verb: "mitnehmen",
+        translation: "to take along",
+        keyPoint: "Taking someone or something with you",
+        examples: [
+          "Nimm mich mit! (Take me along!)",
+          "Ich nehme einen Regenschirm mit. (I'm taking an umbrella along.)",
+        ],
+      },
+      {
+        verb: "mitbringen",
+        translation: "to bring along",
+        keyPoint: "Bringing something with you",
+        examples: [
+          "Bring etwas mit! (Bring something along!)",
+          "Ich bringe Kuchen mit. (I'm bringing cake along.)",
+        ],
+      },
+      {
+        verb: "einladen",
+        translation: "to invite",
+        keyPoint: "Asking someone to come",
+        examples: [
+          "Ich lade dich ein. (I invite you.)",
+          "Lädst du uns ein? (Are you inviting us?)",
+        ],
+      },
+      {
         verb: "ablehnen",
         translation: "to decline, to reject",
         keyPoint: "Refusing an offer or request",
         examples: [
           "Ich lehne ab. (I decline.)",
           "Er lehnt das Angebot ab. (He rejects the offer.)",
+        ],
+      },
+      {
+        verb: "annehmen",
+        translation: "to accept, to assume",
+        keyPoint: "Accepting something or making assumptions",
+        examples: [
+          "Ich nehme an. (I accept/assume.)",
+          "Nimmst du das Geschenk an? (Are you accepting the gift?)",
+        ],
+      },
+      {
+        verb: "verbringen",
+        translation: "to spend (time)",
+        keyPoint: "Using time for activities",
+        examples: [
+          "Ich verbringe Zeit mit Familie. (I spend time with family.)",
+          "Wie verbringst du das Wochenende? (How do you spend the weekend?)",
+        ],
+      },
+      {
+        verb: "genießen",
+        translation: "to enjoy",
+        keyPoint: "Taking pleasure in something",
+        examples: [
+          "Ich genieße das Essen. (I enjoy the food.)",
+          "Genießt ihr den Urlaub? (Are you enjoying the vacation?)",
+        ],
+      },
+      {
+        verb: "besuchen",
+        translation: "to visit",
+        keyPoint: "Going to see someone or somewhere",
+        examples: [
+          "Ich besuche meine Großeltern. (I visit my grandparents.)",
+          "Besuchst du das Museum? (Are you visiting the museum?)",
+        ],
+      },
+      {
+        verb: "erklären",
+        translation: "to explain",
+        keyPoint: "Making something clear",
+        examples: [
+          "Ich erkläre das Problem. (I explain the problem.)",
+          "Erklärst du mir das? (Will you explain that to me?)",
+        ],
+      },
+      {
+        verb: "erzählen",
+        translation: "to tell, to narrate",
+        keyPoint: "Telling stories or information",
+        examples: [
+          "Ich erzähle eine Geschichte. (I tell a story.)",
+          "Erzähl mir davon! (Tell me about it!)",
+        ],
+      },
+      {
+        verb: "beschreiben",
+        translation: "to describe",
+        keyPoint: "Giving details about something",
+        examples: [
+          "Ich beschreibe das Haus. (I describe the house.)",
+          "Beschreib den Täter! (Describe the perpetrator!)",
+        ],
+      },
+      {
+        verb: "empfehlen",
+        translation: "to recommend",
+        keyPoint: "Suggesting something good",
+        examples: [
+          "Ich empfehle dieses Restaurant. (I recommend this restaurant.)",
+          "Was empfiehlst du? (What do you recommend?)",
         ],
       },
       {
@@ -1267,6 +1645,33 @@ export const additionalVerbGroups3: VerbGroup[] = [
         ],
       },
       {
+        verb: "umziehen",
+        translation: "to move (house), to change clothes",
+        keyPoint: "Moving residence or changing clothes",
+        examples: [
+          "Wir ziehen um. (We're moving house.)",
+          "Zieh dich um! (Change your clothes!)",
+        ],
+      },
+      {
+        verb: "einziehen",
+        translation: "to move in",
+        keyPoint: "Moving into a new place",
+        examples: [
+          "Wir ziehen morgen ein. (We're moving in tomorrow.)",
+          "Wann zieht ihr ein? (When are you moving in?)",
+        ],
+      },
+      {
+        verb: "ausziehen",
+        translation: "to move out, to take off",
+        keyPoint: "Moving out or removing clothes",
+        examples: [
+          "Er zieht aus. (He's moving out.)",
+          "Zieh die Schuhe aus! (Take off your shoes!)",
+        ],
+      },
+      {
         verb: "übernachten",
         translation: "to spend the night, to stay overnight",
         keyPoint: "Staying somewhere for the night",
@@ -1291,483 +1696,6 @@ export const additionalVerbGroups3: VerbGroup[] = [
         examples: [
           "Der Zug verspätet sich. (The train is delayed.)",
           "Ich verspäte mich. (I'm running late.)",
-        ],
-      },
-      {
-        verb: "trainieren",
-        translation: "to train",
-        keyPoint: "Physical or skill exercise",
-        examples: [
-          "Ich trainiere im Fitnessstudio. (I train at the gym.)",
-          "Der Hund wurde trainiert. (The dog was trained.)",
-        ],
-      },
-      {
-        verb: "üben",
-        translation: "to practice",
-        keyPoint: "Repeated activity for improvement",
-        examples: [
-          "Ich übe Klavier. (I practice piano.)",
-          "Die Präsentation wurde geübt. (The presentation was practiced.)",
-        ],
-      },
-      {
-        verb: "lernen",
-        translation: "to learn",
-        keyPoint: "Acquiring knowledge",
-        examples: [
-          "Ich lerne Deutsch. (I learn German.)",
-          "Neue Wörter wurden gelernt. (New words were learned.)",
-        ],
-      },
-      {
-        verb: "studieren",
-        translation: "to study",
-        keyPoint: "Academic learning",
-        examples: [
-          "Ich studiere Medizin. (I study medicine.)",
-          "An der Universität wurde studiert. (Studying was done at university.)",
-        ],
-      },
-      {
-        verb: "lehren",
-        translation: "to teach",
-        keyPoint: "Sharing knowledge",
-        examples: [
-          "Sie lehrt Mathematik. (She teaches mathematics.)",
-          "Der Stoff wurde gelehrt. (The material was taught.)",
-        ],
-      },
-      {
-        verb: "erklären",
-        translation: "to explain",
-        keyPoint: "Making clear",
-        examples: [
-          "Ich erkläre die Aufgabe. (I explain the task.)",
-          "Alles wurde erklärt. (Everything was explained.)",
-        ],
-      },
-      {
-        verb: "beschreiben",
-        translation: "to describe",
-        keyPoint: "Giving details",
-        examples: [
-          "Ich beschreibe das Problem. (I describe the problem.)",
-          "Die Situation wurde beschrieben. (The situation was described.)",
-        ],
-      },
-      {
-        verb: "erzählen",
-        translation: "to tell, to narrate",
-        keyPoint: "Sharing stories",
-        examples: [
-          "Ich erzähle eine Geschichte. (I tell a story.)",
-          "Märchen wurden erzählt. (Fairy tales were told.)",
-        ],
-      },
-      {
-        verb: "berichten",
-        translation: "to report",
-        keyPoint: "Formal telling",
-        examples: [
-          "Ich berichte über den Unfall. (I report about the accident.)",
-          "Die Nachrichten wurden berichtet. (The news was reported.)",
-        ],
-      },
-      {
-        verb: "informieren",
-        translation: "to inform",
-        keyPoint: "Providing information",
-        examples: [
-          "Ich informiere dich später. (I'll inform you later.)",
-          "Alle wurden informiert. (Everyone was informed.)",
-        ],
-      },
-      {
-        verb: "warnen",
-        translation: "to warn",
-        keyPoint: "Alerting to danger",
-        examples: [
-          "Ich warne dich vor dem Hund. (I warn you about the dog.)",
-          "Die Bevölkerung wurde gewarnt. (The population was warned.)",
-        ],
-      },
-      {
-        verb: "mahnen",
-        translation: "to remind, to urge",
-        keyPoint: "Pressing reminder",
-        examples: [
-          "Ich mahne zur Vorsicht. (I urge caution.)",
-          "Zur Pünktlichkeit wurde gemahnt. (Punctuality was urged.)",
-        ],
-      },
-      {
-        verb: "ermahnen",
-        translation: "to admonish",
-        keyPoint: "Stern warning",
-        examples: [
-          "Der Lehrer ermahnt den Schüler. (The teacher admonishes the student.)",
-          "Zur Ruhe wurde ermahnt. (Quiet was urged.)",
-        ],
-      },
-      {
-        verb: "drohen",
-        translation: "to threaten",
-        keyPoint: "Warning of consequences",
-        examples: [
-          "Er droht mit Konsequenzen. (He threatens with consequences.)",
-          "Mit Strafe wurde gedroht. (Punishment was threatened.)",
-        ],
-      },
-      {
-        verb: "versprechen",
-        translation: "to promise",
-        keyPoint: "Making commitment",
-        examples: [
-          "Ich verspreche es dir. (I promise you.)",
-          "Hilfe wurde versprochen. (Help was promised.)",
-        ],
-      },
-      {
-        verb: "schwören",
-        translation: "to swear, to vow",
-        keyPoint: "Solemn promise",
-        examples: [
-          "Ich schwöre dir die Treue. (I swear loyalty to you.)",
-          "Ein Eid wurde geschworen. (An oath was sworn.)",
-        ],
-      },
-      {
-        verb: "flüstern",
-        translation: "to whisper",
-        keyPoint: "Speaking very quietly",
-        examples: [
-          "Sie flüstert mir ins Ohr. (She whispers in my ear.)",
-          "Heimlich wurde geflüstert. (There was secret whispering.)",
-        ],
-      },
-      {
-        verb: "murmeln",
-        translation: "to mumble",
-        keyPoint: "Speaking unclearly",
-        examples: [
-          "Er murmelt vor sich hin. (He mumbles to himself.)",
-          "Unverständlich wurde gemurmelt. (There was incomprehensible mumbling.)",
-        ],
-      },
-      {
-        verb: "brüllen",
-        translation: "to roar, to shout",
-        keyPoint: "Very loud vocalization",
-        examples: [
-          "Der Löwe brüllt. (The lion roars.)",
-          "Vor Schmerz wurde gebrüllt. (There was roaring with pain.)",
-        ],
-      },
-      {
-        verb: "schreien",
-        translation: "to scream",
-        keyPoint: "Loud vocal expression",
-        examples: [
-          "Das Baby schreit. (The baby screams.)",
-          "Vor Angst wurde geschrien. (There was screaming with fear.)",
-        ],
-      },
-      {
-        verb: "rufen",
-        translation: "to call",
-        keyPoint: "Calling out",
-        examples: [
-          "Ich rufe deinen Namen. (I call your name.)",
-          "Um Hilfe wurde gerufen. (Help was called for.)",
-        ],
-      },
-      {
-        verb: "anrufen",
-        translation: "to call (phone)",
-        keyPoint: "Telephone communication",
-        examples: [
-          "Ich rufe dich an. (I call you.)",
-          "Der Arzt wurde angerufen. (The doctor was called.)",
-        ],
-      },
-      {
-        verb: "klingeln",
-        translation: "to ring",
-        keyPoint: "Making ringing sound",
-        examples: [
-          "Das Telefon klingelt. (The phone rings.)",
-          "An der Tür wurde geklingelt. (The doorbell was rung.)",
-        ],
-      },
-      {
-        verb: "läuten",
-        translation: "to ring (bells)",
-        keyPoint: "Bell ringing",
-        examples: [
-          "Die Glocken läuten. (The bells ring.)",
-          "Zur Messe wurde geläutet. (The bells were rung for mass.)",
-        ],
-      },
-      {
-        verb: "summen",
-        translation: "to hum",
-        keyPoint: "Melodic sound without words",
-        examples: [
-          "Ich summe eine Melodie. (I hum a melody.)",
-          "Leise wurde gesummt. (There was quiet humming.)",
-        ],
-      },
-      {
-        verb: "pfeifen",
-        translation: "to whistle",
-        keyPoint: "Making whistle sound",
-        examples: [
-          "Ich pfeife ein Lied. (I whistle a song.)",
-          "Fröhlich wurde gepfiffen. (There was cheerful whistling.)",
-        ],
-      },
-      {
-        verb: "klatschen",
-        translation: "to clap",
-        keyPoint: "Applauding with hands",
-        examples: [
-          "Wir klatschen Beifall. (We clap applause.)",
-          "Begeistert wurde geklatscht. (There was enthusiastic clapping.)",
-        ],
-      },
-      {
-        verb: "applaudieren",
-        translation: "to applaud",
-        keyPoint: "Showing appreciation",
-        examples: [
-          "Das Publikum applaudiert. (The audience applauds.)",
-          "Den Künstlern wurde applaudiert. (The artists were applauded.)",
-        ],
-      },
-      {
-        verb: "jubeln",
-        translation: "to cheer",
-        keyPoint: "Expressing joy loudly",
-        examples: [
-          "Die Fans jubeln. (The fans cheer.)",
-          "Dem Sieger wurde zugejubelt. (The winner was cheered.)",
-        ],
-      },
-      {
-        verb: "weinen",
-        translation: "to cry",
-        keyPoint: "Shedding tears",
-        examples: [
-          "Das Kind weint. (The child cries.)",
-          "Vor Freude wurde geweint. (There was crying with joy.)",
-        ],
-      },
-      {
-        verb: "heulen",
-        translation: "to howl, to wail",
-        keyPoint: "Loud crying or animal sound",
-        examples: [
-          "Der Wolf heult. (The wolf howls.)",
-          "Vor Kummer wurde geheult. (There was wailing with grief.)",
-        ],
-      },
-      {
-        verb: "schluchzen",
-        translation: "to sob",
-        keyPoint: "Crying with gasps",
-        examples: [
-          "Sie schluchzt vor Schmerz. (She sobs with pain.)",
-          "Laut wurde geschluchzt. (There was loud sobbing.)",
-        ],
-      },
-      {
-        verb: "stöhnen",
-        translation: "to groan",
-        keyPoint: "Sound of pain or effort",
-        examples: [
-          "Er stöhnt vor Schmerz. (He groans with pain.)",
-          "Unter der Last wurde gestöhnt. (There was groaning under the load.)",
-        ],
-      },
-      {
-        verb: "ächzen",
-        translation: "to groan",
-        keyPoint: "Deep sound of strain",
-        examples: [
-          "Das Holz ächzt unter dem Gewicht. (The wood groans under the weight.)",
-          "Vor Anstrengung wurde geächzt. (There was groaning with effort.)",
-        ],
-      },
-      {
-        verb: "keuchen",
-        translation: "to pant, to gasp",
-        keyPoint: "Heavy breathing",
-        examples: [
-          "Nach dem Lauf keuche ich. (I pant after running.)",
-          "Vor Erschöpfung wurde gekeucht. (There was panting with exhaustion.)",
-        ],
-      },
-      {
-        verb: "schnaufen",
-        translation: "to puff",
-        keyPoint: "Heavy breathing sound",
-        examples: [
-          "Er schnauft beim Treppensteigen. (He puffs while climbing stairs.)",
-          "Angestrengt wurde geschnauft. (There was strained puffing.)",
-        ],
-      },
-      {
-        verb: "pusten",
-        translation: "to blow",
-        keyPoint: "Blowing air",
-        examples: [
-          "Ich puste die Kerzen aus. (I blow out the candles.)",
-          "In die Hände wurde gepustet. (Air was blown into hands.)",
-        ],
-      },
-      {
-        verb: "blasen",
-        translation: "to blow",
-        keyPoint: "Strong air current",
-        examples: [
-          "Der Wind bläst stark. (The wind blows strongly.)",
-          "Die Trompete wurde geblasen. (The trumpet was blown.)",
-        ],
-      },
-      {
-        verb: "wedeln",
-        translation: "to wag, to wave",
-        keyPoint: "Back and forth motion",
-        examples: [
-          "Der Hund wedelt mit dem Schwanz. (The dog wags its tail.)",
-          "Mit dem Fächer wurde gewedelt. (The fan was waved.)",
-        ],
-      },
-      {
-        verb: "winken",
-        translation: "to wave",
-        keyPoint: "Greeting gesture",
-        examples: [
-          "Ich winke zum Abschied. (I wave goodbye.)",
-          "Den Gästen wurde gewunken. (The guests were waved to.)",
-        ],
-      },
-      {
-        verb: "nicken",
-        translation: "to nod",
-        keyPoint: "Head movement for yes",
-        examples: [
-          "Ich nicke zustimmend. (I nod in agreement.)",
-          "Freundlich wurde genickt. (There was friendly nodding.)",
-        ],
-      },
-      {
-        verb: "schütteln",
-        translation: "to shake",
-        keyPoint: "Rapid back-forth movement",
-        examples: [
-          "Ich schüttle den Kopf. (I shake my head.)",
-          "Die Hand wurde geschüttelt. (The hand was shaken.)",
-        ],
-      },
-      {
-        verb: "zittern",
-        translation: "to tremble",
-        keyPoint: "Involuntary shaking",
-        examples: [
-          "Ich zittere vor Kälte. (I tremble with cold.)",
-          "Vor Angst wurde gezittert. (There was trembling with fear.)",
-        ],
-      },
-      {
-        verb: "beben",
-        translation: "to quake",
-        keyPoint: "Strong shaking",
-        examples: [
-          "Die Erde bebt. (The earth quakes.)",
-          "Das Gebäude wurde erschüttert. (The building was shaken.)",
-        ],
-      },
-      {
-        verb: "wackeln",
-        translation: "to wobble",
-        keyPoint: "Unsteady movement",
-        examples: [
-          "Der Stuhl wackelt. (The chair wobbles.)",
-          "Am Tisch wurde gewackelt. (The table was wobbled.)",
-        ],
-      },
-      {
-        verb: "schwanken",
-        translation: "to sway",
-        keyPoint: "Gentle back-forth motion",
-        examples: [
-          "Die Bäume schwanken im Wind. (The trees sway in the wind.)",
-          "Zwischen Optionen wurde geschwankt. (There was swaying between options.)",
-        ],
-      },
-      {
-        verb: "wiegen",
-        translation: "to rock, to weigh",
-        keyPoint: "Gentle swaying motion",
-        examples: [
-          "Sie wiegt das Baby. (She rocks the baby.)",
-          "Das Paket wurde gewogen. (The package was weighed.)",
-        ],
-      },
-      {
-        verb: "schaukeln",
-        translation: "to swing",
-        keyPoint: "Playground motion",
-        examples: [
-          "Die Kinder schaukeln. (The children swing.)",
-          "Auf der Schaukel wurde geschaukelt. (There was swinging on the swing.)",
-        ],
-      },
-      {
-        verb: "pendeln",
-        translation: "to commute, to pendulum",
-        keyPoint: "Regular back-forth movement",
-        examples: [
-          "Ich pendle zur Arbeit. (I commute to work.)",
-          "Zwischen Städten wurde gependelt. (There was commuting between cities.)",
-        ],
-      },
-      {
-        verb: "kreisen",
-        translation: "to circle",
-        keyPoint: "Moving in circles",
-        examples: [
-          "Der Adler kreist am Himmel. (The eagle circles in the sky.)",
-          "Um das Problem wurde gekreist. (The problem was circled around.)",
-        ],
-      },
-      {
-        verb: "drehen",
-        translation: "to turn, to rotate",
-        keyPoint: "Circular motion",
-        examples: [
-          "Ich drehe den Schlüssel. (I turn the key.)",
-          "Das Rad wurde gedreht. (The wheel was turned.)",
-        ],
-      },
-      {
-        verb: "wenden",
-        translation: "to turn",
-        keyPoint: "Changing direction",
-        examples: [
-          "Ich wende das Auto. (I turn the car around.)",
-          "Die Seite wurde gewendet. (The page was turned.)",
-        ],
-      },
-      {
-        verb: "biegen",
-        translation: "to bend",
-        keyPoint: "Changing shape",
-        examples: [
-          "Ich biege den Draht. (I bend the wire.)",
-          "Um die Ecke wurde gebogen. (There was bending around the corner.)",
         ],
       },
     ],

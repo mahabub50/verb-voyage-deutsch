@@ -1,6 +1,5 @@
-
 // Continuation of additional verb groups
-import { VerbGroup } from './germanVerbs';
+import { VerbGroup } from "./germanVerbs";
 
 export const additionalVerbGroups2: VerbGroup[] = [
   {
@@ -13,8 +12,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Following by vehicle",
         examples: [
           "Fahr hinterher! (Drive behind!)",
-          "Ich fahre dem Auto hinterher. (I'm driving behind the car.)"
-        ]
+          "Ich fahre dem Auto hinterher. (I'm driving behind the car.)",
+        ],
       },
       {
         verb: "hinterhergehen",
@@ -22,8 +21,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Following on foot",
         examples: [
           "Geh hinterher! (Walk behind!)",
-          "Ich gehe ihm hinterher. (I'm walking behind him.)"
-        ]
+          "Ich gehe ihm hinterher. (I'm walking behind him.)",
+        ],
       },
       {
         verb: "hinterhergucken",
@@ -31,8 +30,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Watching someone leave",
         examples: [
           "Guck hinterher! (Look after!)",
-          "Ich gucke dem Auto hinterher. (I'm watching the car leave.)"
-        ]
+          "Ich gucke dem Auto hinterher. (I'm watching the car leave.)",
+        ],
       },
       {
         verb: "hinterherlaufen",
@@ -40,8 +39,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Chasing someone",
         examples: [
           "Lauf hinterher! (Run after!)",
-          "Ich laufe dem Dieb hinterher. (I'm running after the thief.)"
-        ]
+          "Ich laufe dem Dieb hinterher. (I'm running after the thief.)",
+        ],
       },
       {
         verb: "hinterherschauen",
@@ -49,10 +48,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Watching someone go",
         examples: [
           "Schau hinterher! (Look after!)",
-          "Ich schaue dem Zug hinterher. (I'm watching the train leave.)"
-        ]
-      }
-    ]
+          "Ich schaue dem Zug hinterher. (I'm watching the train leave.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "hoch",
@@ -64,8 +63,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking upward",
         examples: [
           "Blick hoch! (Look up!)",
-          "Ich blicke zum Himmel hoch. (I'm looking up at the sky.)"
-        ]
+          "Ich blicke zum Himmel hoch. (I'm looking up at the sky.)",
+        ],
       },
       {
         verb: "hochfahren",
@@ -73,8 +72,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Driving upward or starting a computer",
         examples: [
           "Fahr hoch! (Drive up!)",
-          "Ich fahre den Computer hoch. (I'm starting up the computer.)"
-        ]
+          "Ich fahre den Computer hoch. (I'm starting up the computer.)",
+        ],
       },
       {
         verb: "hochfliegen",
@@ -82,8 +81,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Flying upward",
         examples: [
           "Flieg hoch! (Fly up!)",
-          "Der Ballon fliegt hoch. (The balloon is flying up.)"
-        ]
+          "Der Ballon fliegt hoch. (The balloon is flying up.)",
+        ],
       },
       {
         verb: "hochgehen",
@@ -91,8 +90,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Going upward or exploding",
         examples: [
           "Geh hoch! (Go up!)",
-          "Die Bombe geht hoch. (The bomb is exploding.)"
-        ]
+          "Die Bombe geht hoch. (The bomb is exploding.)",
+        ],
       },
       {
         verb: "hochhalten",
@@ -100,8 +99,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Lifting and holding something up",
         examples: [
           "Halt das hoch! (Hold that up!)",
-          "Ich halte das Schild hoch. (I'm holding up the sign.)"
-        ]
+          "Ich halte das Schild hoch. (I'm holding up the sign.)",
+        ],
       },
       {
         verb: "hochheben",
@@ -109,8 +108,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Raising something",
         examples: [
           "Heb das hoch! (Lift that up!)",
-          "Ich hebe das Kind hoch. (I'm lifting up the child.)"
-        ]
+          "Ich hebe das Kind hoch. (I'm lifting up the child.)",
+        ],
       },
       {
         verb: "hochklettern",
@@ -118,8 +117,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Climbing upward",
         examples: [
           "Klettere hoch! (Climb up!)",
-          "Ich klettere den Baum hoch. (I'm climbing up the tree.)"
-        ]
+          "Ich klettere den Baum hoch. (I'm climbing up the tree.)",
+        ],
       },
       {
         verb: "hochkommen",
@@ -127,8 +126,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Moving upward",
         examples: [
           "Komm hoch! (Come up!)",
-          "Ich komme die Treppe hoch. (I'm coming up the stairs.)"
-        ]
+          "Ich komme die Treppe hoch. (I'm coming up the stairs.)",
+        ],
       },
       {
         verb: "hochnehmen",
@@ -136,8 +135,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Lifting someone or something",
         examples: [
           "Nimm das hoch! (Pick that up!)",
-          "Ich nehme das Baby hoch. (I'm picking up the baby.)"
-        ]
+          "Ich nehme das Baby hoch. (I'm picking up the baby.)",
+        ],
       },
       {
         verb: "hochschauen",
@@ -145,8 +144,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking upward",
         examples: [
           "Schau hoch! (Look up!)",
-          "Ich schaue zu den Sternen hoch. (I'm looking up at the stars.)"
-        ]
+          "Ich schaue zu den Sternen hoch. (I'm looking up at the stars.)",
+        ],
       },
       {
         verb: "hochsehen",
@@ -154,8 +153,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking upward",
         examples: [
           "Sieh hoch! (Look up!)",
-          "Ich sehe vom Buch hoch. (I'm looking up from the book.)"
-        ]
+          "Ich sehe vom Buch hoch. (I'm looking up from the book.)",
+        ],
       },
       {
         verb: "hochspringen",
@@ -163,8 +162,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Jumping upward",
         examples: [
           "Spring hoch! (Jump up!)",
-          "Ich springe hoch, um den Ball zu fangen. (I'm jumping up to catch the ball.)"
-        ]
+          "Ich springe hoch, um den Ball zu fangen. (I'm jumping up to catch the ball.)",
+        ],
       },
       {
         verb: "hochsteigen",
@@ -172,8 +171,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Ascending",
         examples: [
           "Steig hoch! (Climb up!)",
-          "Ich steige die Leiter hoch. (I'm climbing up the ladder.)"
-        ]
+          "Ich steige die Leiter hoch. (I'm climbing up the ladder.)",
+        ],
       },
       {
         verb: "hochstellen",
@@ -181,8 +180,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Placing higher or increasing volume",
         examples: [
           "Stell das hoch! (Put that up!)",
-          "Ich stelle die Musik hoch. (I'm turning up the music.)"
-        ]
+          "Ich stelle die Musik hoch. (I'm turning up the music.)",
+        ],
       },
       {
         verb: "hochwerfen",
@@ -190,8 +189,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Throwing something upward",
         examples: [
           "Wirf das hoch! (Throw that up!)",
-          "Ich werfe den Ball hoch. (I'm throwing the ball up.)"
-        ]
+          "Ich werfe den Ball hoch. (I'm throwing the ball up.)",
+        ],
       },
       {
         verb: "hochziehen",
@@ -199,10 +198,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Pulling something upward",
         examples: [
           "Zieh das hoch! (Pull that up!)",
-          "Ich ziehe die Hose hoch. (I'm pulling up the pants.)"
-        ]
-      }
-    ]
+          "Ich ziehe die Hose hoch. (I'm pulling up the pants.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "inne",
@@ -214,8 +213,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Holding a position or office",
         examples: [
           "Hab das Amt inne! (Hold the office!)",
-          "Ich habe eine wichtige Position inne. (I hold an important position.)"
-        ]
+          "Ich habe eine wichtige Position inne. (I hold an important position.)",
+        ],
       },
       {
         verb: "innehalten",
@@ -223,8 +222,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Stopping momentarily",
         examples: [
           "Halt inne! (Pause!)",
-          "Ich halte beim Lesen inne. (I pause while reading.)"
-        ]
+          "Ich halte beim Lesen inne. (I pause while reading.)",
+        ],
       },
       {
         verb: "innewohnen",
@@ -232,10 +231,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Being naturally present in something",
         examples: [
           "Das wohnt ihm inne. (That's inherent in him.)",
-          "Dieser Idee wohnt Kraft inne. (This idea has inherent power.)"
-        ]
-      }
-    ]
+          "Dieser Idee wohnt Kraft inne. (This idea has inherent power.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "los",
@@ -247,8 +246,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Freeing from bindings",
         examples: [
           "Bind das los! (Untie that!)",
-          "Ich binde den Hund los. (I'm untying the dog.)"
-        ]
+          "Ich binde den Hund los. (I'm untying the dog.)",
+        ],
       },
       {
         verb: "losfahren",
@@ -256,8 +255,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Beginning to drive",
         examples: [
           "Fahr los! (Drive off!)",
-          "Ich fahre um 8 Uhr los. (I'm driving off at 8 o'clock.)"
-        ]
+          "Ich fahre um 8 Uhr los. (I'm driving off at 8 o'clock.)",
+        ],
       },
       {
         verb: "losfliegen",
@@ -265,8 +264,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Starting to fly",
         examples: [
           "Flieg los! (Fly off!)",
-          "Das Flugzeug fliegt los. (The plane is flying off.)"
-        ]
+          "Das Flugzeug fliegt los. (The plane is flying off.)",
+        ],
       },
       {
         verb: "losgehen",
@@ -274,8 +273,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Beginning or starting",
         examples: [
           "Geh los! (Start!/Go!)",
-          "Das Konzert geht los. (The concert is starting.)"
-        ]
+          "Das Konzert geht los. (The concert is starting.)",
+        ],
       },
       {
         verb: "loskommen",
@@ -283,8 +282,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Escaping or getting free",
         examples: [
           "Komm los! (Get away!)",
-          "Ich komme nicht los. (I can't get away.)"
-        ]
+          "Ich komme nicht los. (I can't get away.)",
+        ],
       },
       {
         verb: "loslassen",
@@ -292,8 +291,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Releasing grip",
         examples: [
           "Lass los! (Let go!)",
-          "Ich lasse das Seil los. (I'm letting go of the rope.)"
-        ]
+          "Ich lasse das Seil los. (I'm letting go of the rope.)",
+        ],
       },
       {
         verb: "loslaufen",
@@ -301,8 +300,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Beginning to run",
         examples: [
           "Lauf los! (Start running!)",
-          "Ich laufe schnell los. (I start running quickly.)"
-        ]
+          "Ich laufe schnell los. (I start running quickly.)",
+        ],
       },
       {
         verb: "losmachen",
@@ -310,8 +309,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Freeing from attachment",
         examples: [
           "Mach das los! (Untie that!)",
-          "Ich mache das Boot los. (I'm untying the boat.)"
-        ]
+          "Ich mache das Boot los. (I'm untying the boat.)",
+        ],
       },
       {
         verb: "losrennen",
@@ -319,8 +318,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Beginning to run quickly",
         examples: [
           "Renn los! (Start running!)",
-          "Er rennt sofort los. (He starts running immediately.)"
-        ]
+          "Er rennt sofort los. (He starts running immediately.)",
+        ],
       },
       {
         verb: "losschicken",
@@ -328,8 +327,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Dispatching someone",
         examples: [
           "Schick ihn los! (Send him off!)",
-          "Ich schicke den Boten los. (I'm sending off the messenger.)"
-        ]
+          "Ich schicke den Boten los. (I'm sending off the messenger.)",
+        ],
       },
       {
         verb: "loswerden",
@@ -337,10 +336,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Eliminating or disposing of",
         examples: [
           "Werd das los! (Get rid of that!)",
-          "Ich werde die Sorgen los. (I'm getting rid of the worries.)"
-        ]
-      }
-    ]
+          "Ich werde die Sorgen los. (I'm getting rid of the worries.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "mit",
@@ -352,17 +351,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Working together with others",
         examples: [
           "Arbeite mit! (Collaborate!)",
-          "Ich arbeite am Projekt mit. (I'm collaborating on the project.)"
-        ]
-      },
-      {
-        verb: "mitbringen",
-        translation: "to bring along",
-        keyPoint: "Bringing something with you",
-        examples: [
-          "Bring das mit! (Bring that along!)",
-          "Ich bringe Kuchen mit. (I'm bringing cake along.)"
-        ]
+          "Ich arbeite am Projekt mit. (I'm collaborating on the project.)",
+        ],
       },
       {
         verb: "mitdenken",
@@ -370,8 +360,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Thinking together or anticipating",
         examples: [
           "Denk mit! (Think along!)",
-          "Ich denke bei der Lösung mit. (I'm thinking along with the solution.)"
-        ]
+          "Ich denke bei der Lösung mit. (I'm thinking along with the solution.)",
+        ],
       },
       {
         verb: "mitessen",
@@ -379,17 +369,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Eating together with others",
         examples: [
           "Iss mit! (Eat along!)",
-          "Ich esse beim Picknick mit. (I'm eating along at the picnic.)"
-        ]
-      },
-      {
-        verb: "mitfahren",
-        translation: "to ride along",
-        keyPoint: "Traveling with someone",
-        examples: [
-          "Fahr mit! (Ride along!)",
-          "Ich fahre mit dem Bus mit. (I'm riding along on the bus.)"
-        ]
+          "Ich esse beim Picknick mit. (I'm eating along at the picnic.)",
+        ],
       },
       {
         verb: "mitfühlen",
@@ -397,8 +378,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Sharing someone's feelings",
         examples: [
           "Fühl mit! (Empathize!)",
-          "Ich fühle mit deinem Schmerz mit. (I empathize with your pain.)"
-        ]
+          "Ich fühle mit deinem Schmerz mit. (I empathize with your pain.)",
+        ],
       },
       {
         verb: "mitgeben",
@@ -406,8 +387,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Giving something to take along",
         examples: [
           "Gib das mit! (Give that along!)",
-          "Ich gebe dir Geld mit. (I'm giving you money to take along.)"
-        ]
+          "Ich gebe dir Geld mit. (I'm giving you money to take along.)",
+        ],
       },
       {
         verb: "mitgehen",
@@ -415,8 +396,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Accompanying someone",
         examples: [
           "Geh mit! (Go along!)",
-          "Ich gehe ins Kino mit. (I'm going along to the cinema.)"
-        ]
+          "Ich gehe ins Kino mit. (I'm going along to the cinema.)",
+        ],
       },
       {
         verb: "mithaben",
@@ -424,8 +405,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Having something with you",
         examples: [
           "Hab das mit! (Have that along!)",
-          "Ich habe meinen Ausweis mit. (I have my ID with me.)"
-        ]
+          "Ich habe meinen Ausweis mit. (I have my ID with me.)",
+        ],
       },
       {
         verb: "mithelfen",
@@ -433,17 +414,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Helping or assisting",
         examples: [
           "Hilf mit! (Help!)",
-          "Ich helfe beim Umzug mit. (I'm helping with the move.)"
-        ]
-      },
-      {
-        verb: "mitkommen",
-        translation: "to come along",
-        keyPoint: "Accompanying someone",
-        examples: [
-          "Komm mit! (Come along!)",
-          "Ich komme ins Theater mit. (I'm coming along to the theater.)"
-        ]
+          "Ich helfe beim Umzug mit. (I'm helping with the move.)",
+        ],
       },
       {
         verb: "mitkriegen",
@@ -451,8 +423,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Understanding or noticing something",
         examples: [
           "Krieg das mit! (Get that!)",
-          "Ich kriege nichts mit. (I'm not getting anything.)"
-        ]
+          "Ich kriege nichts mit. (I'm not getting anything.)",
+        ],
       },
       {
         verb: "mitlesen",
@@ -460,8 +432,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Reading together with others",
         examples: [
           "Lies mit! (Read along!)",
-          "Ich lese das Buch mit. (I'm reading the book along.)"
-        ]
+          "Ich lese das Buch mit. (I'm reading the book along.)",
+        ],
       },
       {
         verb: "mitmachen",
@@ -469,8 +441,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Joining in an activity",
         examples: [
           "Mach mit! (Participate!)",
-          "Ich mache beim Spiel mit. (I'm participating in the game.)"
-        ]
+          "Ich mache beim Spiel mit. (I'm participating in the game.)",
+        ],
       },
       {
         verb: "mitnehmen",
@@ -478,8 +450,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Taking something or someone with you",
         examples: [
           "Nimm das mit! (Take that along!)",
-          "Ich nehme dich mit. (I'm taking you along.)"
-        ]
+          "Ich nehme dich mit. (I'm taking you along.)",
+        ],
       },
       {
         verb: "mitreden",
@@ -487,8 +459,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Participating in a discussion",
         examples: [
           "Red mit! (Have a say!)",
-          "Ich rede bei der Entscheidung mit. (I have a say in the decision.)"
-        ]
+          "Ich rede bei der Entscheidung mit. (I have a say in the decision.)",
+        ],
       },
       {
         verb: "mitreisen",
@@ -496,8 +468,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Traveling together",
         examples: [
           "Reise mit! (Travel along!)",
-          "Ich reise nach Italien mit. (I'm traveling along to Italy.)"
-        ]
+          "Ich reise nach Italien mit. (I'm traveling along to Italy.)",
+        ],
       },
       {
         verb: "mitschreiben",
@@ -505,8 +477,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Writing along with someone",
         examples: [
           "Schreib mit! (Take notes!)",
-          "Ich schreibe in der Vorlesung mit. (I'm taking notes in the lecture.)"
-        ]
+          "Ich schreibe in der Vorlesung mit. (I'm taking notes in the lecture.)",
+        ],
       },
       {
         verb: "mitsingen",
@@ -514,8 +486,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Singing together with others",
         examples: [
           "Sing mit! (Sing along!)",
-          "Ich singe das Lied mit. (I'm singing the song along.)"
-        ]
+          "Ich singe das Lied mit. (I'm singing the song along.)",
+        ],
       },
       {
         verb: "mitspielen",
@@ -523,10 +495,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Participating in a game",
         examples: [
           "Spiel mit! (Play along!)",
-          "Ich spiele Fußball mit. (I'm playing soccer along.)"
-        ]
-      }
-    ]
+          "Ich spiele Fußball mit. (I'm playing soccer along.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "nach",
@@ -538,8 +510,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Copying someone's behavior",
         examples: [
           "Ahm das nach! (Imitate that!)",
-          "Ich ahme den Schauspieler nach. (I'm imitating the actor.)"
-        ]
+          "Ich ahme den Schauspieler nach. (I'm imitating the actor.)",
+        ],
       },
       {
         verb: "nachbessern",
@@ -547,8 +519,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Making improvements after initial work",
         examples: [
           "Bessere das nach! (Improve that!)",
-          "Ich bessere die Arbeit nach. (I'm improving the work.)"
-        ]
+          "Ich bessere die Arbeit nach. (I'm improving the work.)",
+        ],
       },
       {
         verb: "nachdenken",
@@ -556,8 +528,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Reflecting or pondering",
         examples: [
           "Denk nach! (Think about it!)",
-          "Ich denke über das Problem nach. (I'm thinking about the problem.)"
-        ]
+          "Ich denke über das Problem nach. (I'm thinking about the problem.)",
+        ],
       },
       {
         verb: "nachfahren",
@@ -565,8 +537,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Driving after someone",
         examples: [
           "Fahr nach! (Follow!)",
-          "Ich fahre dem Auto nach. (I'm following the car.)"
-        ]
+          "Ich fahre dem Auto nach. (I'm following the car.)",
+        ],
       },
       {
         verb: "nachfeiern",
@@ -574,8 +546,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Celebrating at a later time",
         examples: [
           "Feier nach! (Celebrate later!)",
-          "Wir feiern das Fest nach. (We're celebrating the festival later.)"
-        ]
+          "Wir feiern das Fest nach. (We're celebrating the festival later.)",
+        ],
       },
       {
         verb: "nachfolgen",
@@ -583,8 +555,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Coming after someone",
         examples: [
           "Folg nach! (Follow!)",
-          "Ich folge dem Pfad nach. (I'm following the path.)"
-        ]
+          "Ich folge dem Pfad nach. (I'm following the path.)",
+        ],
       },
       {
         verb: "nachforschen",
@@ -592,8 +564,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Researching or investigating",
         examples: [
           "Forsch nach! (Investigate!)",
-          "Ich forsche der Sache nach. (I'm investigating the matter.)"
-        ]
+          "Ich forsche der Sache nach. (I'm investigating the matter.)",
+        ],
       },
       {
         verb: "nachfragen",
@@ -601,8 +573,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Asking for clarification",
         examples: [
           "Frag nach! (Ask again!)",
-          "Ich frage beim Chef nach. (I'm inquiring with the boss.)"
-        ]
+          "Ich frage beim Chef nach. (I'm inquiring with the boss.)",
+        ],
       },
       {
         verb: "nachfüllen",
@@ -610,8 +582,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Adding more to replenish",
         examples: [
           "Füll nach! (Refill!)",
-          "Ich fülle das Glas nach. (I'm refilling the glass.)"
-        ]
+          "Ich fülle das Glas nach. (I'm refilling the glass.)",
+        ],
       },
       {
         verb: "nachgeben",
@@ -619,8 +591,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Surrendering or compromising",
         examples: [
           "Gib nach! (Give in!)",
-          "Ich gebe dem Druck nach. (I'm giving in to the pressure.)"
-        ]
+          "Ich gebe dem Druck nach. (I'm giving in to the pressure.)",
+        ],
       },
       {
         verb: "nachgehen",
@@ -628,8 +600,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Following or investigating something",
         examples: [
           "Geh nach! (Follow!)",
-          "Ich gehe der Sache nach. (I'm pursuing the matter.)"
-        ]
+          "Ich gehe der Sache nach. (I'm pursuing the matter.)",
+        ],
       },
       {
         verb: "nachgucken",
@@ -637,8 +609,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking to verify or check",
         examples: [
           "Guck nach! (Check!)",
-          "Ich gucke im Buch nach. (I'm looking it up in the book.)"
-        ]
+          "Ich gucke im Buch nach. (I'm looking it up in the book.)",
+        ],
       },
       {
         verb: "nachholen",
@@ -646,17 +618,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Doing something that was missed",
         examples: [
           "Hol das nach! (Make that up!)",
-          "Ich hole die Arbeit nach. (I'm making up the work.)"
-        ]
-      },
-      {
-        verb: "nachkommen",
-        translation: "to follow, to comply",
-        keyPoint: "Following or fulfilling obligations",
-        examples: [
-          "Komm nach! (Follow!)",
-          "Ich komme der Bitte nach. (I'm complying with the request.)"
-        ]
+          "Ich hole die Arbeit nach. (I'm making up the work.)",
+        ],
       },
       {
         verb: "nachlassen",
@@ -664,8 +627,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Becoming less intense",
         examples: [
           "Lass nach! (Let up!)",
-          "Der Regen lässt nach. (The rain is letting up.)"
-        ]
+          "Der Regen lässt nach. (The rain is letting up.)",
+        ],
       },
       {
         verb: "nachlaufen",
@@ -673,8 +636,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Chasing someone on foot",
         examples: [
           "Lauf nach! (Run after!)",
-          "Ich laufe dem Dieb nach. (I'm running after the thief.)"
-        ]
+          "Ich laufe dem Dieb nach. (I'm running after the thief.)",
+        ],
       },
       {
         verb: "nachlesen",
@@ -682,8 +645,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Reading to find information",
         examples: [
           "Lies nach! (Look it up!)",
-          "Ich lese im Wörterbuch nach. (I'm looking it up in the dictionary.)"
-        ]
+          "Ich lese im Wörterbuch nach. (I'm looking it up in the dictionary.)",
+        ],
       },
       {
         verb: "nachmachen",
@@ -691,8 +654,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Duplicating or copying something",
         examples: [
           "Mach das nach! (Copy that!)",
-          "Ich mache die Bewegung nach. (I'm copying the movement.)"
-        ]
+          "Ich mache die Bewegung nach. (I'm copying the movement.)",
+        ],
       },
       {
         verb: "nachprüfen",
@@ -700,8 +663,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Verifying or double-checking",
         examples: [
           "Prüf das nach! (Check that!)",
-          "Ich prüfe die Rechnung nach. (I'm checking the bill.)"
-        ]
+          "Ich prüfe die Rechnung nach. (I'm checking the bill.)",
+        ],
       },
       {
         verb: "nachrennen",
@@ -709,8 +672,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Running to catch up",
         examples: [
           "Renn nach! (Run after!)",
-          "Ich renne dem Bus nach. (I'm running after the bus.)"
-        ]
+          "Ich renne dem Bus nach. (I'm running after the bus.)",
+        ],
       },
       {
         verb: "nachrufen",
@@ -718,8 +681,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Calling to someone leaving",
         examples: [
           "Ruf nach! (Call after!)",
-          "Ich rufe ihm nach. (I'm calling after him.)"
-        ]
+          "Ich rufe ihm nach. (I'm calling after him.)",
+        ],
       },
       {
         verb: "nachschauen",
@@ -727,8 +690,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking to see or verify",
         examples: [
           "Schau nach! (Look!)",
-          "Ich schaue im Kalender nach. (I'm checking the calendar.)"
-        ]
+          "Ich schaue im Kalender nach. (I'm checking the calendar.)",
+        ],
       },
       {
         verb: "nachschlagen",
@@ -736,8 +699,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking up information",
         examples: [
           "Schlag nach! (Look it up!)",
-          "Ich schlage das Wort nach. (I'm looking up the word.)"
-        ]
+          "Ich schlage das Wort nach. (I'm looking up the word.)",
+        ],
       },
       {
         verb: "nachsehen",
@@ -745,8 +708,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking to verify or forgive",
         examples: [
           "Sieh nach! (Check!)",
-          "Ich sehe den Fehler nach. (I'm overlooking the mistake.)"
-        ]
+          "Ich sehe den Fehler nach. (I'm overlooking the mistake.)",
+        ],
       },
       {
         verb: "nachsitzen",
@@ -754,8 +717,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Staying after school as punishment",
         examples: [
           "Sitz nach! (Stay for detention!)",
-          "Ich sitze eine Stunde nach. (I'm staying for detention for an hour.)"
-        ]
+          "Ich sitze eine Stunde nach. (I'm staying for detention for an hour.)",
+        ],
       },
       {
         verb: "nachspielen",
@@ -763,8 +726,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Playing again or recreating",
         examples: [
           "Spiel das nach! (Replay that!)",
-          "Ich spiele die Szene nach. (I'm reenacting the scene.)"
-        ]
+          "Ich spiele die Szene nach. (I'm reenacting the scene.)",
+        ],
       },
       {
         verb: "nachsprechen",
@@ -772,8 +735,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Saying something after someone",
         examples: [
           "Sprich nach! (Repeat!)",
-          "Ich spreche die Wörter nach. (I'm repeating the words.)"
-        ]
+          "Ich spreche die Wörter nach. (I'm repeating the words.)",
+        ],
       },
       {
         verb: "nachsuchen",
@@ -781,10 +744,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Looking for or requesting formally",
         examples: [
           "Such nach! (Search for!)",
-          "Ich suche um Erlaubnis nach. (I'm applying for permission.)"
-        ]
-      }
-    ]
+          "Ich suche um Erlaubnis nach. (I'm applying for permission.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "neben",
@@ -796,8 +759,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Placing things side by side or coordinating",
         examples: [
           "Ordne das neben! (Put that beside!)",
-          "Ich ordne die Begriffe neben. (I'm coordinating the concepts.)"
-        ]
+          "Ich ordne die Begriffe neben. (I'm coordinating the concepts.)",
+        ],
       },
       {
         verb: "nebenschalten",
@@ -805,10 +768,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Connecting circuits in parallel",
         examples: [
           "Schalt das neben! (Connect that in parallel!)",
-          "Ich schalte die Widerstände neben. (I'm connecting the resistors in parallel.)"
-        ]
-      }
-    ]
+          "Ich schalte die Widerstände neben. (I'm connecting the resistors in parallel.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "nieder",
@@ -820,8 +783,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Burning completely to the ground",
         examples: [
           "Brenn das nicht nieder! (Don't burn that down!)",
-          "Das Haus brennt nieder. (The house is burning down.)"
-        ]
+          "Das Haus brennt nieder. (The house is burning down.)",
+        ],
       },
       {
         verb: "niederbrüllen",
@@ -829,8 +792,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Overpowering with loud shouting",
         examples: [
           "Brüll ihn nicht nieder! (Don't shout him down!)",
-          "Sie brüllen den Redner nieder. (They're shouting down the speaker.)"
-        ]
+          "Sie brüllen den Redner nieder. (They're shouting down the speaker.)",
+        ],
       },
       {
         verb: "niedergehen",
@@ -838,8 +801,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Descending or falling",
         examples: [
           "Geh nieder! (Go down!)",
-          "Der Regen geht nieder. (The rain is falling.)"
-        ]
+          "Der Regen geht nieder. (The rain is falling.)",
+        ],
       },
       {
         verb: "niederknien",
@@ -847,8 +810,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Getting on one's knees",
         examples: [
           "Knie nieder! (Kneel down!)",
-          "Ich knie vor dem Altar nieder. (I'm kneeling down before the altar.)"
-        ]
+          "Ich knie vor dem Altar nieder. (I'm kneeling down before the altar.)",
+        ],
       },
       {
         verb: "niedermachen",
@@ -856,8 +819,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Destroying or killing brutally",
         examples: [
           "Mach das nicht nieder! (Don't put that down!)",
-          "Sie machen die Kritik nieder. (They're putting down the criticism.)"
-        ]
+          "Sie machen die Kritik nieder. (They're putting down the criticism.)",
+        ],
       },
       {
         verb: "niederschlagen",
@@ -865,8 +828,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Defeating or suppressing",
         examples: [
           "Schlag das nieder! (Knock that down!)",
-          "Sie schlagen den Aufstand nieder. (They're suppressing the uprising.)"
-        ]
+          "Sie schlagen den Aufstand nieder. (They're suppressing the uprising.)",
+        ],
       },
       {
         verb: "niederschreiben",
@@ -874,10 +837,10 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Recording in writing",
         examples: [
           "Schreib das nieder! (Write that down!)",
-          "Ich schreibe meine Gedanken nieder. (I'm writing down my thoughts.)"
-        ]
-      }
-    ]
+          "Ich schreibe meine Gedanken nieder. (I'm writing down my thoughts.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "rück",
@@ -889,8 +852,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Dating something to an earlier time",
         examples: [
           "Datiere das rück! (Backdate that!)",
-          "Ich datiere den Brief rück. (I'm backdating the letter.)"
-        ]
+          "Ich datiere den Brief rück. (I'm backdating the letter.)",
+        ],
       },
       {
         verb: "rückfragen",
@@ -898,8 +861,8 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Asking for confirmation or clarification",
         examples: [
           "Frag rück! (Ask back!)",
-          "Ich frage beim Chef rück. (I'm checking back with the boss.)"
-        ]
+          "Ich frage beim Chef rück. (I'm checking back with the boss.)",
+        ],
       },
       {
         verb: "rückspulen",
@@ -907,34 +870,25 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Winding back to an earlier position",
         examples: [
           "Spul rück! (Rewind!)",
-          "Ich spule das Band rück. (I'm rewinding the tape.)"
-        ]
-      }
-    ]
+          "Ich spule das Band rück. (I'm rewinding the tape.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "statt",
     description: "instead, take place",
     verbs: [
       {
-        verb: "stattfinden",
-        translation: "to take place",
-        keyPoint: "Occurring or happening",
-        examples: [
-          "Das findet statt. (That takes place.)",
-          "Das Konzert findet heute statt. (The concert takes place today.)"
-        ]
-      },
-      {
         verb: "stattgeben",
         translation: "to grant, to approve",
         keyPoint: "Approving or allowing something",
         examples: [
           "Gib dem Antrag statt! (Grant the application!)",
-          "Das Gericht gibt der Klage statt. (The court grants the lawsuit.)"
-        ]
-      }
-    ]
+          "Das Gericht gibt der Klage statt. (The court grants the lawsuit.)",
+        ],
+      },
+    ],
   },
   {
     prefix: "teil",
@@ -946,18 +900,477 @@ export const additionalVerbGroups2: VerbGroup[] = [
         keyPoint: "Having a part in something",
         examples: [
           "Hab teil! (Participate!)",
-          "Ich habe am Gewinn teil. (I share in the profit.)"
-        ]
+          "Ich habe am Gewinn teil. (I share in the profit.)",
+        ],
       },
       {
-        verb: "teilnehmen",
-        translation: "to participate",
-        keyPoint: "Taking part in something",
+        verb: "strecken",
+        translation: "to stretch",
+        keyPoint: "Extending or lengthening",
         examples: [
-          "Nimm teil! (Participate!)",
-          "Ich nehme am Kurs teil. (I'm participating in the course.)"
-        ]
-      }
-    ]
-  }
+          "Ich strecke meine Arme. (I stretch my arms.)",
+          "Die Beine wurden gestreckt. (The legs were stretched.)",
+        ],
+      },
+      {
+        verb: "dehnen",
+        translation: "to stretch",
+        keyPoint: "Expanding or extending",
+        examples: [
+          "Ich dehne meine Muskeln. (I stretch my muscles.)",
+          "Das Material wurde gedehnt. (The material was stretched.)",
+        ],
+      },
+      {
+        verb: "spannen",
+        translation: "to tighten, to stretch",
+        keyPoint: "Creating tension",
+        examples: [
+          "Ich spanne das Seil. (I tighten the rope.)",
+          "Die Muskeln wurden gespannt. (The muscles were tensed.)",
+        ],
+      },
+      {
+        verb: "lockern",
+        translation: "to loosen",
+        keyPoint: "Reducing tension",
+        examples: [
+          "Ich lockere die Schraube. (I loosen the screw.)",
+          "Die Muskeln wurden gelockert. (The muscles were loosened.)",
+        ],
+      },
+      {
+        verb: "entspannen",
+        translation: "to relax",
+        keyPoint: "Releasing tension",
+        examples: [
+          "Ich entspanne mich. (I relax.)",
+          "Der Körper wurde entspannt. (The body was relaxed.)",
+        ],
+      },
+      {
+        verb: "anspannen",
+        translation: "to tense up",
+        keyPoint: "Creating muscle tension",
+        examples: [
+          "Ich spanne meine Muskeln an. (I tense up my muscles.)",
+          "Der Körper wurde angespannt. (The body was tensed up.)",
+        ],
+      },
+      {
+        verb: "drücken",
+        translation: "to press, to push",
+        keyPoint: "Applying pressure",
+        examples: [
+          "Ich drücke den Knopf. (I press the button.)",
+          "Die Tür wurde gedrückt. (The door was pushed.)",
+        ],
+      },
+      {
+        verb: "pressen",
+        translation: "to press",
+        keyPoint: "Applying strong pressure",
+        examples: [
+          "Ich presse Orangen aus. (I press oranges.)",
+          "Der Saft wurde gepresst. (The juice was pressed.)",
+        ],
+      },
+      {
+        verb: "quetschen",
+        translation: "to squeeze",
+        keyPoint: "Compressing tightly",
+        examples: [
+          "Ich quetsche die Zitrone. (I squeeze the lemon.)",
+          "Die Hand wurde gequetscht. (The hand was squeezed.)",
+        ],
+      },
+      {
+        verb: "zerdrücken",
+        translation: "to crush",
+        keyPoint: "Destroying by pressure",
+        examples: [
+          "Ich zerdrücke die Dose. (I crush the can.)",
+          "Die Beeren wurden zerdrückt. (The berries were crushed.)",
+        ],
+      },
+      {
+        verb: "zusammendrücken",
+        translation: "to compress",
+        keyPoint: "Squeezing together",
+        examples: [
+          "Ich drücke den Schwamm zusammen. (I compress the sponge.)",
+          "Die Luft wurde zusammengedrückt. (The air was compressed.)",
+        ],
+      },
+      {
+        verb: "auspressen",
+        translation: "to squeeze out",
+        keyPoint: "Extracting by pressure",
+        examples: [
+          "Ich presse den Saft aus. (I squeeze out the juice.)",
+          "Wasser wurde ausgepresst. (Water was squeezed out.)",
+        ],
+      },
+      {
+        verb: "schieben",
+        translation: "to push",
+        keyPoint: "Moving by pushing",
+        examples: [
+          "Ich schiebe den Wagen. (I push the cart.)",
+          "Das Auto wurde geschoben. (The car was pushed.)",
+        ],
+      },
+      {
+        verb: "verschieben",
+        translation: "to postpone, to move",
+        keyPoint: "Changing position or time",
+        examples: [
+          "Ich verschiebe den Termin. (I postpone the appointment.)",
+          "Das Meeting wurde verschoben. (The meeting was postponed.)",
+        ],
+      },
+      {
+        verb: "stoßen",
+        translation: "to push, to bump",
+        keyPoint: "Forceful contact",
+        examples: [
+          "Ich stoße mich am Tisch. (I bump into the table.)",
+          "Die Tür wurde aufgestoßen. (The door was pushed open.)",
+        ],
+      },
+      {
+        verb: "anstoßen",
+        translation: "to toast, to bump into",
+        keyPoint: "Light contact or celebration",
+        examples: [
+          "Wir stoßen auf dich an! (We toast to you!)",
+          "Das Glas wurde angestoßen. (The glass was clinked.)",
+        ],
+      },
+      {
+        verb: "umstossen",
+        translation: "to knock over",
+        keyPoint: "Causing to fall",
+        examples: [
+          "Ich stoße das Glas um. (I knock over the glass.)",
+          "Die Vase wurde umgestoßen. (The vase was knocked over.)",
+        ],
+      },
+      {
+        verb: "reißen",
+        translation: "to tear",
+        keyPoint: "Separating by force",
+        examples: [
+          "Ich reiße das Papier. (I tear the paper.)",
+          "Das Seil wurde gerissen. (The rope was torn.)",
+        ],
+      },
+      {
+        verb: "zerreißen",
+        translation: "to tear apart",
+        keyPoint: "Completely tearing",
+        examples: [
+          "Ich zerreiße den Brief. (I tear apart the letter.)",
+          "Das Kleid wurde zerrissen. (The dress was torn apart.)",
+        ],
+      },
+      {
+        verb: "abreißen",
+        translation: "to tear off",
+        keyPoint: "Removing by tearing",
+        examples: [
+          "Ich reiße das Blatt ab. (I tear off the page.)",
+          "Das Pflaster wurde abgerissen. (The bandage was torn off.)",
+        ],
+      },
+      {
+        verb: "aufreißen",
+        translation: "to tear open",
+        keyPoint: "Opening by tearing",
+        examples: [
+          "Ich reiße das Paket auf. (I tear open the package.)",
+          "Der Brief wurde aufgerissen. (The letter was torn open.)",
+        ],
+      },
+      {
+        verb: "einreißen",
+        translation: "to tear down",
+        keyPoint: "Demolishing",
+        examples: [
+          "Sie reißen das Haus ein. (They tear down the house.)",
+          "Die Mauer wurde eingerissen. (The wall was torn down.)",
+        ],
+      },
+      {
+        verb: "schneiden",
+        translation: "to cut",
+        keyPoint: "Using sharp tool",
+        examples: [
+          "Ich schneide das Brot. (I cut the bread.)",
+          "Die Haare wurden geschnitten. (The hair was cut.)",
+        ],
+      },
+      {
+        verb: "zerschneiden",
+        translation: "to cut up",
+        keyPoint: "Cutting into pieces",
+        examples: [
+          "Ich zerschneide das Papier. (I cut up the paper.)",
+          "Das Fleisch wurde zerschnitten. (The meat was cut up.)",
+        ],
+      },
+      {
+        verb: "abschneiden",
+        translation: "to cut off",
+        keyPoint: "Removing by cutting",
+        examples: [
+          "Ich schneide den Zweig ab. (I cut off the branch.)",
+          "Das Ende wurde abgeschnitten. (The end was cut off.)",
+        ],
+      },
+      {
+        verb: "aufschneiden",
+        translation: "to cut open",
+        keyPoint: "Opening by cutting",
+        examples: [
+          "Ich schneide das Paket auf. (I cut open the package.)",
+          "Die Wunde wurde aufgeschnitten. (The wound was cut open.)",
+        ],
+      },
+      {
+        verb: "einschneiden",
+        translation: "to cut into",
+        keyPoint: "Making incision",
+        examples: [
+          "Ich schneide in das Holz ein. (I cut into the wood.)",
+          "Eine Kerbe wurde eingeschnitten. (A notch was cut in.)",
+        ],
+      },
+      {
+        verb: "durchschneiden",
+        translation: "to cut through",
+        keyPoint: "Cutting completely through",
+        examples: [
+          "Ich schneide das Seil durch. (I cut through the rope.)",
+          "Der Draht wurde durchgeschnitten. (The wire was cut through.)",
+        ],
+      },
+      {
+        verb: "hacken",
+        translation: "to chop",
+        keyPoint: "Cutting with heavy tool",
+        examples: [
+          "Ich hacke Holz. (I chop wood.)",
+          "Das Gemüse wurde gehackt. (The vegetables were chopped.)",
+        ],
+      },
+      {
+        verb: "spalten",
+        translation: "to split",
+        keyPoint: "Dividing along grain",
+        examples: [
+          "Ich spalte das Holz. (I split the wood.)",
+          "Der Fels wurde gespalten. (The rock was split.)",
+        ],
+      },
+      {
+        verb: "brechen",
+        translation: "to break",
+        keyPoint: "Separating by force",
+        examples: [
+          "Ich breche den Ast. (I break the branch.)",
+          "Das Glas wurde gebrochen. (The glass was broken.)",
+        ],
+      },
+      {
+        verb: "zerbrechen",
+        translation: "to shatter",
+        keyPoint: "Breaking into pieces",
+        examples: [
+          "Ich zerbreche das Glas. (I shatter the glass.)",
+          "Der Teller wurde zerbrochen. (The plate was shattered.)",
+        ],
+      },
+      {
+        verb: "abbrechen",
+        translation: "to break off",
+        keyPoint: "Stopping or breaking away",
+        examples: [
+          "Ich breche den Zweig ab. (I break off the branch.)",
+          "Das Gespräch wurde abgebrochen. (The conversation was broken off.)",
+        ],
+      },
+      {
+        verb: "aufbrechen",
+        translation: "to break open",
+        keyPoint: "Opening by force",
+        examples: [
+          "Ich breche das Schloss auf. (I break open the lock.)",
+          "Die Tür wurde aufgebrochen. (The door was broken open.)",
+        ],
+      },
+      {
+        verb: "einbrechen",
+        translation: "to break in",
+        keyPoint: "Entering by force",
+        examples: [
+          "Diebe brechen ein. (Thieves break in.)",
+          "In das Haus wurde eingebrochen. (The house was broken into.)",
+        ],
+      },
+      {
+        verb: "durchbrechen",
+        translation: "to break through",
+        keyPoint: "Breaking barrier",
+        examples: [
+          "Ich durchbreche die Mauer. (I break through the wall.)",
+          "Die Schallmauer wurde durchbrochen. (The sound barrier was broken.)",
+        ],
+      },
+      {
+        verb: "knicken",
+        translation: "to bend, to crease",
+        keyPoint: "Creating fold or bend",
+        examples: [
+          "Ich knicke das Papier. (I crease the paper.)",
+          "Der Ast wurde geknickt. (The branch was bent.)",
+        ],
+      },
+      {
+        verb: "falten",
+        translation: "to fold",
+        keyPoint: "Creating neat folds",
+        examples: [
+          "Ich falte die Wäsche. (I fold the laundry.)",
+          "Das Papier wurde gefaltet. (The paper was folded.)",
+        ],
+      },
+      {
+        verb: "wickeln",
+        translation: "to wrap",
+        keyPoint: "Wrapping around",
+        examples: [
+          "Ich wickle das Geschenk ein. (I wrap the present.)",
+          "Das Baby wurde gewickelt. (The baby was diapered.)",
+        ],
+      },
+      {
+        verb: "verpacken",
+        translation: "to pack",
+        keyPoint: "Putting in container",
+        examples: [
+          "Ich verpacke die Ware. (I pack the goods.)",
+          "Alles wurde verpackt. (Everything was packed.)",
+        ],
+      },
+      {
+        verb: "auspacken",
+        translation: "to unpack",
+        keyPoint: "Removing from container",
+        examples: [
+          "Ich packe die Koffer aus. (I unpack the suitcases.)",
+          "Die Geschenke wurden ausgepackt. (The presents were unpacked.)",
+        ],
+      },
+      {
+        verb: "einpacken",
+        translation: "to pack up",
+        keyPoint: "Putting things away",
+        examples: [
+          "Ich packe meine Sachen ein. (I pack up my things.)",
+          "Alles wurde eingepackt. (Everything was packed up.)",
+        ],
+      },
+      {
+        verb: "laden",
+        translation: "to load",
+        keyPoint: "Putting cargo on",
+        examples: [
+          "Ich lade das Auto. (I load the car.)",
+          "Die Waren wurden geladen. (The goods were loaded.)",
+        ],
+      },
+      {
+        verb: "entladen",
+        translation: "to unload",
+        keyPoint: "Removing cargo",
+        examples: [
+          "Ich entlade den Lkw. (I unload the truck.)",
+          "Die Kisten wurden entladen. (The boxes were unloaded.)",
+        ],
+      },
+      {
+        verb: "beladen",
+        translation: "to load up",
+        keyPoint: "Filling with cargo",
+        examples: [
+          "Ich belade den Wagen. (I load up the wagon.)",
+          "Das Schiff wurde beladen. (The ship was loaded up.)",
+        ],
+      },
+      {
+        verb: "stapeln",
+        translation: "to stack",
+        keyPoint: "Piling up",
+        examples: [
+          "Ich stapele die Bücher. (I stack the books.)",
+          "Die Kisten wurden gestapelt. (The boxes were stacked.)",
+        ],
+      },
+      {
+        verb: "schichten",
+        translation: "to layer",
+        keyPoint: "Arranging in layers",
+        examples: [
+          "Ich schichte das Holz. (I layer the wood.)",
+          "Die Materialien wurden geschichtet. (The materials were layered.)",
+        ],
+      },
+      {
+        verb: "häufen",
+        translation: "to pile up",
+        keyPoint: "Accumulating in heap",
+        examples: [
+          "Ich häufe Laub zusammen. (I pile up leaves.)",
+          "Sand wurde gehäuft. (Sand was piled up.)",
+        ],
+      },
+      {
+        verb: "sammeln",
+        translation: "to collect",
+        keyPoint: "Gathering together",
+        examples: [
+          "Ich sammle Briefmarken. (I collect stamps.)",
+          "Müll wurde gesammelt. (Trash was collected.)",
+        ],
+      },
+      {
+        verb: "anhäufen",
+        translation: "to accumulate",
+        keyPoint: "Building up over time",
+        examples: [
+          "Ich häufe Schulden an. (I accumulate debts.)",
+          "Wissen wurde angehäuft. (Knowledge was accumulated.)",
+        ],
+      },
+      {
+        verb: "ansammeln",
+        translation: "to accumulate",
+        keyPoint: "Gathering gradually",
+        examples: [
+          "Staub sammelt sich an. (Dust accumulates.)",
+          "Erfahrung wurde angesammelt. (Experience was accumulated.)",
+        ],
+      },
+      {
+        verb: "versammeln",
+        translation: "to gather",
+        keyPoint: "Coming together",
+        examples: [
+          "Wir versammeln uns hier. (We gather here.)",
+          "Die Leute wurden versammelt. (The people were gathered.)",
+        ],
+      },
+    ],
+  },
 ];

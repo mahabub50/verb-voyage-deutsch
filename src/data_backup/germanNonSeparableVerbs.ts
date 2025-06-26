@@ -62,6 +62,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "befehlen",
+        translation: "to command, to order",
+        keyPoint: "Giving orders or commands",
+        examples: [
+          "Der General befiehlt den Angriff. (The general commands the attack.)",
+          "Ich befehle dir zu gehen! (I order you to go!)"
+        ]
+      },
+      {
         verb: "befinden",
         translation: "to be located, to find oneself",
         keyPoint: "Being in a particular state or location",
@@ -86,6 +95,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         examples: [
           "Ich begegne ihm oft auf der Straße. (I often meet him on the street.)",
           "Wir begegnen vielen Problemen. (We encounter many problems.)"
+        ]
+      },
+      {
+        verb: "beginnen",
+        translation: "to begin, to start",
+        keyPoint: "Starting something new",
+        examples: [
+          "Beginnen Sie mit der Arbeit! (Start with the work!)",
+          "Der Film beginnt um 20 Uhr. (The movie starts at 8 PM.)"
         ]
       },
       {
@@ -152,6 +170,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "bekommen",
+        translation: "to get, to receive",
+        keyPoint: "Receiving or obtaining something",
+        examples: [
+          "Ich bekomme ein Geschenk. (I'm getting a gift.)",
+          "Bekommst du Hunger? (Are you getting hungry?)"
+        ]
+      },
+      {
         verb: "beleidigen",
         translation: "to insult, to offend",
         keyPoint: "Hurting someone's feelings",
@@ -173,6 +200,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         examples: [
           "Empfangen Sie die Gäste! (Receive the guests!)",
           "Ich empfange das Radio schlecht. (I receive the radio poorly.)"
+        ]
+      },
+      {
+        verb: "empfehlen",
+        translation: "to recommend",
+        keyPoint: "Suggesting something to someone",
+        examples: [
+          "Ich empfehle dieses Restaurant. (I recommend this restaurant.)",
+          "Empfehlen Sie mir ein gutes Buch! (Recommend a good book to me!)"
         ]
       },
       {
@@ -377,6 +413,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "erschrecken",
+        translation: "to frighten, to be frightened",
+        keyPoint: "Causing or feeling fear",
+        examples: [
+          "Erschrecken Sie mich nicht! (Don't frighten me!)",
+          "Ich erschrecke bei lauten Geräuschen. (I get frightened by loud noises.)"
+        ]
+      },
+      {
         verb: "ersetzen",
         translation: "to replace",
         keyPoint: "Putting something in place of another",
@@ -437,6 +482,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "gefallen",
+        translation: "to please, to like",
+        keyPoint: "Finding something pleasing",
+        examples: [
+          "Das Bild gefällt mir. (I like the picture.)",
+          "Gefällt dir das Essen? (Do you like the food?)"
+        ]
+      },
+      {
         verb: "gehören",
         translation: "to belong",
         keyPoint: "Being the property of someone",
@@ -455,12 +509,30 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "genießen",
+        translation: "to enjoy",
+        keyPoint: "Taking pleasure in something",
+        examples: [
+          "Genießen Sie das Essen! (Enjoy the food!)",
+          "Ich genieße die Musik. (I enjoy the music.)"
+        ]
+      },
+      {
         verb: "genügen",
         translation: "to suffice, to be enough",
         keyPoint: "Being adequate or sufficient",
         examples: [
           "Das Geld genügt nicht. (The money doesn't suffice.)",
           "Genügen Ihnen fünf Minuten? (Are five minutes enough for you?)"
+        ]
+      },
+      {
+        verb: "geschehen",
+        translation: "to happen, to occur",
+        keyPoint: "Taking place or occurring",
+        examples: [
+          "Was geschieht hier? (What's happening here?)",
+          "Ein Unfall ist geschehen. (An accident has happened.)"
         ]
       },
       {
@@ -472,6 +544,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
           "Ich gestehe, dass ich gelogen habe. (I admit that I lied.)"
         ]
       },
+      {
+        verb: "gewinnen",
+        translation: "to win, to gain",
+        keyPoint: "Achieving victory or gaining something",
+        examples: [
+          "Gewinnen Sie das Spiel! (Win the game!)",
+          "Ich gewinne an Erfahrung. (I gain experience.)"
+        ]
+      }
     ]
   },
   {
@@ -548,6 +629,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "verbergen",
+        translation: "to hide, to conceal",
+        keyPoint: "Keeping something secret or hidden",
+        examples: [
+          "Verbergen Sie die Wahrheit nicht! (Don't hide the truth!)",
+          "Ich verberge meine Gefühle. (I hide my feelings.)"
+        ]
+      },
+      {
         verb: "verbessern",
         translation: "to improve",
         keyPoint: "Making something better",
@@ -575,12 +665,30 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "verbringen",
+        translation: "to spend (time)",
+        keyPoint: "Using time for something",
+        examples: [
+          "Verbringen Sie Zeit mit der Familie! (Spend time with family!)",
+          "Ich verbringe den Abend zu Hause. (I spend the evening at home.)"
+        ]
+      },
+      {
         verb: "verdienen",
         translation: "to earn, to deserve",
         keyPoint: "Getting money or deserving something",
         examples: [
           "Verdienen Sie genug Geld? (Do you earn enough money?)",
           "Du verdienst eine Belohnung. (You deserve a reward.)"
+        ]
+      },
+      {
+        verb: "vergessen",
+        translation: "to forget",
+        keyPoint: "Not remembering something",
+        examples: [
+          "Vergessen Sie das nicht! (Don't forget that!)",
+          "Ich vergesse oft Namen. (I often forget names.)"
         ]
       },
       {
@@ -629,6 +737,15 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         ]
       },
       {
+        verb: "verlieren",
+        translation: "to lose",
+        keyPoint: "No longer having something",
+        examples: [
+          "Verlieren Sie nicht die Hoffnung! (Don't lose hope!)",
+          "Ich verliere oft meine Schlüssel. (I often lose my keys.)"
+        ]
+      },
+      {
         verb: "vermieten",
         translation: "to rent out",
         keyPoint: "Letting someone use your property for money",
@@ -644,6 +761,24 @@ export const germanNonSeparableVerbs: VerbGroup[] = [
         examples: [
           "Vermissen Sie Ihre Familie? (Do you miss your family?)",
           "Ich vermisse meine Heimat. (I miss my homeland.)"
+        ]
+      },
+      {
+        verb: "verschwinden",
+        translation: "to disappear",
+        keyPoint: "Going away so you can't be seen",
+        examples: [
+          "Verschwinden Sie! (Disappear!)",
+          "Mein Geld ist verschwunden. (My money has disappeared.)"
+        ]
+      },
+      {
+        verb: "verstehen",
+        translation: "to understand",
+        keyPoint: "Comprehending meaning",
+        examples: [
+          "Verstehen Sie Deutsch? (Do you understand German?)",
+          "Ich verstehe das Problem. (I understand the problem.)"
         ]
       },
       {

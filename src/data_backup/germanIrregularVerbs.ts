@@ -155,6 +155,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "finden",
+        translation: "to find",
+        keyPoint: "Strong verb (finde, findet, fand, gefunden)",
+        examples: [
+          "Findest du deine Schlüssel? (Do you find your keys?)",
+          "Ich habe eine Lösung gefunden. (I found a solution.)",
+        ],
+      },
+      {
         verb: "helfen",
         translation: "to help",
         keyPoint:
@@ -352,6 +361,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         examples: [
           "Ich wasche meine Hände. (I wash my hands.)",
           "Sie hat die Wäsche gewaschen. (She washed the laundry.)",
+        ],
+      },
+      {
+        verb: "fahren",
+        translation: "to drive, to travel",
+        keyPoint: "Strong verb (fahre, fährst, fuhr, gefahren)",
+        examples: [
+          "Fährst du Auto? (Do you drive a car?)",
+          "Wir sind nach Italien gefahren. (We traveled to Italy.)",
         ],
       },
       {
@@ -622,6 +640,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         examples: [
           "Der Müll stinkt. (The garbage stinks.)",
           "Es hat hier gestunken. (It stunk here.)",
+        ],
+      },
+      {
+        verb: "trinken",
+        translation: "to drink",
+        keyPoint: "Strong verb (trinke, trinkst, trank, getrunken)",
+        examples: [
+          "Trink mehr Wasser! (Drink more water!)",
+          "Wir haben Wein getrunken. (We drank wine.)",
         ],
       },
       {
@@ -1078,6 +1105,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "essen",
+        translation: "to eat",
+        keyPoint: "Strong verb (esse, isst, aß, gegessen)",
+        examples: [
+          "Iss langsam! (Eat slowly!)",
+          "Wir haben gut gegessen. (We ate well.)",
+        ],
+      },
+      {
         verb: "fressen",
         translation: "to eat (animals)",
         keyPoint: "Strong verb (fresse, frisst, fraß, gefressen)",
@@ -1096,12 +1132,84 @@ export const germanIrregularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "gießen",
+        translation: "to pour, to water",
+        keyPoint: "Strong verb (gieße, gießt, goss, gegossen)",
+        examples: [
+          "Gieß die Pflanzen! (Water the plants!)",
+          "Sie hat Wasser in das Glas gegossen. (She poured water into the glass.)",
+        ],
+      },
+      {
         verb: "schmelzen",
         translation: "to melt",
         keyPoint: "Strong verb (schmelze, schmilzt, schmolz, geschmolzen)",
         examples: [
           "Das Eis schmilzt in der Sonne. (The ice melts in the sun.)",
           "Der Schnee ist geschmolzen. (The snow has melted.)",
+        ],
+      },
+      {
+        verb: "schwellen",
+        translation: "to swell",
+        keyPoint: "Strong verb (schwelle, schwillst, schwoll, geschwollen)",
+        examples: [
+          "Mein Fuß schwillt an. (My foot is swelling.)",
+          "Die Wunde ist geschwollen. (The wound has swollen.)",
+        ],
+      },
+      {
+        verb: "helfen",
+        translation: "to help",
+        keyPoint: "Strong verb (helfe, hilfst, half, geholfen)",
+        examples: [
+          "Hilf mir bitte! (Please help me!)",
+          "Er hat mir geholfen. (He helped me.)",
+        ],
+      },
+      {
+        verb: "werfen",
+        translation: "to throw",
+        keyPoint: "Strong verb (werfe, wirfst, warf, geworfen)",
+        examples: [
+          "Wirf den Ball! (Throw the ball!)",
+          "Das Kind hat den Stein geworfen. (The child threw the stone.)",
+        ],
+      },
+      {
+        verb: "nehmen",
+        translation: "to take",
+        keyPoint: "Strong verb (nehme, nimmst, nahm, genommen)",
+        examples: [
+          "Nimm das Buch! (Take the book!)",
+          "Ich habe den Zug genommen. (I took the train.)",
+        ],
+      },
+      {
+        verb: "geben",
+        translation: "to give",
+        keyPoint: "Strong verb (gebe, gibst, gab, gegeben)",
+        examples: [
+          "Gib mir das Buch! (Give me the book!)",
+          "Sie hat mir Geld gegeben. (She gave me money.)",
+        ],
+      },
+      {
+        verb: "lesen",
+        translation: "to read",
+        keyPoint: "Strong verb (lese, liest, las, gelesen)",
+        examples: [
+          "Lies das Buch! (Read the book!)",
+          "Er hat die Zeitung gelesen. (He read the newspaper.)",
+        ],
+      },
+      {
+        verb: "sehen",
+        translation: "to see",
+        keyPoint: "Strong verb (sehe, siehst, sah, gesehen)",
+        examples: [
+          "Sieh mich an! (Look at me!)",
+          "Ich habe den Film gesehen. (I saw the movie.)",
         ],
       },
       {
@@ -1327,6 +1435,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "abgeben",
+        translation: "to hand in, to give away",
+        keyPoint: "Strong verb (gebe ab, gibst ab, gab ab, abgegeben)",
+        examples: [
+          "Ich gebe die Hausaufgaben ab. (I hand in the homework.)",
+          "Das wurde rechtzeitig abgegeben. (That was handed in on time.)",
+        ],
+      },
+      {
         verb: "abhängen",
         translation: "to depend on",
         keyPoint: "Strong verb (hänge ab, hängst ab, hing ab, abgehangen)",
@@ -1462,6 +1579,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         examples: [
           "Das Auto hält an. (The car stops.)",
           "Wir wurden angehalten. (We were stopped.)",
+        ],
+      },
+      {
+        verb: "ankommen",
+        translation: "to arrive",
+        keyPoint: "Strong verb (komme an, kommst an, kam an, angekommen)",
+        examples: [
+          "Der Zug kommt pünktlich an. (The train arrives on time.)",
+          "Wir sind gestern angekommen. (We arrived yesterday.)",
         ],
       },
       {
@@ -1611,6 +1737,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         examples: [
           "Das fällt mir auf. (I notice that.)",
           "Er ist aufgefallen. (He stood out.)",
+        ],
+      },
+      {
+        verb: "aufgeben",
+        translation: "to give up",
+        keyPoint: "Strong verb (gebe auf, gibst auf, gab auf, aufgegeben)",
+        examples: [
+          "Ich gebe nicht auf. (I don't give up.)",
+          "Das Projekt wurde aufgegeben. (The project was given up.)",
         ],
       },
       {
@@ -1869,6 +2004,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "ausgeben",
+        translation: "to spend, to give out",
+        keyPoint: "Strong verb (gebe aus, gibst aus, gab aus, ausgegeben)",
+        examples: [
+          "Ich gebe Geld aus. (I spend money.)",
+          "Karten wurden ausgegeben. (Cards were given out.)",
+        ],
+      },
+      {
         verb: "ausgehen",
         translation: "to go out",
         keyPoint: "Strong verb (gehe aus, gehst aus, ging aus, ausgegangen)",
@@ -1902,6 +2046,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         examples: [
           "Ich hänge die Wäsche aus. (I hang out the laundry.)",
           "Die Liste wurde ausgehängt. (The list was posted.)",
+        ],
+      },
+      {
+        verb: "auskommen",
+        translation: "to get by, to manage",
+        keyPoint: "Strong verb (komme aus, kommst aus, kam aus, ausgekommen)",
+        examples: [
+          "Ich komme mit wenig Geld aus. (I get by with little money.)",
+          "Sie sind gut ausgekommen. (They got along well.)",
         ],
       },
       {
@@ -2134,12 +2287,6 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "auswaschen",
         translation: "to wash out",
-        keyPoint:
-          "Strong verb (wasche aus, wäschst aus, wusch aus, ausgewaschen)",
-        examples: [
-          "Wasch das Glas aus! (Wash out the glass!)",
-          "Sie hat die Flecken ausgewaschen. (She washed out the stains.)",
-        ],
       },
       {
         verb: "hineinziehen",
@@ -2233,6 +2380,15 @@ export const germanIrregularVerbs: VerbGroup[] = [
         examples: [
           "Sie ziehen fort. (They move away.)",
           "Die Familie ist fortgezogen. (The family has moved away.)",
+        ],
+      },
+      {
+        verb: "aufziehen",
+        translation: "to wind up, to raise",
+        keyPoint: "Strong verb (ziehe auf, ziehst auf, zog auf, aufgezogen)",
+        examples: [
+          "Ich ziehe die Uhr auf. (I wind up the watch.)",
+          "Sie hat die Kinder aufgezogen. (She raised the children.)",
         ],
       },
       {
@@ -2678,7 +2834,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abbeißen",
         translation: "to bite off",
-        keyPoint: "Strong verb (beiße ab, beißt ab, biss ab, abgebissen)",
+        keyPoint:
+          "Strong verb (beiße ab, beißt ab, biss ab, abgebissen)",
         examples: [
           "Er beißt ein Stück ab. (He bites off a piece.)",
           "Das Kabel wurde abgebissen. (The cable was bitten off.)",
@@ -2687,7 +2844,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abbrausen",
         translation: "to shower off",
-        keyPoint: "Strong verb (brause ab, braust ab, braus ab, abgebraust)",
+        keyPoint:
+          "Strong verb (brause ab, braust ab, braus ab, abgebraust)",
         examples: [
           "Ich brause mich ab. (I shower off.)",
           "Er hat sich abgebraust. (He showered off.)",
@@ -2706,7 +2864,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfärben",
         translation: "to rub off/influence",
-        keyPoint: "Strong verb (färbe ab, färbst ab, färbte ab, abgefärbt)",
+        keyPoint:
+          "Strong verb (färbe ab, färbst ab, färbte ab, abgefärbt)",
         examples: [
           "Die Farbe färbt ab. (The color rubs off.)",
           "Seine Einstellung hat abgefärbt. (His attitude rubbed off.)",
@@ -2715,7 +2874,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfedern",
         translation: "to cushion/absorb",
-        keyPoint: "Strong verb (federe ab, federst ab, federte ab, abgefedert)",
+        keyPoint:
+          "Strong verb (federe ab, federst ab, federte ab, abgefedert)",
         examples: [
           "Das System federt Stöße ab. (The system absorbs shocks.)",
           "Der Aufprall wurde abgefedert. (The impact was cushioned.)",
@@ -2734,7 +2894,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfeuern",
         translation: "to fire off",
-        keyPoint: "Strong verb (feuere ab, feuerst ab, feuerte ab, abgefeuert)",
+        keyPoint:
+          "Strong verb (feuere ab, feuerst ab, feuerte ab, abgefeuert)",
         examples: [
           "Er feuert einen Schuss ab. (He fires off a shot.)",
           "Die Rakete wurde abgefeuert. (The rocket was fired off.)",
@@ -2743,7 +2904,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfischen",
         translation: "to fish out",
-        keyPoint: "Strong verb (fische ab, fischst ab, fischte ab, abgefischt)",
+        keyPoint:
+          "Strong verb (fische ab, fischst ab, fischte ab, abgefischt)",
         examples: [
           "Ich fische den Teich ab. (I fish out the pond.)",
           "Alle Fische wurden abgefischt. (All fish were fished out.)",
@@ -2752,7 +2914,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abflauen",
         translation: "to die down/subside",
-        keyPoint: "Strong verb (flaue ab, flaust ab, flaute ab, abgeflaut)",
+        keyPoint:
+          "Strong verb (flaue ab, flaust ab, flaute ab, abgeflaut)",
         examples: [
           "Der Wind flaut ab. (The wind dies down.)",
           "Das Interesse ist abgeflaut. (Interest has subsided.)",
@@ -2761,7 +2924,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfließen",
         translation: "to drain away",
-        keyPoint: "Strong verb (fließe ab, fließt ab, floss ab, abgeflossen)",
+        keyPoint:
+          "Strong verb (fließe ab, fließt ab, floss ab, abgeflossen)",
         examples: [
           "Das Wasser fließt ab. (The water drains away.)",
           "Alles ist abgeflossen. (Everything has drained away.)",
@@ -2770,7 +2934,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abformen",
         translation: "to mold/cast",
-        keyPoint: "Strong verb (forme ab, formst ab, formte ab, abgeformt)",
+        keyPoint:
+          "Strong verb (forme ab, formst ab, formte ab, abgeformt)",
         examples: [
           "Ich forme die Skulptur ab. (I cast the sculpture.)",
           "Das Gesicht wurde abgeformt. (The face was molded.)",
@@ -2779,7 +2944,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfragen",
         translation: "to query/test",
-        keyPoint: "Strong verb (frage ab, fragst ab, fragte ab, abgefragt)",
+        keyPoint:
+          "Strong verb (frage ab, fragst ab, fragte ab, abgefragt)",
         examples: [
           "Der Lehrer fragt Vokabeln ab. (The teacher tests vocabulary.)",
           "Das Wissen wurde abgefragt. (The knowledge was tested.)",
@@ -2788,7 +2954,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfressen",
         translation: "to eat bare/graze off",
-        keyPoint: "Strong verb (fresse ab, frisst ab, fraß ab, abgefressen)",
+        keyPoint:
+          "Strong verb (fresse ab, frisst ab, fraß ab, abgefressen)",
         examples: [
           "Die Ziegen fressen die Wiese ab. (The goats graze the meadow bare.)",
           "Alles wurde abgefressen. (Everything was eaten bare.)",
@@ -2797,7 +2964,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfrieren",
         translation: "to freeze off",
-        keyPoint: "Strong verb (friere ab, frierst ab, fror ab, abgefroren)",
+        keyPoint:
+          "Strong verb (friere ab, frierst ab, fror ab, abgefroren)",
         examples: [
           "Die Finger frieren ab. (The fingers freeze off.)",
           "Die Ohren sind abgefroren. (The ears have frozen off.)",
@@ -2806,7 +2974,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfüllen",
         translation: "to fill/bottle",
-        keyPoint: "Strong verb (fülle ab, füllst ab, füllte ab, abgefüllt)",
+        keyPoint:
+          "Strong verb (fülle ab, füllst ab, füllte ab, abgefüllt)",
         examples: [
           "Wir füllen Wein ab. (We bottle wine.)",
           "Das Bier wurde abgefüllt. (The beer was bottled.)",
@@ -2815,7 +2984,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abführen",
         translation: "to lead away/pay",
-        keyPoint: "Strong verb (führe ab, führst ab, führte ab, abgeführt)",
+        keyPoint:
+          "Strong verb (führe ab, führst ab, führte ab, abgeführt)",
         examples: [
           "Die Polizei führt ihn ab. (The police lead him away.)",
           "Steuern wurden abgeführt. (Taxes were paid.)",
@@ -2824,7 +2994,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abfühlen",
         translation: "to feel/examine by touch",
-        keyPoint: "Strong verb (fühle ab, fühlst ab, fühlte ab, abgefühlt)",
+        keyPoint:
+          "Strong verb (fühle ab, fühlst ab, fühlte ab, abgefühlt)",
         examples: [
           "Der Arzt fühlt den Puls ab. (The doctor feels the pulse.)",
           "Die Wunde wurde abgefühlt. (The wound was examined by touch.)",
@@ -2843,7 +3014,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abgehen",
         translation: "to go off/leave",
-        keyPoint: "Strong verb (gehe ab, gehst ab, ging ab, abgegangen)",
+        keyPoint:
+          "Strong verb (gehe ab, gehst ab, ging ab, abgegangen)",
         examples: [
           "Der Schuss geht ab. (The shot goes off.)",
           "Er ist von der Schule abgegangen. (He left school.)",
@@ -2862,7 +3034,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abgleiten",
         translation: "to slip off/slide down",
-        keyPoint: "Strong verb (gleite ab, gleitest ab, glitt ab, abgeglitten)",
+        keyPoint:
+          "Strong verb (gleite ab, gleitest ab, glitt ab, abgeglitten)",
         examples: [
           "Seine Hand gleitet ab. (His hand slips off.)",
           "Sie ist abgeglitten. (She slipped down.)",
@@ -2871,7 +3044,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abgraben",
         translation: "to dig away/divert",
-        keyPoint: "Strong verb (grabe ab, gräbst ab, grub ab, abgegraben)",
+        keyPoint:
+          "Strong verb (grabe ab, gräbst ab, grub ab, abgegraben)",
         examples: [
           "Wir graben das Wasser ab. (We divert the water.)",
           "Der Fluss wurde abgegraben. (The river was diverted.)",
@@ -2880,7 +3054,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abgrenzen",
         translation: "to delimit/distinguish",
-        keyPoint: "Strong verb (grenze ab, grenzt ab, grenzte ab, abgegrenzt)",
+        keyPoint:
+          "Strong verb (grenze ab, grenzt ab, grenzte ab, abgegrenzt)",
         examples: [
           "Ich grenze das Gebiet ab. (I delimit the area.)",
           "Die Bereiche wurden abgegrenzt. (The areas were delimited.)",
@@ -2889,7 +3064,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abgreifen",
         translation: "to wear out by handling",
-        keyPoint: "Strong verb (greife ab, greifst ab, griff ab, abgegriffen)",
+        keyPoint:
+          "Strong verb (greife ab, greifst ab, griff ab, abgegriffen)",
         examples: [
           "Das Buch greift ab. (The book wears out from handling.)",
           "Die Münze ist abgegriffen. (The coin is worn from handling.)",
@@ -2898,7 +3074,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abgucken",
         translation: "to copy/watch and learn",
-        keyPoint: "Strong verb (gucke ab, guckst ab, guckte ab, abgeguckt)",
+        keyPoint:
+          "Strong verb (gucke ab, guckst ab, guckte ab, abgeguckt)",
         examples: [
           "Er guckt bei mir ab. (He copies from me.)",
           "Das habe ich abgeguckt. (I learned that by watching.)",
@@ -2907,7 +3084,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhacken",
         translation: "to chop off",
-        keyPoint: "Strong verb (hacke ab, hackst ab, hackte ab, abgehackt)",
+        keyPoint:
+          "Strong verb (hacke ab, hackst ab, hackte ab, abgehackt)",
         examples: [
           "Ich hacke den Ast ab. (I chop off the branch.)",
           "Der Finger wurde abgehackt. (The finger was chopped off.)",
@@ -2916,7 +3094,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhaken",
         translation: "to check off",
-        keyPoint: "Strong verb (hake ab, hakst ab, hakte ab, abgehakt)",
+        keyPoint:
+          "Strong verb (hake ab, hakst ab, hakte ab, abgehakt)",
         examples: [
           "Ich hake die Punkte ab. (I check off the points.)",
           "Alles wurde abgehakt. (Everything was checked off.)",
@@ -2925,7 +3104,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhalten",
         translation: "to hold/prevent",
-        keyPoint: "Strong verb (halte ab, hältst ab, hielt ab, abgehalten)",
+        keyPoint:
+          "Strong verb (halte ab, hältst ab, hielt ab, abgehalten)",
         examples: [
           "Nichts hält mich ab. (Nothing prevents me.)",
           "Das Meeting wurde abgehalten. (The meeting was held.)",
@@ -2942,9 +3122,20 @@ export const germanIrregularVerbs: VerbGroup[] = [
         ],
       },
       {
+        verb: "abhängen",
+        translation: "to depend on/hang up",
+        keyPoint:
+          "Strong verb (hänge ab, hängst ab, hing ab, abgehangen)",
+        examples: [
+          "Das hängt von dir ab. (That depends on you.)",
+          "Das Bild wurde abgehangen. (The picture was taken down.)",
+        ],
+      },
+      {
         verb: "abhärten",
         translation: "to harden/toughen",
-        keyPoint: "Strong verb (härte ab, härtest ab, härtete ab, abgehärtet)",
+        keyPoint:
+          "Strong verb (härte ab, härtest ab, härtete ab, abgehärtet)",
         examples: [
           "Sport härtet ab. (Sports toughen you up.)",
           "Er wurde abgehärtet. (He was toughened.)",
@@ -2953,7 +3144,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhauen",
         translation: "to run away/chop off",
-        keyPoint: "Strong verb (haue ab, haust ab, haute ab, abgehauen)",
+        keyPoint:
+          "Strong verb (haue ab, haust ab, haute ab, abgehauen)",
         examples: [
           "Ich haue ab. (I'm running away.)",
           "Der Baum wurde abgehauen. (The tree was chopped down.)",
@@ -2962,7 +3154,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhebeln",
         translation: "to lever off",
-        keyPoint: "Strong verb (hebele ab, hebelst ab, hebelte ab, abgehebelt)",
+        keyPoint:
+          "Strong verb (hebele ab, hebelst ab, hebelte ab, abgehebelt)",
         examples: [
           "Ich hebele den Deckel ab. (I lever off the lid.)",
           "Das Brett wurde abgehebelt. (The board was levered off.)",
@@ -2971,7 +3164,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abheften",
         translation: "to file away",
-        keyPoint: "Strong verb (hefte ab, heftest ab, heftete ab, abgeheftet)",
+        keyPoint:
+          "Strong verb (hefte ab, heftest ab, heftete ab, abgeheftet)",
         examples: [
           "Ich hefte die Unterlagen ab. (I file away the documents.)",
           "Alles wurde abgeheftet. (Everything was filed away.)",
@@ -2980,7 +3174,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhetzen",
         translation: "to rush/wear out",
-        keyPoint: "Strong verb (hetze ab, hetzt ab, hetzte ab, abgehetzt)",
+        keyPoint:
+          "Strong verb (hetze ab, hetzt ab, hetzte ab, abgehetzt)",
         examples: [
           "Ich hetze mich ab. (I rush around.)",
           "Er ist völlig abgehetzt. (He is completely worn out.)",
@@ -2989,7 +3184,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abheuern",
         translation: "to sign off/dismiss",
-        keyPoint: "Strong verb (heuere ab, heuerst ab, heuerte ab, abgeheuert)",
+        keyPoint:
+          "Strong verb (heuere ab, heuerst ab, heuerte ab, abgeheuert)",
         examples: [
           "Der Matrose heuert ab. (The sailor signs off.)",
           "Die Mannschaft wurde abgeheuert. (The crew was dismissed.)",
@@ -2998,7 +3194,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhobeln",
         translation: "to plane off",
-        keyPoint: "Strong verb (hobele ab, hobelst ab, hobelte ab, abgehobelt)",
+        keyPoint:
+          "Strong verb (hobele ab, hobelst ab, hobelte ab, abgehobelt)",
         examples: [
           "Ich hobele das Holz ab. (I plane off the wood.)",
           "Die Oberfläche wurde abgehobelt. (The surface was planed off.)",
@@ -3007,7 +3204,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abhorchen",
         translation: "to listen to/auscultate",
-        keyPoint: "Strong verb (horche ab, horchst ab, horchte ab, abgehorcht)",
+        keyPoint:
+          "Strong verb (horche ab, horchst ab, horchte ab, abgehorcht)",
         examples: [
           "Der Arzt horcht mich ab. (The doctor listens to me.)",
           "Die Lunge wurde abgehorcht. (The lung was auscultated.)",
@@ -3016,7 +3214,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abjagen",
         translation: "to chase away/win from",
-        keyPoint: "Strong verb (jage ab, jagst ab, jagte ab, abgejagt)",
+        keyPoint:
+          "Strong verb (jage ab, jagst ab, jagte ab, abgejagt)",
         examples: [
           "Ich jage ihm den Ball ab. (I win the ball from him.)",
           "Der Titel wurde ihm abgejagt. (The title was won from him.)",
@@ -3045,7 +3244,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkauen",
         translation: "to chew off",
-        keyPoint: "Strong verb (kaue ab, kaust ab, kaute ab, abgekaut)",
+        keyPoint:
+          "Strong verb (kaue ab, kaust ab, kaute ab, abgekaut)",
         examples: [
           "Ich kaue meine Nägel ab. (I bite my nails.)",
           "Der Stift wurde abgekaut. (The pen was chewed off.)",
@@ -3054,7 +3254,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkehren",
         translation: "to turn away/sweep",
-        keyPoint: "Strong verb (kehre ab, kehrst ab, kehrte ab, abgekehrt)",
+        keyPoint:
+          "Strong verb (kehre ab, kehrst ab, kehrte ab, abgekehrt)",
         examples: [
           "Er kehrt sich ab. (He turns away.)",
           "Der Hof wurde abgekehrt. (The yard was swept.)",
@@ -3063,7 +3264,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abklemmen",
         translation: "to clamp off/pinch",
-        keyPoint: "Strong verb (klemme ab, klemmst ab, klemmte ab, abgeklemmt)",
+        keyPoint:
+          "Strong verb (klemme ab, klemmst ab, klemmte ab, abgeklemmt)",
         examples: [
           "Ich klemme das Rohr ab. (I clamp off the pipe.)",
           "Die Arterie wurde abgeklemmt. (The artery was clamped off.)",
@@ -3072,7 +3274,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abklingen",
         translation: "to die away/subside",
-        keyPoint: "Strong verb (klinge ab, klingst ab, klang ab, abgeklungen)",
+        keyPoint:
+          "Strong verb (klinge ab, klingst ab, klang ab, abgeklungen)",
         examples: [
           "Der Ton klingt ab. (The sound dies away.)",
           "Das Fieber ist abgeklungen. (The fever has subsided.)",
@@ -3081,7 +3284,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abklopfen",
         translation: "to knock off/tap",
-        keyPoint: "Strong verb (klopfe ab, klopfst ab, klopfte ab, abgeklopft)",
+        keyPoint:
+          "Strong verb (klopfe ab, klopfst ab, klopfte ab, abgeklopft)",
         examples: [
           "Ich klopfe den Staub ab. (I knock off the dust.)",
           "Die Wand wurde abgeklopft. (The wall was tapped.)",
@@ -3100,7 +3304,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abknallen",
         translation: "to shoot down",
-        keyPoint: "Strong verb (knalle ab, knallst ab, knallte ab, abgeknallt)",
+        keyPoint:
+          "Strong verb (knalle ab, knallst ab, knallte ab, abgeknallt)",
         examples: [
           "Er knallt das Flugzeug ab. (He shoots down the plane.)",
           "Der Feind wurde abgeknallt. (The enemy was shot down.)",
@@ -3109,7 +3314,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abknicken",
         translation: "to bend/break off",
-        keyPoint: "Strong verb (knicke ab, knickst ab, knickte ab, abgeknickt)",
+        keyPoint:
+          "Strong verb (knicke ab, knickst ab, knickte ab, abgeknickt)",
         examples: [
           "Der Ast knickt ab. (The branch breaks off.)",
           "Das Rohr wurde abgeknickt. (The pipe was bent.)",
@@ -3118,7 +3324,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abknöpfen",
         translation: "to unbutton/cadge",
-        keyPoint: "Strong verb (knöpfe ab, knöpfst ab, knöpfte ab, abgeknöpft)",
+        keyPoint:
+          "Strong verb (knöpfe ab, knöpfst ab, knöpfte ab, abgeknöpft)",
         examples: [
           "Ich knöpfe das Hemd ab. (I unbutton the shirt.)",
           "Geld wurde ihm abgeknöpft. (Money was cadged from him.)",
@@ -3127,7 +3334,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkochen",
         translation: "to boil/sterilize",
-        keyPoint: "Strong verb (koche ab, kochst ab, kochte ab, abgekocht)",
+        keyPoint:
+          "Strong verb (koche ab, kochst ab, kochte ab, abgekocht)",
         examples: [
           "Ich koche das Wasser ab. (I boil the water.)",
           "Die Milch wurde abgekocht. (The milk was boiled.)",
@@ -3136,7 +3344,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkratzen",
         translation: "to scrape off",
-        keyPoint: "Strong verb (kratze ab, kratzt ab, kratzte ab, abgekratzt)",
+        keyPoint:
+          "Strong verb (kratze ab, kratzt ab, kratzte ab, abgekratzt)",
         examples: [
           "Ich kratze den Lack ab. (I scrape off the paint.)",
           "Alles wurde abgekratzt. (Everything was scraped off.)",
@@ -3145,7 +3354,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkriegen",
         translation: "to get off/manage",
-        keyPoint: "Strong verb (kriege ab, kriegst ab, kriegte ab, abgekriegt)",
+        keyPoint:
+          "Strong verb (kriege ab, kriegst ab, kriegte ab, abgekriegt)",
         examples: [
           "Ich kriege den Deckel ab. (I get the lid off.)",
           "Das wurde abgekriegt. (That was managed.)",
@@ -3154,7 +3364,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkühlen",
         translation: "to cool down",
-        keyPoint: "Strong verb (kühle ab, kühlst ab, kühlte ab, abgekühlt)",
+        keyPoint:
+          "Strong verb (kühle ab, kühlst ab, kühlte ab, abgekühlt)",
         examples: [
           "Das Essen kühlt ab. (The food cools down.)",
           "Die Beziehung ist abgekühlt. (The relationship has cooled down.)",
@@ -3173,7 +3384,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abkürzen",
         translation: "to shorten/abbreviate",
-        keyPoint: "Strong verb (kürze ab, kürzt ab, kürzte ab, abgekürzt)",
+        keyPoint:
+          "Strong verb (kürze ab, kürzt ab, kürzte ab, abgekürzt)",
         examples: [
           "Ich kürze den Weg ab. (I take a shortcut.)",
           "Das Wort wurde abgekürzt. (The word was abbreviated.)",
@@ -3182,7 +3394,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abladen",
         translation: "to unload",
-        keyPoint: "Strong verb (lade ab, lädst ab, lud ab, abgeladen)",
+        keyPoint:
+          "Strong verb (lade ab, lädst ab, lud ab, abgeladen)",
         examples: [
           "Wir laden die Kisten ab. (We unload the boxes.)",
           "Alles wurde abgeladen. (Everything was unloaded.)",
@@ -3191,16 +3404,28 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "ablassen",
         translation: "to let off/drain",
-        keyPoint: "Strong verb (lasse ab, lässt ab, ließ ab, abgelassen)",
+        keyPoint:
+          "Strong verb (lasse ab, lässt ab, ließ ab, abgelassen)",
         examples: [
           "Ich lasse Dampf ab. (I let off steam.)",
           "Das Wasser wurde abgelassen. (The water was drained.)",
         ],
       },
       {
+        verb: "ablaufen",
+        translation: "to run off/expire",
+        keyPoint:
+          "Strong verb (laufe ab, läufst ab, lief ab, abgelaufen)",
+        examples: [
+          "Das Wasser läuft ab. (The water runs off.)",
+          "Der Pass ist abgelaufen. (The passport has expired.)",
+        ],
+      },
+      {
         verb: "ablecken",
         translation: "to lick off",
-        keyPoint: "Strong verb (lecke ab, leckst ab, leckte ab, abgeleckt)",
+        keyPoint:
+          "Strong verb (lecke ab, leckst ab, leckte ab, abgeleckt)",
         examples: [
           "Der Hund leckt ab. (The dog licks off.)",
           "Alles wurde abgeleckt. (Everything was licked off.)",
@@ -3209,7 +3434,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "ablegen",
         translation: "to put down/take off",
-        keyPoint: "Strong verb (lege ab, legst ab, legte ab, abgelegt)",
+        keyPoint:
+          "Strong verb (lege ab, legst ab, legte ab, abgelegt)",
         examples: [
           "Ich lege den Mantel ab. (I take off the coat.)",
           "Die Prüfung wurde abgelegt. (The exam was taken.)",
@@ -3218,7 +3444,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "ableiten",
         translation: "to derive/divert",
-        keyPoint: "Strong verb (leite ab, leitest ab, leitete ab, abgeleitet)",
+        keyPoint:
+          "Strong verb (leite ab, leitest ab, leitete ab, abgeleitet)",
         examples: [
           "Ich leite das Wasser ab. (I divert the water.)",
           "Das Wort wurde abgeleitet. (The word was derived.)",
@@ -3227,7 +3454,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "ablenken",
         translation: "to distract/deflect",
-        keyPoint: "Strong verb (lenke ab, lenkst ab, lenkte ab, abgelenkt)",
+        keyPoint:
+          "Strong verb (lenke ab, lenkst ab, lenkte ab, abgelenkt)",
         examples: [
           "Du lenkst mich ab. (You distract me.)",
           "Er wurde abgelenkt. (He was distracted.)",
@@ -3236,7 +3464,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "ablesen",
         translation: "to read off",
-        keyPoint: "Strong verb (lese ab, liest ab, las ab, abgelesen)",
+        keyPoint:
+          "Strong verb (lese ab, liest ab, las ab, abgelesen)",
         examples: [
           "Ich lese die Zahl ab. (I read off the number.)",
           "Der Wert wurde abgelesen. (The value was read off.)",
@@ -3255,7 +3484,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abliegen",
         translation: "to be distant/remote",
-        keyPoint: "Strong verb (liege ab, liegst ab, lag ab, abgelegen)",
+        keyPoint:
+          "Strong verb (liege ab, liegst ab, lag ab, abgelegen)",
         examples: [
           "Das Dorf liegt ab. (The village is remote.)",
           "Es hat abgelegen. (It was distant.)",
@@ -3264,7 +3494,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "ablösen",
         translation: "to relieve/detach",
-        keyPoint: "Strong verb (löse ab, löst ab, löste ab, abgelöst)",
+        keyPoint:
+          "Strong verb (löse ab, löst ab, löste ab, abgelöst)",
         examples: [
           "Ich löse ihn ab. (I relieve him.)",
           "Das Etikett wurde abgelöst. (The label was removed.)",
@@ -3273,7 +3504,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abmachen",
         translation: "to take off/arrange",
-        keyPoint: "Strong verb (mache ab, machst ab, machte ab, abgemacht)",
+        keyPoint:
+          "Strong verb (mache ab, machst ab, machte ab, abgemacht)",
         examples: [
           "Wir machen das ab. (We arrange that.)",
           "Der Termin wurde abgemacht. (The appointment was arranged.)",
@@ -3282,7 +3514,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abmähen",
         translation: "to mow",
-        keyPoint: "Strong verb (mähe ab, mähst ab, mähte ab, abgemäht)",
+        keyPoint:
+          "Strong verb (mähe ab, mähst ab, mähte ab, abgemäht)",
         examples: [
           "Ich mähe das Gras ab. (I mow the grass.)",
           "Der Rasen wurde abgemäht. (The lawn was mowed.)",
@@ -3291,7 +3524,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abmalen",
         translation: "to paint/copy",
-        keyPoint: "Strong verb (male ab, malst ab, malte ab, abgemalt)",
+        keyPoint:
+          "Strong verb (male ab, malst ab, malte ab, abgemalt)",
         examples: [
           "Ich male das Bild ab. (I copy the picture.)",
           "Alles wurde abgemalt. (Everything was painted.)",
@@ -3300,7 +3534,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abmelden",
         translation: "to deregister/sign off",
-        keyPoint: "Strong verb (melde ab, meldest ab, meldete ab, abgemeldet)",
+        keyPoint:
+          "Strong verb (melde ab, meldest ab, meldete ab, abgemeldet)",
         examples: [
           "Ich melde mich ab. (I sign off.)",
           "Er wurde abgemeldet. (He was deregistered.)",
@@ -3309,7 +3544,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abmessen",
         translation: "to measure off",
-        keyPoint: "Strong verb (messe ab, misst ab, maß ab, abgemessen)",
+        keyPoint:
+          "Strong verb (messe ab, misst ab, maß ab, abgemessen)",
         examples: [
           "Ich messe die Länge ab. (I measure off the length.)",
           "Alles wurde abgemessen. (Everything was measured off.)",
@@ -3328,7 +3564,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abmühen",
         translation: "to struggle/toil",
-        keyPoint: "Strong verb (mühe ab, mühst ab, mühte ab, abgemüht)",
+        keyPoint:
+          "Strong verb (mühe ab, mühst ab, mühte ab, abgemüht)",
         examples: [
           "Ich mühe mich ab. (I struggle.)",
           "Er hat sich abgemüht. (He toiled hard.)",
@@ -3337,7 +3574,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abnagen",
         translation: "to gnaw off",
-        keyPoint: "Strong verb (nage ab, nagst ab, nagte ab, abgenagt)",
+        keyPoint:
+          "Strong verb (nage ab, nagst ab, nagte ab, abgenagt)",
         examples: [
           "Der Hund nagt den Knochen ab. (The dog gnaws off the bone.)",
           "Alles wurde abgenagt. (Everything was gnawed off.)",
@@ -3346,7 +3584,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abnähen",
         translation: "to sew off/hem",
-        keyPoint: "Strong verb (nähe ab, nähst ab, nähte ab, abgenäht)",
+        keyPoint:
+          "Strong verb (nähe ab, nähst ab, nähte ab, abgenäht)",
         examples: [
           "Ich nähe den Saum ab. (I hem the seam.)",
           "Das Kleid wurde abgenäht. (The dress was hemmed.)",
@@ -3355,7 +3594,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abnutzen",
         translation: "to wear out",
-        keyPoint: "Strong verb (nutze ab, nutzt ab, nutzte ab, abgenutzt)",
+        keyPoint:
+          "Strong verb (nutze ab, nutzt ab, nutzte ab, abgenutzt)",
         examples: [
           "Die Schuhe nutzen ab. (The shoes wear out.)",
           "Alles wurde abgenutzt. (Everything was worn out.)",
@@ -3364,7 +3604,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abpacken",
         translation: "to pack off/package",
-        keyPoint: "Strong verb (packe ab, packst ab, packte ab, abgepackt)",
+        keyPoint:
+          "Strong verb (packe ab, packst ab, packte ab, abgepackt)",
         examples: [
           "Ich packe die Waren ab. (I package the goods.)",
           "Alles wurde abgepackt. (Everything was packaged.)",
@@ -3373,7 +3614,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abpausen",
         translation: "to trace/copy",
-        keyPoint: "Strong verb (pause ab, pausst ab, pauste ab, abgepaust)",
+        keyPoint:
+          "Strong verb (pause ab, pausst ab, pauste ab, abgepaust)",
         examples: [
           "Ich pause das Bild ab. (I trace the picture.)",
           "Die Zeichnung wurde abgepaust. (The drawing was traced.)",
@@ -3382,7 +3624,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abpeilen",
         translation: "to take bearings",
-        keyPoint: "Strong verb (peile ab, peilst ab, peilte ab, abgepeilt)",
+        keyPoint:
+          "Strong verb (peile ab, peilst ab, peilte ab, abgepeilt)",
         examples: [
           "Ich peile die Position ab. (I take bearings on the position.)",
           "Der Kurs wurde abgepeilt. (The course was determined.)",
@@ -3401,7 +3644,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abprallen",
         translation: "to bounce off",
-        keyPoint: "Strong verb (pralle ab, prallst ab, prallte ab, abgeprallt)",
+        keyPoint:
+          "Strong verb (pralle ab, prallst ab, prallte ab, abgeprallt)",
         examples: [
           "Der Ball prallt ab. (The ball bounces off.)",
           "Das Geschoss ist abgeprallt. (The projectile bounced off.)",
@@ -3410,7 +3654,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abputzen",
         translation: "to clean off/wipe",
-        keyPoint: "Strong verb (putze ab, putzt ab, putzte ab, abgeputzt)",
+        keyPoint:
+          "Strong verb (putze ab, putzt ab, putzte ab, abgeputzt)",
         examples: [
           "Ich putze den Schmutz ab. (I clean off the dirt.)",
           "Alles wurde abgeputzt. (Everything was wiped clean.)",
@@ -3419,16 +3664,28 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abquälen",
         translation: "to torment/struggle",
-        keyPoint: "Strong verb (quäle ab, quälst ab, quälte ab, abgequält)",
+        keyPoint:
+          "Strong verb (quäle ab, quälst ab, quälte ab, abgequält)",
         examples: [
           "Ich quäle mich ab. (I torment myself.)",
           "Er hat sich abgequält. (He struggled hard.)",
         ],
       },
       {
+        verb: "abraten",
+        translation: "to advise against",
+        keyPoint:
+          "Strong verb (rate ab, rätst ab, riet ab, abgeraten)",
+        examples: [
+          "Ich rate dir ab. (I advise you against it.)",
+          "Davon wurde abgeraten. (That was advised against.)",
+        ],
+      },
+      {
         verb: "abräumen",
         translation: "to clear away",
-        keyPoint: "Strong verb (räume ab, räumst ab, räumte ab, abgeräumt)",
+        keyPoint:
+          "Strong verb (räume ab, räumst ab, räumte ab, abgeräumt)",
         examples: [
           "Ich räume den Tisch ab. (I clear the table.)",
           "Alles wurde abgeräumt. (Everything was cleared away.)",
@@ -3457,7 +3714,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abreiben",
         translation: "to rub off",
-        keyPoint: "Strong verb (reibe ab, reibst ab, rieb ab, abgerieben)",
+        keyPoint:
+          "Strong verb (reibe ab, reibst ab, rieb ab, abgerieben)",
         examples: [
           "Ich reibe die Haut ab. (I rub off the skin.)",
           "Die Farbe wurde abgerieben. (The paint was rubbed off.)",
@@ -3466,7 +3724,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abreisen",
         translation: "to depart/leave",
-        keyPoint: "Strong verb (reise ab, reist ab, reiste ab, abgereist)",
+        keyPoint:
+          "Strong verb (reise ab, reist ab, reiste ab, abgereist)",
         examples: [
           "Wir reisen morgen ab. (We depart tomorrow.)",
           "Sie sind abgereist. (They have departed.)",
@@ -3475,7 +3734,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abreißen",
         translation: "to tear off/demolish",
-        keyPoint: "Strong verb (reiße ab, reißt ab, riss ab, abgerissen)",
+        keyPoint:
+          "Strong verb (reiße ab, reißt ab, riss ab, abgerissen)",
         examples: [
           "Ich reiße das Papier ab. (I tear off the paper.)",
           "Das Haus wurde abgerissen. (The house was demolished.)",
@@ -3504,7 +3764,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abrollen",
         translation: "to roll off/unroll",
-        keyPoint: "Strong verb (rolle ab, rollst ab, rollte ab, abgerollt)",
+        keyPoint:
+          "Strong verb (rolle ab, rollst ab, rollte ab, abgerollt)",
         examples: [
           "Der Ball rollt ab. (The ball rolls off.)",
           "Das Kabel wurde abgerollt. (The cable was unrolled.)",
@@ -3513,7 +3774,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abrücken",
         translation: "to move away",
-        keyPoint: "Strong verb (rücke ab, rückst ab, rückte ab, abgerückt)",
+        keyPoint:
+          "Strong verb (rücke ab, rückst ab, rückte ab, abgerückt)",
         examples: [
           "Ich rücke vom Tisch ab. (I move away from the table.)",
           "Die Truppen sind abgerückt. (The troops moved away.)",
@@ -3522,7 +3784,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abrufen",
         translation: "to call up/retrieve",
-        keyPoint: "Strong verb (rufe ab, rufst ab, rief ab, abgerufen)",
+        keyPoint:
+          "Strong verb (rufe ab, rufst ab, rief ab, abgerufen)",
         examples: [
           "Ich rufe die Daten ab. (I retrieve the data.)",
           "Die Information wurde abgerufen. (The information was retrieved.)",
@@ -3531,7 +3794,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abrunden",
         translation: "to round off",
-        keyPoint: "Strong verb (runde ab, rundest ab, rundete ab, abgerundet)",
+        keyPoint:
+          "Strong verb (runde ab, rundest ab, rundete ab, abgerundet)",
         examples: [
           "Ich runde die Zahl ab. (I round off the number.)",
           "Der Betrag wurde abgerundet. (The amount was rounded off.)",
@@ -3550,7 +3814,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "absacken",
         translation: "to sag/drop",
-        keyPoint: "Strong verb (sacke ab, sackst ab, sackte ab, abgesackt)",
+        keyPoint:
+          "Strong verb (sacke ab, sackst ab, sackte ab, abgesackt)",
         examples: [
           "Die Aktie sackt ab. (The stock drops.)",
           "Das Niveau ist abgesackt. (The level has dropped.)",
@@ -3559,7 +3824,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "absägen",
         translation: "to saw off",
-        keyPoint: "Strong verb (säge ab, sägst ab, sägte ab, abgesägt)",
+        keyPoint:
+          "Strong verb (säge ab, sägst ab, sägte ab, abgesägt)",
         examples: [
           "Ich säge den Ast ab. (I saw off the branch.)",
           "Das Brett wurde abgesägt. (The board was sawed off.)",
@@ -3568,7 +3834,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "absahnen",
         translation: "to skim off/profit",
-        keyPoint: "Strong verb (sahne ab, sahnst ab, sahnte ab, abgesahnt)",
+        keyPoint:
+          "Strong verb (sahne ab, sahnst ab, sahnte ab, abgesahnt)",
         examples: [
           "Ich sahne ab. (I profit/skim off.)",
           "Er hat abgesahnt. (He made a profit.)",
@@ -3597,7 +3864,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abschälen",
         translation: "to peel off",
-        keyPoint: "Strong verb (schäle ab, schälst ab, schälte ab, abgeschält)",
+        keyPoint:
+          "Strong verb (schäle ab, schälst ab, schälte ab, abgeschält)",
         examples: [
           "Ich schäle die Kartoffel ab. (I peel the potato.)",
           "Die Haut wurde abgeschält. (The skin was peeled off.)",
@@ -3646,7 +3914,8 @@ export const germanIrregularVerbs: VerbGroup[] = [
       {
         verb: "abscheren",
         translation: "to shear off",
-        keyPoint: "Strong verb (schere ab, scherst ab, schor ab, abgeschoren)",
+        keyPoint:
+          "Strong verb (schere ab, scherst ab, schor ab, abgeschoren)",
         examples: [
           "Ich schere die Wolle ab. (I shear off the wool.)",
           "Das Haar wurde abgeschoren. (The hair was sheared off.)",
