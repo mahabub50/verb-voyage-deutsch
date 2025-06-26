@@ -2214,6 +2214,7 @@ export const germanRegularVerbs: VerbGroup[] = [
         ],
       },
 
+     
       {
         verb: "gähnen",
         translation: "to yawn",
@@ -2518,6 +2519,160 @@ export const germanRegularVerbs: VerbGroup[] = [
         examples: [
           "Ich dünste das Gemüse. (I braise the vegetables.)",
           "Das Fleisch wurde gedünstet. (The meat was braised.)",
+        ],
+      },
+      // Essential verbs that were missing
+      {
+        verb: "springen",
+        translation: "to jump",
+        keyPoint: "Movement verb - requires 'sein' as auxiliary",
+        examples: [
+          "Das Kind springt ins Wasser. (The child jumps into the water.)",
+          "Er ist über den Zaun gesprungen. (He jumped over the fence.)",
+        ],
+      },
+      {
+        verb: "wandern",
+        translation: "to hike, to wander",
+        keyPoint: "Outdoor activity verb - requires 'sein' for movement",
+        examples: [
+          "Wir wandern in den Bergen. (We hike in the mountains.)",
+          "Sie ist durch den Wald gewandert. (She wandered through the forest.)",
+        ],
+      },
+      {
+        verb: "besuchen",
+        translation: "to visit",
+        keyPoint: "Social interaction verb",
+        examples: [
+          "Ich besuche meine Großmutter. (I visit my grandmother.)",
+          "Wir haben das Museum besucht. (We visited the museum.)",
+        ],
+      },
+      {
+        verb: "antworten",
+        translation: "to answer",
+        keyPoint: "Communication verb - takes dative object",
+        examples: [
+          "Ich antworte auf die Frage. (I answer the question.)",
+          "Er hat mir nicht geantwortet. (He didn't answer me.)",
+        ],
+      },
+      {
+        verb: "diskutieren",
+        translation: "to discuss",
+        keyPoint: "Communication verb",
+        examples: [
+          "Wir diskutieren über Politik. (We discuss politics.)",
+          "Sie haben lange diskutiert. (They discussed for a long time.)",
+        ],
+      },
+      {
+        verb: "duschen",
+        translation: "to shower",
+        keyPoint: "Personal hygiene verb",
+        examples: [
+          "Ich dusche jeden Morgen. (I shower every morning.)",
+          "Er hat kalt geduscht. (He took a cold shower.)",
+        ],
+      },
+      {
+        verb: "aufräumen",
+        translation: "to clean up, to tidy",
+        keyPoint: "Separable verb - cleaning activity",
+        examples: [
+          "Ich räume mein Zimmer auf. (I clean up my room.)",
+          "Wir haben die Küche aufgeräumt. (We tidied the kitchen.)",
+        ],
+      },
+      {
+        verb: "ärgern",
+        translation: "to annoy, to anger",
+        keyPoint: "Emotion verb - often reflexive",
+        examples: [
+          "Das ärgert mich sehr. (That annoys me a lot.)",
+          "Ich habe mich über ihn geärgert. (I was annoyed with him.)",
+        ],
+      },
+      {
+        verb: "fürchten",
+        translation: "to fear",
+        keyPoint: "Emotion verb - often reflexive",
+        examples: [
+          "Ich fürchte das Gewitter. (I fear the thunderstorm.)",
+          "Sie fürchtet sich vor Spinnen. (She's afraid of spiders.)",
+        ],
+      },
+      {
+        verb: "sorgen",
+        translation: "to worry, to take care",
+        keyPoint: "Care and concern verb - often reflexive",
+        examples: [
+          "Ich sorge für meine Familie. (I take care of my family.)",
+          "Sie sorgt sich um ihn. (She worries about him.)",
+        ],
+      },
+      {
+        verb: "treffen",
+        translation: "to meet, to hit",
+        keyPoint: "Social interaction or aim verb",
+        examples: [
+          "Ich treffe meine Freunde. (I meet my friends.)",
+          "Der Pfeil hat das Ziel getroffen. (The arrow hit the target.)",
+        ],
+      },
+      {
+        verb: "einladen",
+        translation: "to invite",
+        keyPoint: "Separable verb - social interaction",
+        examples: [
+          "Ich lade dich ein. (I invite you.)",
+          "Sie hat uns zum Essen eingeladen. (She invited us for dinner.)",
+        ],
+      },
+      {
+        verb: "kosten",
+        translation: "to cost",
+        keyPoint: "Price and value verb",
+        examples: [
+          "Was kostet das? (What does that cost?)",
+          "Das Auto hat viel gekostet. (The car cost a lot.)",
+        ],
+      },
+      {
+        verb: "heilen",
+        translation: "to heal",
+        keyPoint: "Health and recovery verb",
+        examples: [
+          "Die Wunde heilt gut. (The wound heals well.)",
+          "Der Arzt hat ihn geheilt. (The doctor healed him.)",
+        ],
+      },
+      {
+        verb: "erkälten",
+        translation: "to catch a cold",
+        keyPoint: "Health verb - usually reflexive",
+        examples: [
+          "Ich erkälte mich leicht. (I catch colds easily.)",
+          "Sie hat sich erkältet. (She caught a cold.)",
+        ],
+      },
+      {
+        verb: "husten",
+        translation: "to cough",
+        keyPoint: "Health symptom verb",
+        examples: [
+          "Das Kind hustet viel. (The child coughs a lot.)",
+          "Er hat die ganze Nacht gehustet. (He coughed all night.)",
+        ],
+      },
+      {
+        verb: "niesen",
+        translation: "to sneeze",
+        keyPoint: "Health symptom verb",
+        examples: [
+          "Ich niese wegen der Pollen. (I sneeze because of the pollen.)",
+          "Sie hat dreimal geniest. (She sneezed three times.)",
         ],
       },
     ],
