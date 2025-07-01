@@ -163,7 +163,7 @@ const VerbCard = ({
               prefix
             )}`}
           ></div>
-          <CardTitle className="flex items-center justify-between pt-2">
+          <CardTitle className="flex items-center justify-between pt-2" onClick={handleToggleExpand}>
             <div className="flex items-center space-x-3">
               <motion.div
                 className={`w-10 h-10 bg-gradient-to-r ${getGradientColors(
@@ -189,7 +189,7 @@ const VerbCard = ({
               <Button
                 variant="ghost"
                 size="sm"
-                onClick={handleToggleExpand}
+                
                 className={`h-10 w-10 p-0 rounded-xl transition-all duration-300 hover:bg-gradient-to-r ${getGradientColors(
                   prefix
                 )} hover:text-white ${isExpanded ? "bg-gray-100" : ""}`}
